@@ -1,0 +1,13 @@
+<!-- Data Layer -->
+<script>
+  analyticsEvent = function() {};
+  analyticsSocial = function() {};
+  analyticsVPV = function() {};
+  analyticsClearVPV = function() {};
+  analyticsForm = function() {};
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    {% if  page.title == 'error' %}'error type': '404'{% endif %}
+  });
+</script>
+<!-- End Data Layer -->
