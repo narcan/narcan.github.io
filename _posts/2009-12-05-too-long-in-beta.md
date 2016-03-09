@@ -18,6 +18,8 @@ I put my drink back down on the little plastic foldaway airplane table. In the d
 
 The sky beneath us was distant. A falling ocean, a waterfall of plumes and sprays, with murderous roars muffled by the thick glass of the airplane windows.
 
+<!-- more -->
+
 Crazy vibrations in my head, but not from the airwaves. And no, not politics, I'm tired of politics. It's the Israelis and the Palestinians, and Healthcare and the Republicans putting it down and the Democrats sitting on the sidelines jacking off as they always do...they just took 8 years to replace Clinton with Obama, and the results couldn't be more similar...no, I don't want to talk about politics.
 
 The noise coming at me is of a different type, filling me with anxiety and a paralyzing fear. There is possibility on the horizon again; the scent of purpose within my grasp, like the smell of warm apples you can tell are coming from a pie in your oven.

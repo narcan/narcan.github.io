@@ -36,6 +36,8 @@ The left mouse button on my notebook was missing, and the other one was stuck. T
 
 No wonder I'm pissed.
 
+<!-- more -->
+
 ---
 
 In a split-second I couldn't control, my feet exploded against the floor, throwing my torso into the air. My throat grunted a war whoop, my hands grabbed my PC and heaved it clear across the room, smashing it against the wall with a violent garble of plastic and metal being shoved against each other and uncomfortable angles. The hard plastic around the case cracked in one sharp snap that sounded like a femur splitting in two. I stood at my desk, breathing heavily, my sleeves rolled up and my top two buttons on my shirt already undone. I bared my teeth, totally out of control. A coworker was looking at me for obvious reasons and in a rage of animalistic rage I pointed at him aggressively.

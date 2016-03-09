@@ -19,6 +19,8 @@ The evening plan had been to finish up some chinese food left over from last nig
 
 As I started to sit up from the couch to head to my desk I saw an email come up on my phone, and just before the notification screen went dark it showed me the name. “Ben?” I thought, “haven't seen him since high school...I wonder if he's in town or something. That'd be nice...”
 
+<!-- more -->
+
 But Ben's news was terrible. Our friend, Chris, had been killed in an Avalanche in Washington just a few hours before. Ben had found out about it while checking the weather report and looked in to it before contacting me and the rest of our old group from high school. We'd mostly drifted, the time and the distance coming between us, as is so common. Life I guess. But sometimes things really get smashed into perspective, don't they? Shit, in the face of this, who cares about the weather?
 
 Fuck, that was hard news to hear. It's the closest death to me yet, and even though we hadn't seen each other in a few years, I took it much harder than I ever would have guessed. It sucked the breath right out of me and I sat there, motionless on the couch, the TV screen I was about to turn off still flickering images of something that now seemed about as irrelevant as the macroeconomic class I have in the morning. I didn't know which one of the thoughts in my head to focus on, which one to pull out of the tazmanian devil whirling around in my mind to start processing.

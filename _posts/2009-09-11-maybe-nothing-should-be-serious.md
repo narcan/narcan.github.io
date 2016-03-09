@@ -22,6 +22,8 @@ tags:
 
 “That's incredible. Truly _increíble_, man. Did you know a ticket from Amsterdam to Barcelona would cost me just as much?” I didn't believe it when I was looking for a ticket to go meet up with him, and it still didn't make any sense, even two days later.
 
+<!-- more -->
+
 “I know, right? That's a €50 ticket. It's extortion!”
 
 “Well, it'd be extortion if there was a rhyme or reason to it. The fact that Jeff flew to Madrid on $200 and you can fly to JFK for 500 while I'm paying $1600 to go to Brasilia is just plain chaos. Who _prices_ these things?”

@@ -22,6 +22,8 @@ tags:
 ---
 The gentle burning of the cheap DeWars they serve on transatlantic KLM flights reminded me of the sun I'd felt on my skin not six hours ago in the Old South of Amsterdam. I'd been sitting on a comfortable cushion in the open courtyard, sipping a typical Dutch latté while I waited for an old friend at the College Hotel near the museumplein of the old Dutch Capital.
 
+<!-- more -->
+
 But for whiskey to feel that way you have to drink it right. And it's complicated. Draw half a breath, and then take a sip. And remember, it works best with the middle to low tiers of whiskies, or any scotch younger than ten years. Twelve is too old, too smooth for the right effect. You need the harsh stuff for the right kind of burning. When the liquor is in your mouth, swirl it a bit, but not too much. It's not wine, dammit, and isn't activated by oxygen, but rather by settling into itself. So swirl it in your mouth just enough to coat the interior of your oral cavity with the liquid gold and then open your lips and take another slight breath, stopping just before it burns to the point where your cough instinct takes over. Don't let that happen --- that's bad form and you'll look like a freshman jackass, so avoid it at all costs.
 
 As soon as you feel yourself reach that burning point, stop inhaling and begin slowly letting the air out. If you can, simultaneously begin swallowing the whiskey, or rather, letting it fall down your throat. You'll think of the sun on your skin right away, and you'll know what I mean.

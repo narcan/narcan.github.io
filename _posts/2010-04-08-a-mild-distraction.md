@@ -22,6 +22,8 @@ Like mountains hanging above the horizon, I simply am what I am --- without apol
 
 A few weeks ago I crossed the Atlantic Ocean four times in as many days. Or was it a few months ago? Whenever; it was for logistical reasons, and I learned the hard way that the human body cannot cross the Atlantic Ocean that often without violent consequences. The dry air of the airplane cabin cracks your lips and sucks all moisture from your pores until there is no water, just oil. Sometime after the first twelve hours your skin starts to smell like cannola and your hair becomes weighed down, thick and disgusting to the touch. In the fun house mirrors of those tiny airplane bathrooms, you realize your facial hair grows at an alarming rate at altitude and that there is no amount of water you can throw on your face to feel awake. So you go back to your seat and ask for another scotch...
 
+<!-- more -->
+
 Yeah...
 
 At duty free shops across Europe I bought many liters of various whiskeys, running amok and going crazy between New York, Reykjavic, Barcelona, Amsterdam, Dublin, London and then a quick hop to Copenhagen. For reasons no one can explain, they kept sending me back to the Dutch water capital, the one place I'm still trying to leave behind. It was all a matter of finishing the work I owed to a complex client, a hydra of an organization with serious self-identity issues. They never knew who was in charge, and I couldn't talk to anyone there long enough to figure out just who it was that wanted me there so badly. But they never seem to be satisfied, the word always coming down from above, calling me back.

@@ -50,6 +50,17 @@ comments: false
   <div class="entry-content">
     {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
+    <div class="entry-meta float-right read"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-level-down"></i> read more...</a></div>
+
+        {% if post.author == "Pedro Ávila" %}
+        <div><img src="{{ site.url }}/images/bg_sig-pedro.png"></div>
+        {% elsif post.author == "Oscar Bjørne" %}
+        <div><img src="{{ site.url }}/images/bg_sig-oscar.png"></div>
+        {% elsif post.author == "Dylan Cormack" %}
+        <div><img src="{{ site.url }}/images/bg_sig-dylan.png"></div>
+        {% else %}
+        <div><img src="{{ site.url }}/images/bg_ink.png"></div>
+        {% endif %}
     {% else %}
       {{ post.content }}
 

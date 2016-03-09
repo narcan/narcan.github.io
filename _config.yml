@@ -1,6 +1,6 @@
 title:            Written Rhetoric
 description:      musings of a writing traveler.
-#disqus_shortname: neohpstrtheme # put your disqus here
+disqus_shortname: writingtraveler
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/bg_ink.png # logo visible in the topbar
@@ -41,7 +41,7 @@ menu:
 owner:
   name:           Pedro Ávila
   site:           http://about.me/pedroavila
-  avatar:         images/avatar.jpg
+  avatar:         https://s.gravatar.com/avatar/823dfb988d6413e1cff0bd5aadfad46b?s=80
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
@@ -62,7 +62,7 @@ social:
 #  - title: "youtube"
 #    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 # Background image to be tiled on all pages
-background: 'images/bg_rock-pattern.jpg'
+background: 'images/bg_rock-pattern.png'
 
 # Analytics and webmaster tools stuff goes here
 google_tag_manager: 'GTM-P2NRC8'
@@ -89,7 +89,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 # if true, shows the floatting share buttons
 float_share: false
