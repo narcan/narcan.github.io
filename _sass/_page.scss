@@ -209,6 +209,42 @@ header .entry-meta {
 	}
 }
 
+.keep-reading {
+	@include font-rem(16);
+	font-family: $heading-font;
+	/*text-transform: uppercase;*/
+	color: lighten($base-color,30);
+	a {
+		color: lighten($base-color,30);
+	}
+	.vcard {
+		&:before {
+			content: " by ";
+		}
+	}
+	.tag {
+		display: inline-block;
+		margin: 4px;
+		color: $white;
+		@include rounded(3px);
+		background-color: lighten($base-color,50);
+		span {
+			float: left;
+			padding: 2px 6px;
+		}
+		.count {
+			background-color: lighten($base-color,40);
+			@include border-radius(3px,3px,0,0);
+		}
+		&:hover {
+			background-color: lighten($base-color,40);
+		}
+	}
+	.entry-reading-time {
+		float: right;
+	}
+}
+
 // Read More Module
 .read-more {
 	position: relative;
@@ -546,7 +582,7 @@ ul.social-buttons li a:active {
 	/*box-shadow: 0px 6px 5px rgba(0, 0, 0, 0.4);*/
 }
 .header-menu-overflow ul li a{
-	color: $white;
+	/*color: $white;*/
 }
 
 .header-menu-top .sub-item{
@@ -579,10 +615,10 @@ ul.social-buttons li a:active {
   width: $menu-height;
   height: $menu-height;
   float: left;
-  padding: 10px;
+  padding: 5px 10px 20px 10px;
 }
 .title-image{
-  height: $menu-height;
+  height: $menu-height - 20;
   float: left;
   padding: 10px;
 }

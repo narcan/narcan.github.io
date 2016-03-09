@@ -5,13 +5,11 @@
     <ul class="header-item-container">
       <li class="header-item-title header-toggle "><a href="#menu"><h2><i class="fa fa-bars"></i></h2></a></li>
       <li class="header-item-title">
-        <a href="{{site.url}}/" class="title">
+        <a href="{{site.url}}/">
           {% if site.logo %}
-            <img class="logo" src="{{site.url}}/{{ site.logo }}" alt="{{ site.title }}">
-            <img class="logo" src="{{site.url}}/{{ site.title-image }}" alt="{{ site.title }}">
-          {% else %}
-            {{site.title}}
+            <img class="logo" src="{{site.url}}/{{ site.logo }}" alt="{{ site.title }}"/>
           {% endif %}
+          <a href="{{site.url}}/" class="title"> <img class="title-image" src="{{site.url}}/{{ site.title-image }}" alt="{{ site.title }}"/></a>
         </a>
       </li>
       {% for menu in site.menu reversed %}
