@@ -29,6 +29,7 @@ body {
 			border-bottom-style: solid;
 		}
 	}
+	background: url('/images/bg_paper-pattern.png') repeat top right;
 }
 
 ///sections
@@ -173,6 +174,7 @@ header .entry-meta {
 			padding: 50px 80px;
 			margin: 0 auto 30px auto;
 		}
+		background: url('/images/bg_paper-pattern.png') repeat top right;
 	}
 	.entry-meta {
 		margin: 50px 30px 30px;
@@ -264,6 +266,7 @@ header .entry-meta {
 	}
 	text-align: center;
 	@include clearfix;
+	background: url('/images/bg_paper-pattern.png') repeat top right;
 }
 .read-more-header {
 	position: absolute;
