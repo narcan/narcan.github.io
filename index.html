@@ -50,7 +50,7 @@ comments: false
   <div class="entry-content">
     {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
-    <div class="keep-reading float-right analyticsEvent"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-level-down"></i> keep reading...</a></div>
+    <div class="keep-reading float-right analyticsEvent"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}">...keep reading <i class="fa fa-level-down"></i></a></div>
 
         {% if post.author == "Pedro Ávila" %}
         <div><img src="{{ site.url }}/images/bg_sig-pedro.png"></div>
