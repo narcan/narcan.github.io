@@ -3,21 +3,15 @@
 <div id="definition">**Rhetoric** [ret-er-ik] — _The deliberate exploitation of eloquence for the most persuasive effect in communication._
 </div>
 
-I like words. If you're here there's a chance we have that in common.
-
-<div id="intro">[Written Rhetoric![The Written Rhetoric Crew](/wp-content/uploads/images/profiles/crewProfile.jpg)](http://www.facebook.com/home.php#/group.php?gid=58515676569 "facebook Written Rhetoric") 
-
 Written Rhetoric is a collection of haphazard sagas collected alongside twisted and strange commentary that varies in nature, humor and darkness. [Read on](http://writtenrhetoric.com "Written Rhetoric Blog").
-</div>
 
-<div id="editor">[![Pedro Ávila](/wp-content/uploads/images/profiles/peteProfile.jpg)Pedro Ávila](mailto:pedro@wordythings.com "Email Pedro") 
+## Editor[![Editor](images/profiles/peteProfile.jpg)Pedro Ávila](mailto:pedro@wordythings.com "Email Pedro") 
 
 For a stable, sane, productive member of society (all arguable, but let’s not complicate things), I’m far too mobile and unrooted. I travel quite a bit for a job that is simultaneously my greatest privilege and my worst burden.
 
-So I write. And I write. Travel pieces, political journalism (a stretch from ranting but, still), short stories, poetry and other such riff-raff — it’s all road writing. I contribute to a handful of publications and will just keep going until something gives out, or someone gives in. Yeah.
+So I write. And I write. Travel pieces, political journalism (a stretch from ranting but, still), short stories, poetry and other non-sense. I will keep going until something gives out, or someone gives in. Yeah.
 
 But _who cares_? You’re not here for this self-glorifying crap; you’re here because you want to see the merchandise; _the stuff_. Ok, then. [Have at it](http://writtenrhetoric.com/stories/ "Written Rhetoric Stories").
-</div>
 
 <div class="contributor_l">[![Oscar Bjørne](images/profiles/oscarProfile.jpg)Oscar Bjørne](http://www.facebook.com/people/Oscar-Bjrne/1539732961 "facebook Oscar") 
 
