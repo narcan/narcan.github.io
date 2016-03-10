@@ -1,36 +1,35 @@
-# Neo-HPSTR Jekyll Theme
+# Written Rhetoric
 
-Neo-HPSTR Jekyll is a responsive and modern blog template.
+<div id="definition">**Rhetoric** [ret-er-ik] — _The deliberate exploitation of eloquence for the most persuasive effect in communication._
+</div>
 
-Based on https://github.com/mmistakes/hpstr-jekyll-theme
+I like words. If you're here there's a chance we have that in common.
 
-Demo: http://aronbordin.com/neo-hpstr-jekyll-theme
+<div id="intro">[Written Rhetoric![The Written Rhetoric Crew](/wp-content/uploads/images/profiles/crewProfile.jpg)](http://www.facebook.com/home.php#/group.php?gid=58515676569 "facebook Written Rhetoric") 
 
-# Live Demo
+Written Rhetoric is a collection of haphazard sagas collected alongside twisted and strange commentary that varies in nature, humor and darkness. [Read on](http://writtenrhetoric.com "Written Rhetoric Blog").
+</div>
 
-You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
+<div id="editor">[![Pedro Ávila](/wp-content/uploads/images/profiles/peteProfile.jpg)Pedro Ávila](mailto:pedro@wordythings.com "Email Pedro") 
 
+For a stable, sane, productive member of society (all arguable, but let’s not complicate things), I’m far too mobile and unrooted. I travel quite a bit for a job that is simultaneously my greatest privilege and my worst burden.
 
-## What Neo-HPSTR brings to the table:
+So I write. And I write. Travel pieces, political journalism (a stretch from ranting but, still), short stories, poetry and other such riff-raff — it’s all road writing. I contribute to a handful of publications and will just keep going until something gives out, or someone gives in. Yeah.
 
-* Modern design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet topbar animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* Author panel, with social links
-* Read more tag support(similar with Wordpress ).
+But _who cares_? You’re not here for this self-glorifying crap; you’re here because you want to see the merchandise; _the stuff_. Ok, then. [Have at it](http://writtenrhetoric.com/stories/ "Written Rhetoric Stories").
+</div>
 
-![Preview](http://aron-bordin.github.io/neo-hpstr-jekyll-theme/images/neo-hpstr-jekyll-theme-preview.png)
+<div class="contributor_l">[![Oscar Bjørne](images/profiles/oscarProfile.jpg)Oscar Bjørne](http://www.facebook.com/people/Oscar-Bjrne/1539732961 "facebook Oscar") 
 
+Oscar’s day job consists of saying & writing banter for which corporate executives pay outrageous amounts to shelve and ignore. He’s a consultant at one of the largest software firms in the world, and his clients are in major capitals all over the globe. From São Paulo to Prague, from Oslo to Riyadh, Oscar jots his notes on travel, corporate life, fast adventures and a company dime and puts his words [here](http://writtenrhetoric.com/stories "Written Rhetoric Stories").
+</div>
 
----
+<div class="contributor_r">[![Dylan Cormack](/wp-content/uploads/images/profiles/dylanProfile.jpg)Dylan Cormack](http://www.facebook.com/people/Dylan-Cormack/1539192870 "facebook Dylan") 
 
-## Getting Started
+Dylan is our political correspondent, bold and fiery as his fuse is short. He is a well-read, on-location kind of writer and is no stranger to travel. Intimately familiar with many distant and dark corners of the Earth, Dylan brings a new kind of blood to his vicious style of journalism. He sends his words, notes and effusive rants of observation, commentary and occasional judgement to be read [here](http://writtenrhetoric.com "Written Rhetoric Blog").
+</div>
 
-Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+<div class="legal">**Written Rhetoric** is _not_ collecting your information. If we ever get your information it will be because you gave it to us and the purpose will be very clear. If that happens we will not use your information for any purpose other than what we tell you, and certainly not for any kind of marketing, nor will we sell your information to any third parties. _Seriously._
+</div>
 
-To learn how to install and use this theme check out the [Setup Guid](http://aronbordin.com/neo-hpstr-jekyll-theme//theme-setup/) for more information.
+Written Rhetoric is powered by Jekyll. The design is based on the [NeoHpstr theme](https://github.com/mmistakes/hpstr-jekyll-theme).
