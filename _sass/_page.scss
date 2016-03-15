@@ -2,8 +2,9 @@ body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	/*background-color: $body-color;*/
+	background-color: $body-color;
 	overflow-x: hidden;
+	background: url('/images/bg_rock-pattern.png') fixed repeat top right;
 }
 
 article {
@@ -145,7 +146,7 @@ header .entry-meta {
 		margin: 40px 2px 20px 2px;
 		padding: 10px 15px;
 		/*background-color: $white;*/
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.1);
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.9);
 		@include rounded(3px);
 		@media #{$medium} {
 			margin-left: 10px;

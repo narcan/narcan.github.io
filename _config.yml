@@ -64,7 +64,7 @@ social:
 #  - title: "youtube"
 #    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 # Background image to be tiled on all pages
-background: images/bg_rock-pattern.png
+#background: 'images/bg_rock-pattern.png'
 
 # Analytics and webmaster tools stuff goes here
 google_tag_manager: 'GTM-P2NRC8'
