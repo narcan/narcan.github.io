@@ -4,7 +4,7 @@ body {
 	width: 100%;
 	background-color: $body-color;
 	overflow-x: hidden;
-	background: url('/images/bg_rock-pattern.png') fixed repeat top right;
+	background: url('/images/bg_rock-light-pattern.png') fixed top right;
 }
 
 article {
@@ -398,7 +398,7 @@ ul.social-buttons li a:active {
 	}
 	article {
 		/*background-color: $white;*/
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
+		box-shadow: 0 14px 28px rgba(0,0,0,0.25);/*0 0 0 0, 0 6px 12px rgba($base-color,0.1);*/
 		@include rounded(3px);
 		margin-bottom: 20px;
 		padding: 25px 15px;
