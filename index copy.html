@@ -6,7 +6,6 @@ comments: false
 ---
 
 {% for post in paginator.posts %}
-<br>
 <article class="hentry">
   <header>
     {% if post.image.feature %}
@@ -54,13 +53,13 @@ comments: false
     <div class="keep-reading float-right analyticsEvent"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}">...keep reading <i class="fa fa-level-down"></i></a></div>
 
         {% if post.author == "Pedro Ávila" %}
-        <div><a href="#"><img src="{{ site.url }}/images/bg_sig-pedro.png"></a></div>
+        <div><img src="{{ site.url }}/images/bg_sig-pedro.png"></div>
         {% elsif post.author == "Oscar Bjørne" %}
-        <div><a href="#"><img src="{{ site.url }}/images/bg_sig-oscar.png"></a></div>
+        <div><img src="{{ site.url }}/images/bg_sig-oscar.png"></div>
         {% elsif post.author == "Dylan Cormack" %}
-        <div><a href="#"><img src="{{ site.url }}/images/bg_sig-dylan.png"></a></div>
+        <div><img src="{{ site.url }}/images/bg_sig-dylan.png"></div>
         {% else %}
-        <div><a href="#"><img src="{{ site.url }}/images/bg_ink.png"></a></div>
+        <div><img src="{{ site.url }}/images/bg_ink.png"></div>
         {% endif %}
     {% else %}
       {{ post.content }}

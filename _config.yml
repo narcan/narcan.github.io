@@ -1,12 +1,13 @@
 title:            Written Rhetoric
 description:      musings of a writing traveler.
+brief:            "a collection of haphazard sagas collected alongside twisted and strange commentary that varies in nature, humor and darkness."
 disqus_shortname: #writingtraveler
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png
 # The site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://writtenrhetoric.com # the base hostname & protocol for the site
+url: #http://writtenrhetoric.com # the base hostname & protocol for the site
 baseurl: "" # the subpath of the site, e.g. /blog/
 
 # draw your top menu here
@@ -54,8 +55,10 @@ twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
-  - title: "github"
-    url: "https://github.com/narcan"
+  - title: "facebook"
+    url: "https://facebook.com/writtenrhetoric"
+  - title: "google plus"
+    url: ""
 #  - title: "linkedin"
 #    url: "https://br.linkedin.com/in/aronbordin"
 #  - title: "youtube"
@@ -89,6 +92,7 @@ permalink:   /:year/:month/:title/
 
 # Amount of post to show on home page
 paginate: 10
+#paginate_path: "/blog/page:num/"
 
 # if true, shows the floatting share buttons
 float_share: false
