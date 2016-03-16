@@ -1,0 +1,25 @@
+<div class="read-more">
+  <div class="read-more-header">
+    <a href="{{ site.owner.site }}" class="read-more-btn">About the Author</a>
+  </div><!-- /.read-more-header -->
+  <div class="read-more-content author-info">
+    <h3>Pedro Ávila</h3>
+    <div class="author-container">
+      <img class="author-img" src="{{site.owner.avatar}}" alt="{{site.owner.name}}" />
+      <div class="author-bio">
+        <p>For a reasonably sane & productive member of society (arguable, but let’s not complicate things), I’m far too mobile and unrooted. I travel quite a bit for a job that is simultaneously my greatest privilege and my worst burden.</p>
+        <p>So I write. And I write. Travel pieces, political journalism (a stretch from ranting but, still), short stories, poetry and other such riff-raff. I contribute to a handful of publications and will probably just keep going until something gives out, or someone gives in.</p>
+        <p>Yeah.</p>
+      </div>
+    </div>
+    <div class="author-share">
+      <ul class="list-inline social-buttons">
+        {% for network in site.social %}
+          <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+        {% endfor %}
+      </ul>
+      <br>
+        <a href="https://twitter.com/birdular" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @b</a>birdular
+    </div>
+  </div>
+</div>

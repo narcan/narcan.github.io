@@ -41,13 +41,13 @@ menu:
 owner:
   name:           Pedro Ávila
   site:           http://about.me/pedroavila
-  avatar:         https://s.gravatar.com/avatar/823dfb988d6413e1cff0bd5aadfad46b?s=80
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  #avatar:         https://s.gravatar.com/avatar/823dfb988d6413e1cff0bd5aadfad46b?s=80
+  #bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  #email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: birdular # if no twitter in this config, the twitter follow button will be removed
+  #twitter: birdular # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: narcan
+  #github: narcan
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -58,7 +58,7 @@ social:
   - title: "facebook"
     url: "https://facebook.com/writtenrhetoric"
   - title: "google plus"
-    url: ""
+    url: "https://plus.google.com/communities/110598470354803114281"
 #  - title: "linkedin"
 #    url: "https://br.linkedin.com/in/aronbordin"
 #  - title: "youtube"

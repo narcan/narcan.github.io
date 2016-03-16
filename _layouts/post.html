@@ -24,8 +24,6 @@
       </div><!-- /.entry-image -->
     {% endif %}
 
-
-
     {% if page.link %}
       <h2 class="entry-title"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h2>
     {% else %}
@@ -35,9 +33,12 @@
     <div class="entry-meta">
       <span class="entry-date date published updated">
         {{ page.date | date: "%R" }} in {{ page.location }}<br></span>
-      <span class="author vcard">
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %d, %Y" }}, <span class="author vcard">
         <span class="fn">
-          <a href="{{ site.url }}/about/">{{ page.author }}</a></span></span>
+          <a href="{{ site.url }}/about/">{{ page.author }}</a></span></span><br>
+        </time>
+      
     </div><!-- /.entry-meta -->
 
   </header>
@@ -68,7 +69,14 @@
     
   </article>
 
-  {% include author.html %}
+      {% if page.author == "Pedro Ávila" %}
+      {% include authorPedro.html %}
+      {% elsif page.author == "Oscar Bjørne" %}
+      {% include authorOscar.html %}
+      {% elsif page.author == "Dylan Cormack" %}
+      {% include authorDylan.html %}
+      {% endif %}
+
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
 </div><!-- /#main -->
