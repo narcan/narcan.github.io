@@ -9,6 +9,17 @@ body {
 
 article {
 	background: url('/images/bg_paper-pattern.png') repeat top right;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25);/*0 0 0 0, 0 6px 12px rgba($base-color,0.1);*/
+	@include rounded(3px);
+	margin-bottom: 20px;
+	padding: 25px 15px;
+	@media #{$medium} {
+		padding: 30px;
+	}
+	@media #{$large} {
+		margin-bottom: 30px;
+		padding: 50px 80px;
+	}
 }
 
 // Main
@@ -34,6 +45,20 @@ article {
 		}
 	}
 	/*background: url('/images/bg_paper-pattern.png') repeat top right;*/
+}
+
+#main {
+	margin: 40px 2px 20px 2px;
+	@media #{$medium} {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	@media #{$large} {
+		max-width: 800px;
+		margin-top: 50px;
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
 
 ///sections
@@ -142,26 +167,6 @@ header .entry-meta {
 }
 #post,
 #page {
-	.entry-content {
-		margin: 40px 2px 20px 2px;
-		padding: 10px 15px;
-		/*background-color: $white;*/
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.9);
-		@include rounded(3px);
-		@media #{$medium} {
-			margin-left: 10px;
-			margin-right: 10px;
-			padding: 20px 30px;
-		}
-		@media #{$large} {
-			max-width: 800px;
-			margin: 50px auto 30px auto;
-			padding: 50px 80px;
-			/*> p:first-child {
-				@include font-size(20);
-			}*/
-		}
-	}
 	#disqus_thread {
 		margin: 40px 2px 20px 2px;
 		padding: 10px 15px;
@@ -180,8 +185,8 @@ header .entry-meta {
 		}
 		background: url('/images/bg_paper-pattern.png') repeat top right;
 	}
-	.entry-meta {
-		margin: 50px 30px 30px;
+	footer.entry-meta {
+		/*margin: 50px 30px 30px;*/
 		text-align: center;
 	}
 }
@@ -382,35 +387,6 @@ ul.social-buttons li a:active {
 
 // Post Index
 // --------------------------------------------------
-#post-index {
-	#main {
-		margin: 40px 2px 20px 2px;
-		@media #{$medium} {
-			margin-left: 20px;
-			margin-right: 20px;
-		}
-		@media #{$large} {
-			max-width: 800px;
-			margin-top: 50px;
-			margin-left: auto;
-			margin-right: auto;
-		}
-	}
-	article {
-		/*background-color: $white;*/
-		box-shadow: 0 14px 28px rgba(0,0,0,0.25);/*0 0 0 0, 0 6px 12px rgba($base-color,0.1);*/
-		@include rounded(3px);
-		margin-bottom: 20px;
-		padding: 25px 15px;
-		@media #{$medium} {
-			padding: 30px;
-		}
-		@media #{$large} {
-			margin-bottom: 30px;
-			padding: 50px 80px;
-		}
-	}
-}
 .entry-image-index {
 	margin-top: -25px;
 	margin-left: -15px;
