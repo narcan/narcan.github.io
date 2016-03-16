@@ -50,6 +50,7 @@ article {
 #main {
 	margin: 40px 2px 20px 2px;
 	@media #{$medium} {
+		margin-top: 100px;
 		margin-left: 20px;
 		margin-right: 20px;
 	}
@@ -580,7 +581,7 @@ ul.social-buttons li a:active {
 }
 
 .header-menu-overflow .sub-item{
-	background-color: $menu-overflow;
+	background-color: $menu-top;/*background-color: $menu-overflow;*/
 }
 
 .header-item,
@@ -663,6 +664,7 @@ ul.social-buttons li a:active {
 	width: 100%;
 	border-bottom: 1px solid gray;
 	border-left: 1px solid;
+	border-right: 1px solid;
 	height: 50px;
 	text-decoration: none;
 }
