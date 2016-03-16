@@ -15,8 +15,10 @@
 
 
 <div id="main" role="main">
+<!--
   <article class="hentry">
     <div class="entry-content">
+-->
       {{ content }}
 
       {% if page.title == 'About' %}
@@ -29,9 +31,9 @@
       </footer>
       {% endif %}
 
-    </div><!-- /.entry-content -->
+    <!--</div> /.entry-content -->
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
-  </article>
+  <!-- </article> -->
 </div><!-- /#main -->
 
 {% include scripts.html %}
