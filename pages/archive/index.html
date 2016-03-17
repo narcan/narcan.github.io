@@ -1,0 +1,35 @@
+---
+layout: page
+title: All Posts
+description: "An archive of posts."
+comments: false
+---
+
+{% for post in site.posts %}
+
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+{% if forloop.first %}
+<div class="card">
+  <div class="card-header">
+    <span class="card-btn">{{ this_year }}</span>
+  </div><!-- /.card-header -->
+  <div class="card-content">
+    {% endif %}
+    <div class="archive-title">
+      <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} &mdash; <span class="exerpt">{{ post.excerpt }}</span></a>
+    </div>
+    {% if forloop.last %}
+  </div>
+</div>
+{% else %}
+{% if this_year != next_year %}
+</div>
+</div>
+<div class="card">
+  <div class="card-header"><span class="card-btn">{{ next_year }}</span></div><!-- /.card-header -->
+  <div class="card-content author-info">
+    {% endif %}
+    {% endif %}
+    {% endfor %}

@@ -48,7 +48,7 @@ article {
 }
 
 #main {
-	margin: 40px 2px 20px 2px;
+	margin: 100px 2px 20px 2px;
 	@media #{$medium} {
 		margin-top: 100px;
 		margin-left: 20px;
@@ -122,6 +122,20 @@ article {
 
 // Single Post and Page
 // --------------------------------------------------
+.exerpt {
+	@include font-rem(12);
+	font-family: $base-font;
+	font-weight: normal;
+	/*text-transform: uppercase;*/
+}
+
+.archive-title {
+	font-family: $heading-font;
+	@include font-rem(16);
+	margin-top: 10px;
+	font-weight: bold;
+}
+
 .entry-meta {
 	@include font-rem(12);
 	font-family: $heading-font;
@@ -154,7 +168,12 @@ article {
 		}
 	}
 	.entry-reading-time {
+		@include font-rem(12);
 		float: right;
+		color: lighten($base-color,30);
+		a {
+			color: lighten($base-color,30);
+		}
 	}
 }
 header .entry-meta {
@@ -205,6 +224,7 @@ header .entry-meta {
 }
 // Post Pagination Module
 .pagination {
+	font-family: $heading-font;
 	margin: 20px 10px;
 	text-align: center;
 	ul {
@@ -258,27 +278,28 @@ header .entry-meta {
 }
 
 // Read More Module
-.read-more {
+.card {
 	position: relative;
-	margin: 40px 2px 20px 2px;
-	padding: 40px 15px 25px;
+	margin: 40px 2px 40px 2px;
+	padding: 10px 15px 25px;
 	background-color: $white;
 	box-shadow: 0 14px 28px rgba(0,0,0,0.25);/*0 0 0 0, 0 6px 12px rgba($base-color,0.1);*/
 	@include rounded(3px);
 	@media #{$medium} {
-		margin: 50px 10px 20px 10px;
-		padding: 50px 40px 25px;
+		margin: 50px 10px 60px 10px;
+		padding: 10px 40px 25px;
 	}
 	@media #{$large} {
 		max-width: 800px;
-		padding: 50px 80px;
-		margin: 60px auto;
+		padding: 10px 80px;
+		margin: 30px auto;
+		margin-bottom: 60px;
 	}
 	
 	@include clearfix;
 	background: url('/images/bg_paper-pattern.png') repeat top right;
 }
-.read-more-header {
+.card-header {
 	font-family: $heading-font;
 	text-align: center;
 	position: absolute;
@@ -289,8 +310,11 @@ header .entry-meta {
 	a {
 		@extend .btn;
 	}
+	span {
+		@extend .btn;
+	}
 }
-.read-more-content {
+.card-content {
 	@include font-size(16);
 	// Dotted line underlines for links
 	p > a,
@@ -369,7 +393,7 @@ ul.social-buttons li a:active {
     color: #222;
     background-color: #fec503;
 }
-.read-more-list {
+.card-list {
 	border-top: solid 2px lighten($base-color,80);
 }
 .list-item {
@@ -709,43 +733,4 @@ ul.social-buttons li a:active {
 	/*font-size: x-small;*/
 }
 
-/* AboutPage-specific
---------------------------------------------------------- */
-.intro { margin-bottom: 10px; padding-top: 15px; }
-.intro_profile { float: right; margin: -35px 0 3px 30px; }
-.crew { height: 14px; padding-right: 25px; }
-a.crew:hover { background-position: 100% -14px; }
-
-.editor { margin: 0 0 10px 0; padding-top: 10px; }
-div.entry div.contributor_l { float: left; margin: 0 0 10px 0; padding-top: 10px; width: 220px; font-size: .9em; }
-div.entry div.contributor_r { float: right; margin: 0 0 10px 0; padding-top: 10px; width: 220px; font-size: .9em; }
-div.entry div.legal { margin: 10px 0; padding: 5px; clear: both; line-height: 1.2; font-size: x-small; border: 1px solid black; }
-div.entry div.legal p { margin: 0; padding: 6px 0 0; }
-
-
-/* General
---------------------------------------------------------- */
-img { border: 0; padding: 0; }
-img.left { float: left; margin: 3px 10px 3px 0; }
-img.right { float: right; margin: 3px 0 3px 10px; }
-img.center { display: block; margin: 5px auto; }
-img.border { padding: 6px; border: 1px solid gray; border-top: none; border-left: none; background-color: white; }
-img.polaroid { padding-bottom: 30px; }
-img.bleedl { margin-left: -70px; }
-img.bleedr { margin-right: -25px; }
-img.profile_left { float: left; margin: 0 7px 5px 0; }
-img.profile_right { float: right; margin: 0 0 5px 7px; }
-
-.fl { float: left; }
-.fr { float: right; }
-.al { text-align: left; }
-.ac { text-align: center; }
-.ar { text-align: right; }
-.uc { text-transform: uppercase; }
-.lc { text-transform: lowercase; }
-.st { text-decoration: line-through; }
-.red { color: red; }
-.gray { color: gray; }
-.hide { display: none; }
-.clear { clear: both; }
 .drop_cap { float: left; width: 30px; color: #616161; font-size: 2.5em;  }

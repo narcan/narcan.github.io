@@ -1,0 +1,83 @@
+---
+layout: post-index
+title: Written Rhetoric
+description: "musings of a writing traveler."
+comments: false
+---
+
+{% for story in paginator.stories %}
+<br>
+<article class="hentry">
+  <header>
+    {% if story.image.feature %}
+      <div class="entry-image-index">
+        <a href="{{ site.url }}{{ story.url }}" title="{{ story.title }}"><img src="{{ site.url }}/images/{{ story.image.feature }}" alt="{{ story.title }}"></a>
+        {% if story.image.credit %}<div class="image-credit">Image source: <a target="_blank" href="{{ story.image.creditlink }}">{{ story.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+
+      </div><!-- /.entry-image -->
+    {% endif %}
+
+    <div class="entry-meta">
+      <span class="entry-date date published updated">
+        <time datetime="{{ story.date | date_to_xmlschema }}">
+          <a href="{{ site.url }}{{ story.url }}">{{ story.date | date: "%B %d, %Y" }}</a>
+        </time>
+        {% if site.reading_time %}
+          <span class="entry-reading-time">
+            <i class="fa fa-clock-o"></i>
+            {% assign readtime = story.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
+              Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+          </span><!-- /.entry-reading-time -->
+        {% endif %}
+
+      </span>
+    </div>
+
+    {% if story.link %}
+      <h2 class="entry-title"><a href="{{ site.url }}{{ story.url }}" class="permalink" rel="bookmark" title="{{ story.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ story.link }}">{{ story.title }}</a></h2>
+    {% else %}
+      <h2 class="entry-title"><a href="{{ site.url }}{{ story.url }}" rel="bookmark" title="{{ story.title }}" itemprop="url">{{ story.title }}</a></h2>
+    {% endif %}
+
+    <div class="entry-meta">
+      <span class="entry-date date published updated">
+        {{ story.date | date: "%R" }} in {{ story.location }}<br></span>
+      <span class="author vcard">
+        <span class="fn">
+          <a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ story.author }}</a></span></span>
+    </div><!-- /.entry-meta -->
+
+  </header>
+  <div class="entry-content">
+    {% if story.content contains "<!-- more -->" %}
+    {{ story.content | split:"<!-- more -->" | first % }}
+    <div class="keep-reading float-right analyticsEvent"><a href="{{ site.url }}{{ story.url }}" class="permalink" rel="bookmark" title="{{ story.title }}">...keep reading <i class="fa fa-level-down"></i></a></div>
+
+        {% if story.author == "Pedro Ávila" %}
+        <div><a href="#"><img src="{{ site.url }}/images/bg_sig-pedro.png"></a></div>
+        {% elsif story.author == "Oscar Bjørne" %}
+        <div><a href="#"><img src="{{ site.url }}/images/bg_sig-oscar.png"></a></div>
+        {% elsif story.author == "Dylan Cormack" %}
+        <div><a href="#"><img src="{{ site.url }}/images/bg_sig-dylan.png"></a></div>
+        {% else %}
+        <div><a href="#"><img src="{{ site.url }}/images/bg_ink.png"></a></div>
+        {% endif %}
+    {% else %}
+      {{ story.content }}
+
+        {% if story.author == "Pedro Ávila" %}
+        <div><img src="{{ site.url }}/images/bg_sig-pedro.png"></div>
+        {% elsif story.author == "Oscar Bjørne" %}
+        <div><img src="{{ site.url }}/images/bg_sig-oscar.png"></div>
+        {% elsif story.author == "Dylan Cormack" %}
+        <div><img src="{{ site.url }}/images/bg_sig-dylan.png"></div>
+        {% else %}
+        <div><img src="{{ site.url }}/images/bg_ink.png"></div>
+        {% endif %}
+
+    {% endif %}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}
+
+{% include pagination.html %}
