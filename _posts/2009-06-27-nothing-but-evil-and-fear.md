@@ -5,7 +5,6 @@ author: Pedro Ávila
 excerpt: The nighttime is still full of dark things, as always. All is well, in a way.
 layout: post
 location: Utrecht, The Netherlands
-  - Utrecht, The Netherlands
 categories:
   - Rants
   - Travels

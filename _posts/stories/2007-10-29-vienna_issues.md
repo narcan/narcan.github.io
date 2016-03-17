@@ -2,9 +2,11 @@
 title: Vienna Issues
 date: 2007-10-29T04:56:07+00:00
 author: Oscar Bjørne
-layout: story
+layout: post
 location: Vienna, Austria
 description: Realism vs. reality in the European capital of music
+categories: story
+tags:
 ---
 > In Vienna, you follow the music.
 

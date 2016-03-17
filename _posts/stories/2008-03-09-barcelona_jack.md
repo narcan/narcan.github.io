@@ -2,9 +2,11 @@
 title: Barcelona Jack
 date: 2008-03-09T03:12:02+00:00
 author: Oscar Bjørne
-layout: story
 location: Barcelona, Catalunia
 description: Struggling with involuntary elitism in the streets of Barcelona
+layout: post
+categories: story
+tags:
 ---
 <span class="drop_cap">M</span>y shoes hit the sidewalk outside of the Regina Hotel in Barcelona that evening with a purposeful force and a rhythmic pace. It had been some time since I’d arrived in the city and for a series of reasons I had not yet ventured out much beyond the confines of the hotel. Which is understandable; I’d been here before and the week had been too real for frantic idealism and livid, giddy little moments after a day by the corporate park’s manicured lawns and still-water ponds. That kind of nonsense can make a man weak in the knees.
 

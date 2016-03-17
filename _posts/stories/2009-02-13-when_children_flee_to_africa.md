@@ -2,9 +2,11 @@
 title: When Children Flee to Africa
 date: 2009-02-13T03:14:11+00:00
 author: Pedro Ávila
-layout: story
+layout: post
 location: Tarifa, Spain
 description: A desperate saga of lies and deceit on the furthest outskirts of Europe
+categories: story
+tags:
 ---
 ### PROLOGUE
 

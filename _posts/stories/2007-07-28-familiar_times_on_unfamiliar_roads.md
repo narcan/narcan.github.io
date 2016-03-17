@@ -1,10 +1,12 @@
----
+----
 title: Familiar Times on Unfamiliar Roads
 date: 2007-07-28T19:21:04+00:00
 author: Pedro Ávila
-layout: story
 location: Madrid, Spain
 description: A narrative of fast times and long days on the roads between Amsterdam and Madrid
+layout: post
+categories: story
+tags: 
 ---
 <span class="drop_cap">I</span> found myself alone in Amsterdam, but only long enough to get the crap stuff involved with relocating to another country out of the way: immigration, tax numbers, bank accounts and that sort of necessary garbage. I would deal with finding an apartment when I came back. I didn’t have time to feel the loneliness sink in, to let the demons find out where I was yet. Soon the family showed up and we got started right away: wooden clogs, windmills, whores and hash – BAM! Amsterdam. There were paintings as well. And drinks. Plenty of drinks.
 
