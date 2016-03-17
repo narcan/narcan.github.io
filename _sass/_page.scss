@@ -295,7 +295,7 @@ header .entry-meta {
 		margin: 30px auto;
 		margin-bottom: 60px;
 	}
-	
+
 	@include clearfix;
 	background: url('/images/bg_paper-pattern.png') repeat top right;
 }
@@ -328,6 +328,7 @@ header .entry-meta {
 		font-family: $heading-font;
 		text-align: center;
 		margin: 0;
+		margin-top: 15px;
 		@include font-rem(28);
 		a {
 			color: $text-color;
@@ -354,7 +355,7 @@ header .entry-meta {
 	display: flex;
 }
 .author-bio{
-	padding-top: 30px;
+	padding-top: 15px;
 	padding-left: 20px;
 	flex-grow: 1;
 }
