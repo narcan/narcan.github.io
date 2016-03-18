@@ -1,13 +1,28 @@
-<meta charset="utf-8">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
-{% if site.owner.twitter or site.twitter %}<!-- Twitter Cards -->
+
+<!-- Twitter Cards -->
+{% if page.title %} {% assign title = page.title ~ ' - ' ~ page.subtitle %} {% else %} {% assign title = site.title %} {% endif %}
+{% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.description %} {% endif %}
+{% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
+{% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
+
+{% if site.owner.twitter or site.twitter %}
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
 {% else %}<meta name="twitter:card" content="summary">{% endif %}
 <meta name="twitter:site" content="@{% if site.twitter %}{{ site.twitter }}{% else %}{{ site.owner.twitter }}{% endif %}">
 <meta name="twitter:creator" content="@{% if site.owner.twitter %}{{ site.owner.twitter }}{% else %}{{ site.twitter }}{% endif %}">{% endif %}
+<meta name="twitter:title" content="{{ title }}" />
+<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
+
+<!-- Google plus -->
+<meta name="author" content="{{ site.author.googleplus }}">
+<link rel="author" href="{{ site.author.googleplus }}">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ site.locale }}">
@@ -35,11 +50,27 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 <link rel="stylesheet" href="{{ site.url }}/assets/css/jquery.mmenu.all.css">
 <link rel="stylesheet" href="{{ site.url }}/assets/css/jquery.floating-social-share.min.css">
+
+
+
+<!-- Styling -->
+<link rel="stylesheet" href="{{ "/assets/vendor/normalize-css/normalize.css" | prepend: site.baseurl }}">
+<!-- <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"> -->
+<!--
+{% if site.styles contains site.highlightstyle %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/{{ site.highlightstyle }}.css">
+{% else %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/solarized_dark.css">
+{% endif %}
+-->
+<!-- <link rel="stylesheet" href="{{ "/assets/vendor/font-awesome/css/font-awesome.css" | prepend: site.baseurl }}"> -->
+
 <!-- Webfonts -->
-<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
 <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=IM+Fell+English' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
 
 <meta http-equiv="cleartype" content="on">
 
