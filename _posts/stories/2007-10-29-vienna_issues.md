@@ -5,7 +5,7 @@ author: Oscar Bjørne
 layout: post
 location: Vienna, Austria
 description: Realism vs. reality in the European capital of music
-categories: story
+categories: Stories
 tags:
 ---
 > In Vienna, you follow the music.

@@ -5,7 +5,7 @@ author: Pedro Ávila
 layout: post
 location: Waitomo, New Zealand
 description: A tale of desperate observation and the struggles against time, weather and the overcoming of prissiness in the wet dark of the largest caves in New Zealand
-categories: story
+categories: Stories
 tags:
 ---
 <span class="drop_cap">O</span>ur temperatures were almost back up to a steady ninety-something degrees by the time we made it back to the HTG Lodge. The day’s excitement had started to wind down by then so it was just as well that we be in a place with a roof above us instead of a cave. Particularly a cave famous for its thousands of glow-in-the-dark insects.

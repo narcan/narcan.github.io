@@ -5,7 +5,7 @@ author: Pedro Ávila
 layout: post
 location: Tarifa, Spain
 description: A desperate saga of lies and deceit on the furthest outskirts of Europe
-categories: story
+categories: Stories
 tags:
 ---
 ### PROLOGUE

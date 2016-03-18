@@ -122,7 +122,7 @@ article {
 
 // Single Post and Page
 // --------------------------------------------------
-.exerpt {
+.excerpt {
 	@include font-rem(12);
 	font-family: $base-font;
 	font-weight: normal;
@@ -378,6 +378,10 @@ ul.social-buttons li a {
   padding-left: 0;
   margin-left: -5px;
   list-style: none;
+}
+
+.inline-list {
+	text-align: center;
 }
 .list-inline > li {
   display: inline-block;

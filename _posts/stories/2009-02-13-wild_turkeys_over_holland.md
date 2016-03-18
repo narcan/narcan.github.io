@@ -5,7 +5,7 @@ author: Pedro Ávila
 layout: post
 location: Amsterdam, The Netherlands
 description: An epic gathering for a feast of weird ingestions, a Dutch turkey dies in Holland, and TG08 in Amsterdam
-categories: story
+categories: Stories
 tags:
 ---
 <span class="drop_cap">I</span>t was snowing steadily in that early morning, and from my window I could see large white hands whirling down on an air cushion outside. Like maple leaves, the snowflakes fell gently through the air. It was wet though, which made the snow heavy and dense, and the flakes didn’t fall aimlessly over the roads and cars and trees, but rather plopped themselves down and proceeded to melt where they fell. Amsterdam is a city of moisture and it’s difficult for snow to pile up high enough here before it melts.

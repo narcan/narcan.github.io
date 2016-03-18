@@ -5,7 +5,7 @@ author: Pedro Ávila
 layout: post
 location: Queenstown, New Zealand
 description: An account of the post-college experience of three boys flying through the heart of the adrenaline capital of New Zealand
-categories: story
+categories: Stories
 tags:
 ---
 <span class="drop_cap">I</span>n about an hour I will be dropping 440 feet above a ravine. The nut of it is, I’d say I’m pretty calm. On the 30-minute bus ride from Queenstown to The Nevis, the highest bungy jump site in New Zealand, I find myself – as I often do on a trip like this – retracing my steps and wondering how it is that I got here. My mind wanders in search of focus and clarity but these are scarce comodities in a place with so much to do and so much to see. I lean my forehead deeper into the window and look out as far as my eyes will take me, going places this bus wouldn’t dare.

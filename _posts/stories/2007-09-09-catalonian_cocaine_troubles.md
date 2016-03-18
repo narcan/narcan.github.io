@@ -5,7 +5,7 @@ author: Oscar Bjørne
 layout: post
 location: Barcelona, Catalunia
 description: A crazed-out romp on a Barcelona night
-categories: story
+categories: Stories
 tags:
 ---
 <span class="drop_cap">A</span>ll I ate that night were the four figs I bought in the Roman market of Barcelona known as _La Bocaderia._ That, along with the bottle of scotch I later carried in my back pocket, would be my sole sustenance as I walked up and down _La Rambla_ looking for trouble and direction. One of these is easy but direction can be complicated in Barcelona’s Gothic Quarter. The streets are so narrow most get no direct sunlight, even on the last floors. The space between buildings where people dry laundry usually fits one towel at a time and on plants that are strung between houses, the flowers spread their stamens an extra millimeter for that much more exposure.

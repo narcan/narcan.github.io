@@ -5,7 +5,7 @@ author: Oscar Bjørne
 location: Barcelona, Catalunia
 description: Struggling with involuntary elitism in the streets of Barcelona
 layout: post
-categories: story
+categories: Stories
 tags:
 ---
 <span class="drop_cap">M</span>y shoes hit the sidewalk outside of the Regina Hotel in Barcelona that evening with a purposeful force and a rhythmic pace. It had been some time since I’d arrived in the city and for a series of reasons I had not yet ventured out much beyond the confines of the hotel. Which is understandable; I’d been here before and the week had been too real for frantic idealism and livid, giddy little moments after a day by the corporate park’s manicured lawns and still-water ponds. That kind of nonsense can make a man weak in the knees.
