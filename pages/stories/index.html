@@ -1,0 +1,22 @@
+---
+layout: post-index
+title: Stories
+description: "An archive of stories."
+comments: false
+---
+<div class="card">
+  <div class="card-header" id="{{ this_word }}">
+    <span class="card-btn">Stories</span>
+  </div><!-- /.card-header -->
+  <div class="card-content">
+    {% for post in site.categories.Stories %}{% if post.title != null %}
+    <div class="archive-title">
+      <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} &mdash; 
+        <span class="excerpt">
+          {{ post.description }}
+        </span>
+      </a>
+    </div>
+    {% endif %}{% endfor %}
+  </div>
+    </div><!-- /.card -->
