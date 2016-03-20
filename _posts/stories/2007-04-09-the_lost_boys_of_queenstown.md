@@ -4,7 +4,8 @@ date: 2007-04-09T02:43:03+00:00
 author: Pedro Ávila
 layout: post
 location: Queenstown, New Zealand
-description: An account of the post-college experience of three boys flying through the heart of the adrenaline capital of New Zealand
+excerpt: An account of the post-college experience of three boys flying through the heart of the adrenaline capital of New Zealand
+description: An account of the post-college experience of three boys flying through the heart of the adrenaline capital of New Zealand.
 categories: Stories
 tags:
 ---

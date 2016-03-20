@@ -4,7 +4,7 @@ date: 2007-05-18T00:16:29+00:00
 author: Pedro Ávila
 layout: post
 location: Waitomo, New Zealand
-description: A tale of desperate observation and the struggles against time, weather and the overcoming of prissiness in the wet dark of the largest caves in New Zealand
+description: A tale of desperate observation and the struggles against time, weather and the overcoming of prissiness in the wet dark of the largest caves in New Zealand.
 categories: Stories
 tags:
 ---

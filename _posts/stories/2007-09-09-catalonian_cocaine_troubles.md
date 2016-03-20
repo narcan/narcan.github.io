@@ -4,7 +4,7 @@ date: 2007-09-09T03:10:00+00:00
 author: Oscar Bjørne
 layout: post
 location: Barcelona, Catalunia
-description: A crazed-out romp on a Barcelona night
+description: A crazed-out romp on a Barcelona night.
 categories: Stories
 tags:
 ---

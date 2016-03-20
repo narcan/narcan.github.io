@@ -4,7 +4,7 @@ date: 2009-02-13T15:45:37+00:00
 author: Pedro Ávila
 layout: post
 location: Amsterdam, The Netherlands
-description: An epic gathering for a feast of weird ingestions, a Dutch turkey dies in Holland, and TG08 in Amsterdam
+description: An epic gathering for a feast of weird ingestions, a Dutch turkey dies in Holland, and TG08 in Amsterdam.
 categories: Stories
 tags:
 ---

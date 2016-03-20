@@ -3,7 +3,7 @@ title: Barcelona Jack
 date: 2008-03-09T03:12:02+00:00
 author: Oscar Bjørne
 location: Barcelona, Catalunia
-description: Struggling with involuntary elitism in the streets of Barcelona
+description: Struggling with involuntary elitism in the streets of Barcelona.
 layout: post
 categories: Stories
 tags:

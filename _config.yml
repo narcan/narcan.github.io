@@ -1,17 +1,17 @@
 title:            Written Rhetoric
 description:      musings of a writing traveler.
 brief:            "a collection of haphazard sagas collected alongside twisted and strange commentary that varies in nature, humor and darkness."
-disqus_shortname: #writingtraveler
-reading_time:     true # if true, shows the estimated reading time for a post
-words_per_minute: 200
-logo:             images/bg_ink.png
+
 # The site's domain - when testing locally leave blank or use http://localhost:4000
 url: http://writtenrhetoric.com
 baseurl: "" # the subpath of the site, e.g. /blog/
 
-# draw the top menu here
-# each item must have a title and a url.
-#   To list post categories. use type: 'categories'
+disqus_shortname: writingtraveler
+reading_time:     true # if true, shows the estimated reading time for a post
+words_per_minute: 200
+logo:             images/bg_ink.png
+
+# draw the top menu here - each item must have a title and a url (o list post categories. use type: 'categories')
 menu:
   - title: 'Stories'
     url: '/pages/stories'
@@ -34,8 +34,6 @@ owner:
   name:           Pedro Ávila
   email:          writingtraveler@gmail.com
   site:           http://about.me/pedroavila
-  #avatar:         https://s.gravatar.com/avatar/823dfb988d6413e1cff0bd5aadfad46b?s=80
-  #bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   # Twitter nick for use in Twitter cards and follow button.
   #twitter: birdular # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
@@ -52,23 +50,13 @@ social:
   - title: "google plus"
     url: "https://plus.google.com/communities/110598470354803114281"
 
-# Background image to be tiled on all pages
-#background: 'images/bg_rock-pattern.png'
-
-# Analytics and webmaster tools stuff goes here
-google_tag_manager: 'GTM-P2NRC8'
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    TIMEZONE
 #timezone:    America/New_York
+timezone:    TIMEZONE
 locale:      en_US
 future:      true
-#highlighter: pygments
 markdown:    kramdown
+#highlighter: pygments
 gems:
   - jekyll-sitemap
   - jekyll-paginate
@@ -80,8 +68,8 @@ sass:
 permalink:   /:year/:month/:title/
 
 # Amount of post to show on home page
-paginate: 10
 #paginate_path: "/blog/page:num/"
+paginate: 10
 
 # if true, shows the floatting share buttons
 float_share: false

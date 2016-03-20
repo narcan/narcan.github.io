@@ -3,7 +3,7 @@ title: Familiar Times on Unfamiliar Roads
 date: 2007-07-28T19:21:04+00:00
 author: Pedro Ávila
 location: Madrid, Spain
-description: A narrative of fast times and long days on the roads between Amsterdam and Madrid
+description: A narrative of fast times and long days on the roads between Amsterdam and Madrid.
 layout: post
 categories: Stories
 tags: 
