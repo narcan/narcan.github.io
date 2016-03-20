@@ -6,16 +6,19 @@ permalink: /404.html
 comments: false
 share: false
 ---
-{% include title.html %}
-<!-- <img class="go-home" src="{{ site.url }}/images/bg_404.png"> -->
+<div class="error-page-content">
+	<div class="title">{{ page.title }}</div>
+	<div class="subtitle">{{ page.subtitle }}</div>
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+	<script type="text/javascript">
+	var GOOG_FIXURL_LANG = 'en';
+	var GOOG_FIXURL_SITE = '{{ site.url }}'
+	</script>
+	<script type="text/javascript"
+	src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+	</script>
 
+</div>
 <!-- Adding the glitch effect -->
+<script> document.getElementsByTagName('header-title')[0].classList.add('glitch'); </script>
 <script> document.getElementsByTagName('body')[0].classList.add('glitch'); </script>

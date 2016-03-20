@@ -860,13 +860,17 @@ $r: rgba(255,0,0,1); $g: rgba(0,255,0,1); $b: rgba(0,0,255,1); $px: 0; $px2:0;
 
 
 // Error Page
-.error-page-title {
+.error-page-content {
 	text-align: center;
-	
-	margin-top: 150px;
-	margin-bottom: 20px;
-	@include font-rem(60);
+	/*background: url('/images/bg_exclamation.png') no-repeat top right;
+	background-size: 100%;*/
+	.title {
+		margin-top: 150px;
+		margin-bottom: 20px;
+		@include font-rem(60);
+	}
 	.subtitle {
+		text-align: center;
 		margin-top: 40px;
 		margin-bottom: 10px;
 		@include font-rem(40);
