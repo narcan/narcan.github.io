@@ -219,9 +219,9 @@ article {
 	}
 }
 header .card-header-meta {
-	display: none; // hide header meta on small screens
-	@media #{$medium} {
-		display: block;
+	/*display: none; // hide header meta on small screens*/
+	@media #{$tiny} {
+		display: none;
 	}
 }
 
@@ -592,15 +592,16 @@ ul.social-buttons li a:active {
 	width: 100%;
 	/*overflow: hidden;*/
 	@media #{$tiny} {
-		@include font-rem(10);
+		@include font-rem(12);
 		text-align: center;
 		vertical-align: center;
+		padding-top: 20px;
 	}
 	.logo{
 		/*width: $menu-height;*/
 		height: $menu-height - 30;
 		@media #{$tiny} {
-			display: none;
+			height: $menu-height - 50;
 		}
 	}
 	.header-title-wrap {
