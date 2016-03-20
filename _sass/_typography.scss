@@ -17,13 +17,34 @@ h1 {
 	}
 }
 
+.header-title {
+	font-family: $heading-font;
+	font-weight: 700;
+}
+
+.pagination, .entry-meta, .keep-reading {
+	font-family: $meta-font;
+}
+
+#menu, .header-menu, .header-item, .card-header, .card-header-meta, .footer-wrapper, .archive-title {
+	font-family: $heading-font;
+}
+
+.excerpt {
+	font-family: $base-font;
+}
+
+.drop_cap { 
+	font-family: $drop-cap-font, Georgia;
+}
+
 // Links
 // --------------------------------------------------
 a { 
 	text-decoration: none;
 	color: $link-color; 
 	&:visited { 
-		color: lighten($link-color, 20); 
+		/*color: lighten($link-color, 20); */
 	}
 	&:hover { 
 		color: darken($link-color, 20); 

@@ -1,12 +1,13 @@
 // Typography
 // --------------------------------------------------
 $base-font: 'Lato', Calibri, Roboto, sans-serif;
-$heading-font: 'Inconsolata',monospace;
+$heading-font: 'Special Elite','Inconsolata',monospace;
+$meta-font: 'Inconsolata',monospace;
 $drop-cap-font: 'IM Fell English', 'MedievalSharp', Georgia;
 $type-writer-font: 'Special Elite', monospace;
-$caption-font: $base-font;
+$caption-font: $type-writer-font;
 $code-font: 'Source Sans Pro',monospace;
-$alt-font: 'Inconsolata',serif;
+$alt-font: $type-writer-font;
 
 $doc-font-size: 16;
 $doc-line-height: 26;
@@ -48,6 +49,7 @@ $cloudy: #828282;
 // Screen Size
 // --------------------------------------------------
 
+$tiny                : "only screen and (max-width: 357px)";
 $small               : "only screen and (min-width: 30em)";
 $medium              : "only screen and (min-width: 48em)";
 $large               : "only screen and (min-width: 62.5em)";

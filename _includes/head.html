@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<title>{{ site.title }}{% if page.title %} &#8211; {{ page.title }}{% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
@@ -20,9 +20,9 @@
 <meta name="twitter:description" content="{{ description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
 
-<!-- Google plus -->
-<meta name="author" content="{{ site.author.googleplus }}">
-<link rel="author" href="{{ site.author.googleplus }}">
+<!-- Google plus
+<meta name="author" content="{{ site.social.googleplus }}">
+<link rel="author" href="{{ site.social.googleplus.url }}"> -->
 
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ site.locale }}">

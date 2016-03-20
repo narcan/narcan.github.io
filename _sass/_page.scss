@@ -124,21 +124,21 @@ article {
 // --------------------------------------------------
 .excerpt {
 	@include font-rem(12);
-	font-family: $base-font;
 	font-weight: normal;
 	/*text-transform: uppercase;*/
 }
 
 .archive-title {
-	font-family: $heading-font;
+	
 	@include font-rem(16);
 	margin-top: 10px;
 	font-weight: bold;
 }
 
-.entry-meta {
+.card-header-meta {
 	@include font-rem(12);
-	font-family: $heading-font;
+	
+	line-height: 15px;
 	/*text-transform: uppercase;*/
 	color: lighten($base-color,30);
 	a {
@@ -176,12 +176,62 @@ article {
 		}
 	}
 }
+
+.entry-meta {
+	@include font-rem(12);
+	
+	line-height: 15px;
+	/*text-transform: uppercase;*/
+	color: lighten($base-color,30);
+	a {
+		color: lighten($base-color,30);
+	}
+	.vcard {
+		&:before {
+			content: " by ";
+		}
+	}
+	.tag {
+		display: inline-block;
+		margin: 4px;
+		color: $white;
+		@include rounded(3px);
+		background-color: lighten($base-color,50);
+		span {
+			float: left;
+			padding: 2px 6px;
+		}
+		.count {
+			background-color: lighten($base-color,40);
+			@include border-radius(3px,3px,0,0);
+		}
+		&:hover {
+			background-color: lighten($base-color,40);
+		}
+	}
+	.entry-reading-time {
+		@include font-rem(12);
+		float: right;
+		color: lighten($base-color,30);
+		a {
+			color: lighten($base-color,30);
+		}
+	}
+}
+header .card-header-meta {
+	display: none; // hide header meta on small screens
+	@media #{$medium} {
+		display: block;
+	}
+}
+
 header .entry-meta {
 	display: none; // hide header meta on small screens
 	@media #{$medium} {
 		display: block;
 	}
 }
+
 #menu{
   margin-bottom: 48px;
 }
@@ -224,7 +274,6 @@ header .entry-meta {
 }
 // Post Pagination Module
 .pagination {
-	font-family: $heading-font;
 	margin: 20px 10px;
 	text-align: center;
 	ul {
@@ -243,7 +292,6 @@ header .entry-meta {
 
 .keep-reading {
 	@include font-rem(16);
-	font-family: $heading-font;
 	/*text-transform: uppercase;*/
 	color: lighten($base-color,30);
 	a {
@@ -300,7 +348,6 @@ header .entry-meta {
 	background: url('/images/bg_paper-pattern.png') repeat top right;
 }
 .card-header {
-	font-family: $heading-font;
 	text-align: center;
 	position: absolute;
 	top: -20px;
@@ -325,7 +372,7 @@ header .entry-meta {
 		}
 	}
 	h3 {
-		font-family: $heading-font;
+		
 		text-align: center;
 		margin: 0;
 		margin-top: 15px;
@@ -532,14 +579,30 @@ ul.social-buttons li a:active {
 		display: none;
 	}
 }
+
 .header-title {
-	text-align: center;
-	position: absolute;
+	color: $black;
+	@include font-rem(25);
+	height: $menu-height - 20;
+	float: left;
+	padding: 5px 5px 20px 5px;
 	bottom: 0;
 	display: table;
-	margin-top: 0;
+	margin-top: 5px;
 	width: 100%;
-	overflow: hidden;
+	/*overflow: hidden;*/
+	@media #{$tiny} {
+		@include font-rem(10);
+		text-align: center;
+		vertical-align: center;
+	}
+	.logo{
+		/*width: $menu-height;*/
+		height: $menu-height - 30;
+		@media #{$tiny} {
+			display: none;
+		}
+	}
 	.header-title-wrap {
 		display: table-cell;
 		vertical-align: middle;
@@ -550,7 +613,7 @@ ul.social-buttons li a:active {
 		font-weight: 700;
 		margin-bottom: 20px;
 		@include font-rem(32);
-		color: $white;
+		/*color: $white;*/
 		text-shadow: 1px 1px 4px rgba($base-color, 0.6);
 		display: block;
 		a {
@@ -631,12 +694,6 @@ ul.social-buttons li a:active {
 	}
 }
 ///sections
-.logo{
-  /*width: $menu-height;*/
-  height: $menu-height - 20;
-  float: left;
-  padding: 5px 5px 20px 5px;
-}
 .title-image{
   height: $menu-height - 20;
   float: left;
@@ -644,8 +701,10 @@ ul.social-buttons li a:active {
 }
 .header-item-container{
 	height: 100%;
+	padding-bottom: 10px;
 }
 .header-item{
+	
 	height: 100%;
 	display: none;
 	@media #{$large} {
@@ -803,7 +862,7 @@ $r: rgba(255,0,0,1); $g: rgba(0,255,0,1); $b: rgba(0,0,255,1); $px: 0; $px2:0;
 // Error Page
 .error-page-title {
 	text-align: center;
-	font-family: $type-writer-font;
+	
 	margin-top: 150px;
 	margin-bottom: 20px;
 	@include font-rem(60);
@@ -818,10 +877,8 @@ $r: rgba(255,0,0,1); $g: rgba(0,255,0,1); $b: rgba(0,0,255,1); $px: 0; $px2:0;
 .drop_cap { 
 	@include font-rem(50);
 	float: left;
-	font-family: $drop-cap-font;
 	line-height: 60px;
 	padding-top: 4px;
 	padding-right: 8px;
 	padding-left: 3px;
-	font-family: Georgia;
 }
