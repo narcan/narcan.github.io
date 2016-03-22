@@ -72,7 +72,7 @@ permalink:   /:year/:month/:title/
 paginate: 10
 
 # if true, shows the floatting share buttons
-float_share: false
+float_share: true
 
 kramdown:
   auto_ids: true

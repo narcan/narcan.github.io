@@ -7,7 +7,6 @@ layout: post
 location: Manhattan, New York
 categories:
   - Anecdotes
-  - Purgatory
 tags:
   - Blues
   - Demons

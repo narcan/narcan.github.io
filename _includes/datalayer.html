@@ -7,7 +7,12 @@
   analyticsForm = function() {};
   window.dataLayer = window.dataLayer || [];
   window.dataLayer.push({
+  	'content group':{% if post.categories contains "Stories" %}"Stories"{% else %}"Blog"{% endif %},
     {% if  page.title == 'error' %}'error type': '404'{% endif %}
+    'read time':{% if post.layout %}
+      {% if site.reading_time %}{% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}'~'+{% if readtime <= 1 %}'1 minute'{% else %}'{{ readtime }} minutes'{% endif %}
+      {% endif %}
+    {% endif %}
   });
 </script>
 <!-- End Data Layer -->
