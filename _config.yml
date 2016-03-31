@@ -6,7 +6,7 @@ brief:            "a collection of haphazard sagas collected alongside twisted a
 url: http://writtenrhetoric.com
 baseurl: "" # the subpath of the site, e.g. /blog/
 
-disqus_shortname: writingtraveler
+#disqus_shortname: writingtraveler
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/bg_ink.png
