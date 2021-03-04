@@ -57,9 +57,10 @@ locale:      en_US
 future:      true
 markdown:    kramdown
 #highlighter: pygments
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+plugins: [
+  jekyll-sitemap,
+  jekyll-paginate
+]
 sass:
   sass_dir: _sass
   style: compressed
@@ -71,7 +72,7 @@ permalink:   /:year/:month/:title/
 #paginate_path: "/blog/page:num/"
 paginate: 10
 
-# if true, shows the floatting share buttons
+# if true, shows the floating share buttons
 float_share: true
 
 kramdown:
@@ -79,14 +80,14 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: true
+  syntax_highlighter: coderay
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+  syntax_highlighter_opts:
+    line_numbers: nil
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

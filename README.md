@@ -21,14 +21,14 @@ But _who cares_? You’re not here for this self-glorifying crap; you’re here 
 
 ## Contributors
 
-![Oscar Bjørne](images/profiles/oscarProfile.jpg)
+![Oscar Bjørne](images/profiles/oscar.jpg)
 
 [Oscar Bjørne](http://www.facebook.com/people/Oscar-Bjrne/1539732961 "facebook Oscar") 
 
 Oscar’s day job consists of saying & writing banter for which corporate executives pay outrageous amounts to shelve and ignore. He’s a consultant at one of the largest software firms in the world, and his clients are in major capitals all over the globe. From São Paulo to Prague, from Oslo to Riyadh, Oscar jots his notes on travel, corporate life, fast adventures and a company dime and puts his words [here](http://writtenrhetoric.com/stories "Written Rhetoric Stories").
 
 
-![Dylan Cormack](images/profiles/dylanProfile.jpg)
+![Dylan Cormack](images/profiles/dylan.jpg)
 
 [Dylan Cormack](http://www.facebook.com/people/Dylan-Cormack/1539192870 "facebook Dylan")
 
