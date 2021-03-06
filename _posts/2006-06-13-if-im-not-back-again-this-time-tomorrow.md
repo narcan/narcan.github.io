@@ -22,7 +22,7 @@ It's very late, and it's very dark. We have piles of hours behind us and we stil
 
 This is insane.
 
-We had left Brazil the previous Thursday for the United States, arriving early on Friday morning and [driving the 4-hour suckfest down to San Luis Obispo](http://writtenrhetoric.com/2007/02/its-just-an-action-junkies-lullaby/ “It's Just an Action Junkie's Lullaby“) for my brother's graduation from Cal Poly. Say what you will about Pismo Beach and the surrounding economies fueled by former Hell's Angels with thoughts of retirement and surfer junkies who've finally found their calling. Say what you will about Cal Poly as a school or San Luis Obispo as a town --- putting two boys through the damn thing is an accomplishment for the parents of said boys as much as it is for the boys themselves.
+We had left Brazil the previous Thursday for the United States, arriving early on Friday morning and [driving the 4-hour suckfest down to San Luis Obispo](https://writtenrhetoric.com/2007/02/its-just-an-action-junkies-lullaby/ “It's Just an Action Junkie's Lullaby“) for my brother's graduation from Cal Poly. Say what you will about Pismo Beach and the surrounding economies fueled by former Hell's Angels with thoughts of retirement and surfer junkies who've finally found their calling. Say what you will about Cal Poly as a school or San Luis Obispo as a town --- putting two boys through the damn thing is an accomplishment for the parents of said boys as much as it is for the boys themselves.
 
 So there was much to celebrate and I was damned if I was going to miss it.
 

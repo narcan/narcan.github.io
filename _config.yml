@@ -2,8 +2,8 @@ title:            Written Rhetoric
 description:      musings of a writing traveler.
 brief:            "a collection of haphazard sagas collected alongside twisted and strange commentary that varies in nature, humor and darkness."
 
-# The site's domain - when testing locally leave blank or use http://localhost:4000
-url: http://writtenrhetoric.com
+# The site's domain - when testing locally leave blank or use https://localhost:4000
+url: https://writtenrhetoric.com
 baseurl: "" # the subpath of the site, e.g. /blog/
 
 #disqus_shortname: writingtraveler
@@ -33,7 +33,7 @@ menu:
 owner:
   name:           Pedro Ávila
   email:          writingtraveler@gmail.com
-  site:           http://about.me/pedroavila
+  site:           https://about.me/pedroavila
   # Twitter nick for use in Twitter cards and follow button.
   #twitter: birdular # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
@@ -50,7 +50,7 @@ social:
   - title: "google plus"
     url: "https://plus.google.com/communities/110598470354803114281"
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    America/New_York
 timezone:    TIMEZONE
 locale:      en_US

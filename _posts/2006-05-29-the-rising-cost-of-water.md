@@ -36,7 +36,7 @@ This is _hella_ expensive, and Brazil's condition concerning gas prices is prett
 
 So my question to you people becomes: _What the hell are you complaining about_? One fewer latte per day ought to cover that. Quit your bitching.
 
-Allow me to put it in perspective, as it was recently brought to my attention by [my younger sibling](http://www.apaulodesign.com “A Paulo Design“): let's say that gas prices hop to $2.80...oh wait, we're already at $3.40...ok, that won't work.
+Allow me to put it in perspective, as it was recently brought to my attention by [my younger sibling](https://www.apaulodesign.com “A Paulo Design“): let's say that gas prices hop to $2.80...oh wait, we're already at $3.40...ok, that won't work.
 
 Speaking of which, remember when gas was about $2.80? Well, yeah. Those days are gone too.
 

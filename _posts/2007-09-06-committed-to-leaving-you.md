@@ -65,6 +65,6 @@ In fact, since this is most likely the only time I will ever mention Sex in the 
 
 4) _You don't have to move to NYC to become an amazing sex goddess who is the master of her domain and all the men around her_
   
-- **TRUE** --- There is nothing in the NYC water that makes women the social equivalent of atomic bombs compared to men's potential to be rocket scientists.Yes, the water in New York is fantastic, but that's unrelated. There are plenty of lovely women out there. It's just that more of you need to read [Shallon's Blog](http://www.cherchezlashallon.blogspot.com/).
+- **TRUE** --- There is nothing in the NYC water that makes women the social equivalent of atomic bombs compared to men's potential to be rocket scientists.Yes, the water in New York is fantastic, but that's unrelated. There are plenty of lovely women out there. It's just that more of you need to read [Shallon's Blog](https://www.cherchezlashallon.blogspot.com/).
 
 There's more but I think this is plenty for now. I will quiz you on this next week, so study up, eh?

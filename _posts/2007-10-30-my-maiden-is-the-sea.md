@@ -61,4 +61,4 @@ Seriously, it made my costume come to life. It's not that I'm not really a pirat
   * We are the beaches of Normandy the night before
   * _Douchebag fender-offer_
 
-well, then you're all [pirate](http://writtenrhetoric.com/2007/08/north-sea-speculations/ “North Sea Speculations“). Black fingernails and eye-shadow just don't hurt, know what I mean?
+well, then you're all [pirate](https://writtenrhetoric.com/2007/08/north-sea-speculations/ “North Sea Speculations“). Black fingernails and eye-shadow just don't hurt, know what I mean?

@@ -112,11 +112,11 @@ And _ye gods -- n_one of it was a good idea.
 
 But who cares? These are the years for miscreant behavior of this kind, and I'll be damned if the wild animals of Amsterdam OR Portland were going to stop our golden youthful age. Not these horsemen, sister. A mini-fridge full of fireworks, a perfect mountain covered in fresh snow, a cold city filled with meth freaks and vegan law students and enough scotch and bourbon to wreck a pack of camels, we did the New Year thing right.
 
-Just ask [T](http://trevorgregg.wordpress.com/2008/01/05/slave-of-sensation/ “Slave of Sensation“).
+Just ask [T](https://trevorgregg.wordpress.com/2008/01/05/slave-of-sensation/ “Slave of Sensation“).
 
 --
 
-In any case, last year started off like a god-damned... what did I call it? Like a god-damned [Dear Abby column](http://writtenrhetoric.com/2007/01/it-burns-burns-burnsit-burns-burns-burns/ “It burns, burns, burns“). That is NO way to start off a year. Years must be started off with epic tales of surviving deathly hangovers in Oregonian forests of gleaming beauty, with explosions of childish glee, with drunken hordes and merry times, and with friends yelling, “_SHIT, NATE SHOT A BOTTLE ROCKET UP MY SHIRT_” while their girlfriends stare at them and me with abject terror and utter disbelief.
+In any case, last year started off like a god-damned... what did I call it? Like a god-damned [Dear Abby column](https://writtenrhetoric.com/2007/01/it-burns-burns-burnsit-burns-burns-burns/ “It burns, burns, burns“). That is NO way to start off a year. Years must be started off with epic tales of surviving deathly hangovers in Oregonian forests of gleaming beauty, with explosions of childish glee, with drunken hordes and merry times, and with friends yelling, “_SHIT, NATE SHOT A BOTTLE ROCKET UP MY SHIRT_” while their girlfriends stare at them and me with abject terror and utter disbelief.
 
 That's how this year started, my friends. What could go wrong?
 

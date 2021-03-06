@@ -12,7 +12,7 @@ tags:
   - Religion
   - Total Insanity
 ---
-Ataque sent me _this_ beautiful <a title=“Doing his thing“ onclick=“return top.js.OpenExtLink(window,event,this)“ href=“http://www.metacafe.com/watch/447760/malmsteen_doing_his_thing/“ target=“_blank“>thing</a>.
+Ataque sent me _this_ beautiful <a title=“Doing his thing“ onclick=“return top.js.OpenExtLink(window,event,this)“ href=“https://www.metacafe.com/watch/447760/malmsteen_doing_his_thing/“ target=“_blank“>thing</a>.
 
 Yeah, that's hot.
 

@@ -27,9 +27,9 @@ Shit. You won't find that gibberish here.
 
 What you will find is help. If you don't yet understand your opinion on how to fix the financial situation, here are two brilliantly-written articles from The Nation:
 
-[http://www.thenation.com/doc/20081006/greider3](http://www.thenation.com/doc/20081006/greider3 “Bailout Plan: show us the money“)
+[https://www.thenation.com/doc/20081006/greider3](https://www.thenation.com/doc/20081006/greider3 “Bailout Plan: show us the money“)
 
-[http://www.thenation.com/doc/20081006/galbraith_black](http://www.thenation.com/doc/20081006/galbraith_black “Bailout Plan: trust but verify“)
+[https://www.thenation.com/doc/20081006/galbraith_black](https://www.thenation.com/doc/20081006/galbraith_black “Bailout Plan: trust but verify“)
 
 To the skeptics and others not familiar with The Nation: yes, it tends to be a left-leaning paper, and yes, they support Barack Obama. No, they do NOT support John McCain. That said, they do, in my opinion and as far as I can tell in my research, report factually in their journalism. Their articles tend to be on the short to medium size and  usually include plenty of analysis based on experts with clear and well-respected credentials. They often speak to the electorate but offer options that a person in Congress would do well to read.
 

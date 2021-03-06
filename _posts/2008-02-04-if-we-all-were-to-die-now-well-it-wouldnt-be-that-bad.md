@@ -107,7 +107,7 @@ It's been previously reported that the rate of false positives in the TSA border
 
 As a supplement, here is an article by Bruce Schneier that sums up a related theory nicely:
 
-[http://www.schneier.com/blog/archives/2008/01/security\_vs\_pri.html](http://www.schneier.com/blog/archives/2008/01/security_vs_pri.html “Security vs. Privacy“)
+[https://www.schneier.com/blog/archives/2008/01/security\_vs\_pri.html](https://www.schneier.com/blog/archives/2008/01/security_vs_pri.html “Security vs. Privacy“)
 
 By now you should be coming to the sad realization that a lot of the money we pay into our taxes is either swallowed up by corrupt interests or else largely thrown straight into the toilet.
 

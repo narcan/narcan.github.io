@@ -44,6 +44,6 @@ Also, the mess in Turkey with the Kurds in northern Iraq and Cheney's Revenge: I
 
 It's an endless cycle. No wonder the hole we're in is so deep: we dig it a little more every time you people go to the polls. My god, there is so much to rant about.
 
-Oh, and [T's](http://trevorgregg.wordpress.com/ “Wisdom for the Ages“) back. Hope remains for some, though not for all. I'm too tired to go on -- sooner or later I have to wake up and you know it'll just start all over again, which is why I think you keep coming back.
+Oh, and [T's](https://trevorgregg.wordpress.com/ “Wisdom for the Ages“) back. Hope remains for some, though not for all. I'm too tired to go on -- sooner or later I have to wake up and you know it'll just start all over again, which is why I think you keep coming back.
 
 Oh well. At least you're right.

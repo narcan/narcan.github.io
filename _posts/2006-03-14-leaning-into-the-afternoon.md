@@ -28,7 +28,7 @@ Funny. Besides the language, these are mainly the same jerks and idiots from the
 
 The City offers little in the sense of direction or horizon, less so at night. I don't think a compass would even work here, probably just freaking out until it spontaneously combusts. Even with sporadic access to Google Earth, in three days I have not yet found out what part of the City I'm in. Too vast to take in, and too homogeneous to discern, the place is more than just urban. I mean, Oakland is urban. Chicago is urban. New York and Los Angeles are sprawls of urbanity. Shit, even Bangkok is urban.
 
-São Paulo is a fucking scar on the surface of the planet. [Google Map](http://maps.google.com/maps?f=q&hl=en&q=Sao+Paulo,+Brazil&ll=-23.53,-46.630001&spn=0.959428,1.900635&t=k) the place sometime. For those of you with no sense of scale this scar is like half of Long Island. Manhattan is nothing, _nothing_ compared to this animal.
+São Paulo is a fucking scar on the surface of the planet. [Google Map](https://maps.google.com/maps?f=q&hl=en&q=Sao+Paulo,+Brazil&ll=-23.53,-46.630001&spn=0.959428,1.900635&t=k) the place sometime. For those of you with no sense of scale this scar is like half of Long Island. Manhattan is nothing, _nothing_ compared to this animal.
 
 --
 

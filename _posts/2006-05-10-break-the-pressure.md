@@ -30,7 +30,7 @@ Gas prices go up $0.50. **_Pandemonium_**. Radical change is demanded. Faulty th
 
 That's the way it works, and goddammit, the leaders can't be relied on to do anything because they're animals just like the rest of you. They say that they're fighting this war in Iraq so that they don't have to fight it over here...that seems convenient, don't you think? I'll bet there would be a lot less support for this war and it's troops if it were being fought over here...shit, if it was _affecting_ anything here at all.
 
-The truth is that in these times of so much fear, Americans want the borders closed because they like it in here; it's not quite as real as the rest of the world, where [gasoline has _always_ cost $5 a gallon](http://writtenrhetoric.com/2006/05/the-rising-cost-of-water/ “The rising cost of water“) and so people have learned to use it more wisely. It's nicer than out there, where people have known about the dangers of greenhouse gases all along, and where freedom of press and censorship are openly discussed, not blindly claimed.
+The truth is that in these times of so much fear, Americans want the borders closed because they like it in here; it's not quite as real as the rest of the world, where [gasoline has _always_ cost $5 a gallon](https://writtenrhetoric.com/2006/05/the-rising-cost-of-water/ “The rising cost of water“) and so people have learned to use it more wisely. It's nicer than out there, where people have known about the dangers of greenhouse gases all along, and where freedom of press and censorship are openly discussed, not blindly claimed.
 
 --
 
