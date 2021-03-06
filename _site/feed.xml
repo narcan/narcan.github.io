@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Written Rhetoric</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2021-03-06T01:25:14+00:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Pedro Ávila</name>
+  <uri>http://localhost:4000/</uri>
+  <email>writingtraveler@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[The Site]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2016/03/the-site/" />
+  <id>http://localhost:4000/2016/03/the-site</id>
+  <published>2016-03-22T05:40:00+00:00</published>
+  <updated>2016-03-22T05:40:00+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;“It’s a fresh look, based on Google’s material design. The design is responsive… see? It adjusts to your mobile or tablet device, so the site looks as good on your phone as on your computer. It’s social, so you can &lt;em&gt;share it on facebook and twitter&lt;/em&gt;, add it to readers like &lt;a href=&quot;https://www.instapaper.com/&quot;&gt;Instapaper&lt;/a&gt; or &lt;a href=&quot;https://getpocket.com/&quot;&gt;Pocket&lt;/a&gt;, And it still maintains the design elements of the old site, including the stone background and torn paper but with improved material shadows and buttons…”&lt;/p&gt;
+
+&lt;p&gt;My agent and manager, Tor Rabban, looked at me like I was insane.&lt;/p&gt;
+
+&lt;p&gt;“The design is beautiful, Oscar,” he said. I thought, however, that I caught a nervous hint about his tone. “Excellent touches, really. I especially like how you ditched the old wax imprint logo and used the ink splotch instead — it’s so much more consistent with the rest of the site.”&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I beamed. He finally seemed to get how cool it was. Then his face dropped.&lt;/p&gt;
+
+&lt;p&gt;“But you know what it still needs?” He asked, his voice teetering on the edge of something sharp. I turned my head slightly to the side and raised my eyebrow to let him know he should continue. I shouldn’t have.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“It needs to be a goddamn book!”&lt;/em&gt; He yelled, and threw the dry-erase marker in his hand clear across the room. I ducked instinctively even though he’d thrown it several feet away from me. It bounced lightly off the wall and onto the cheap carpet floor with barely a sound. I steadied myself, and blinked a few times.&lt;/p&gt;
+
+&lt;p&gt;“I know it’s not a book,” I said.&lt;/p&gt;
+
+&lt;p&gt;“Really?” He said with the elves of sarcasm dancing on his face. “If you know it’s not a book, then why did you make me a website when I asked you for a book?” he asked, leaning over his desk.&lt;/p&gt;
+
+&lt;p&gt;I stood my ground firmly. “This is going to get our readership up again.” He fumed, his nose wrinkles forming just as his fist tightened.&lt;/p&gt;
+
+&lt;p&gt;“You jackass! Our readership isn’t gone because our blog doesn’t &lt;em&gt;look good&lt;/em&gt;! We don’t have readers because you guys aren’t fucking &lt;em&gt;writing&lt;/em&gt; anything!”&lt;/p&gt;
+
+&lt;p&gt;“Exactly,” I said calmly, knowing that while I could convince him of this, he held all the reason in the room, in spite of himself. “But we’re narcissists and we love to see our shit flashed in lights,” and I let that satisfying message sink in a bit.&lt;/p&gt;
+
+&lt;p&gt;“&lt;em&gt;This&lt;/em&gt; will get us writing again,” I finished. His eyes were ablaze with ice and fire and he breathed in deeply, holding his breath for a second as if he wanted to suffocate me by removing all the air from the room.&lt;/p&gt;
+
+&lt;p&gt;I can’t fault him — a lot had happened. Grad school, families, death, life — things had evolved, as they will, and it had apparently, been the end of our old publication. I had taken a bit of a sabbatical to get myself rewired, and while I was out, I thought I’d try my hand at writing a novel. A terrible idea, of course, but how could I have known? Besides, it was bound to happen, regardless of the outcome, and it was time I stopped fighting it.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, Dylan had vanished after the last election cycle and hadn’t surfaced yet. I thought he’d turn up when Jon Stewart ended his run on the &lt;em&gt;Daily Show&lt;/em&gt;, but no one had heard from him or knew where he was, not even our editor.&lt;/p&gt;
+
+&lt;p&gt;“I don’t know, Oscar, I’m sure he’s fine.”&lt;/p&gt;
+
+&lt;p&gt;“Shouldn’t we be looking for him or something?”&lt;/p&gt;
+
+&lt;p&gt;“Oscar, I have a steady job and normal-person shit to worry about, ok? Things like 529 accounts, string beans and chicken, and a whole host of diaper-related things you don’t wanna know about… I can’t have &lt;em&gt;Dylan-fucking-Cormack&lt;/em&gt; to worry about, man. The guy has been to Fallujah and back. I’m sure he’s fine. He’ll turn up when it makes sense for him to turn up.”&lt;/p&gt;
+
+&lt;p&gt;And he’s probably right. Besides, when Trump wins the republican nomination in a few weeks, I’m sure we’ll hear from Dylan. Or if not, we’ll hear a howling animal somewhere in the world, and at that point it won’t be difficult to find him.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;But the site. It was nice. I was sick of paying a company to host it, so I moved it to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, learned &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; and &lt;a href=&quot;https://docs.shopify.com/themes/liquid/basics&quot;&gt;Liquid&lt;/a&gt; and got to work torturing myself with CSS. I’d stayed up late for weeks on end, adjusting themes and tweaking templates. I don’t know what people did before &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;Stackoverflow&lt;/a&gt;, but I swear to god it’s a stand-in for a low-grade computer science degree.&lt;/p&gt;
+
+&lt;p&gt;I was satisfied with it and I thought the new site would give me an incentive to start writing again, if I could just get some volume back on the damned thing, some &lt;em&gt;traffic&lt;/em&gt;. And that’s where Tor Rabban came in. Nobody could turn traffic like him.&lt;/p&gt;
+
+&lt;p&gt;“Fine, Oscar, fine. Get writing again. I’ll do what I can. Just, goddamit…” he didn’t finish.&lt;/p&gt;
+
+&lt;p&gt;“You still want the book.”&lt;/p&gt;
+
+&lt;p&gt;“Of course I still want the book, I need a prop if we’re going to publicize this.”&lt;/p&gt;
+
+&lt;p&gt;“You know, writing a book is really hard, it turns out.” His shoulders sunk.&lt;/p&gt;
+
+&lt;p&gt;“It’s the hardest dollar there is,” he said while he exhaled. “Now go get me some readers. And for fuck’s sake, make sure you put Google Analytics on it and track engagement — I want to see more than just pageviews.” I couldn’t argue with him there, but I was already ten steps ahead of him.&lt;/p&gt;
+
+&lt;p&gt;“And don’t come back in this office without a book. I swear to god…”&lt;/p&gt;
+
+&lt;p&gt;But I was already closing the door with a smile on my face. It’s good to be back.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/03/the-site/&quot;&gt;The Site&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on March 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Of smiles and roars]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2012/02/of-smiles-and-roars/" />
+  <id>http://localhost:4000/2012/02/of-smiles-and-roars</id>
+  <published>2012-02-20T06:12:57+00:00</published>
+  <updated>2012-02-20T06:12:57+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The evening plan had been to finish up some chinese food left over from last night’s study session and then get back to the thesis and some other papers and projects that have kept me away from here for so long. The last few days had been a maddening bout of regression analyses on historic confidence levels of congress, interacting terms and sometimes even a quadratic, hoping to make sense of something in the data available.&lt;/p&gt;
+
+&lt;p&gt;As I started to sit up from the couch to head to my desk I saw an email come up on my phone, and just before the notification screen went dark it showed me the name. “Ben?” I thought, “haven’t seen him since high school…I wonder if he’s in town or something. That’d be nice…”&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;But Ben’s news was terrible. Our friend, Chris, had been killed in an Avalanche in Washington just a few hours before. Ben had found out about it while checking the weather report and looked in to it before contacting me and the rest of our old group from high school. We’d mostly drifted, the time and the distance coming between us, as is so common. Life I guess. But sometimes things really get smashed into perspective, don’t they? Shit, in the face of this, who cares about the weather?&lt;/p&gt;
+
+&lt;p&gt;Fuck, that was hard news to hear. It’s the closest death to me yet, and even though we hadn’t seen each other in a few years, I took it much harder than I ever would have guessed. It sucked the breath right out of me and I sat there, motionless on the couch, the TV screen I was about to turn off still flickering images of something that now seemed about as irrelevant as the macroeconomic class I have in the morning. I didn’t know which one of the thoughts in my head to focus on, which one to pull out of the tazmanian devil whirling around in my mind to start processing.&lt;/p&gt;
+
+&lt;p&gt;I spent the next few hours on the memories, the bike trails, the backroads, the views from the roads on which we drove. They help. The upswells in my chest heaved unexpectedly and unpredictably though, and each time the tears started to dry I wondered if there would be more.&lt;/p&gt;
+
+&lt;p&gt;The room was cold, but I wrote a letter to his parents, feeling disconnected, far away and empty. Nothing sounded right, everything seemed trite or cliché, and despite the slap I had just endured, I couldn’t imagine what his family was going through. I know the smiles will come again, but somehow that seems a long way off now the world has a little less in it. Dammit…&lt;/p&gt;
+
+&lt;p&gt;I called friends from high school for whom I had phone numbers, and we talked, reminded each other that though the years and the miles had had their way with us, the past is still safely tucked in the fondness of memories, and that, too, is as good a reason to cherish someone as any. I told them the things I’d thought of over the years that I always meant to say at the next reunion, or under whatever circumstances it was that we’d see each other again. I always thought I’d get to tell Chris those things someday, perhaps in a log cabin somewhere, over a Jameson 12-year, or maybe under it. As we talked we all realized we had other phone calls to make.&lt;/p&gt;
+
+&lt;p&gt;Facebook lit up with thoughts, feelings and reactions. Mostly we were united in our bewilderment, and I couldn’t help but notice something on his facebook page that put a twist of satisfaction on my lips. Of the hundreds of posts on Chris’s facebook wall, not a single one failed to contain some element of pure excitement for just having KNOWN the guy. Comments like, “The heart and the smile are your tools. Thank you for teaching us how to use them,” and “thank you for all the good times! We’ll keep the shred alive for you!” rang of stoke and celebration, of awe and the amazing contentment of meeting one of those people whose smile doesn’t fade. Somewhere in that, I knew, I would need to find solace.&lt;/p&gt;
+
+&lt;p&gt;Now I stare into the dark of the East River and think about some of the exchanges I’d had with Chris over the years. Lights reflect off the water but I can’t seem to figure out where they’re coming from. We talked a lot about who we were and who we are becoming. About how we can steer this boat, because we’re perfectly capable of seeing where we’re fucking up along the way, if we want. When I think about Chris I am keenly aware that I recognize and know perfectly well which friendships I’ve had a hand in messing up along the way, and that I’ve let some of them go, focusing my energy on how I can better my life without depending on others, who have so often fallen short of my expectations. Were they too high? Was I hypocritical? Was I too chicken shit to admit it and fix it? Maybe.&lt;/p&gt;
+
+&lt;p&gt;High time to revisit that little character flaw, I’d say.&lt;/p&gt;
+
+&lt;p&gt;And now that it comes to it, I’m reminded of what he used to say when things got foggy and thick: “it’s gonna turn blue any minute!”&lt;/p&gt;
+
+&lt;p&gt;Yeah. I hope he’s right. But maybe it’s got nothing to do with hope. And that seems like the right attitude about now.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I couldn’t get images out of my head of an icy roar, of a murderous wave nature uses to maintain equilibrium. That’s all that matters to nature, really — heat transfer, and maybe gravity.&lt;/p&gt;
+
+&lt;p&gt;And I bet that mountain is real quiet now. Serene and beautiful, even. What a contrast.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2012/02/of-smiles-and-roars/&quot;&gt;Of smiles and roars&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on February 20, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Tulsa]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2011/06/tulsa/" />
+  <id>http://localhost:4000/2011/06/tulsa</id>
+  <published>2011-06-28T23:29:31+00:00</published>
+  <updated>2011-06-28T23:29:31+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;It was useless to stand on the United frequent-flyer blue carpet thing. The &lt;em&gt;Onepass-Mileage-Plus-Platinum-something-something&lt;/em&gt; was the only line into the jetway; one of those flights that is filled to the brim with elite access and star alliance gold members — business travelers only. &lt;em&gt;Right&lt;/em&gt;, I thought. &lt;em&gt;Who the fuck else would fly to Tulsa this early on a weekday?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I had been coming in regularly every week from New York, for several weeks. Flying out of Laguardia at five in the morning on Monday like some kind of midnight rat, and then ducking out on Thursday afternoon, depleted and bored and still having to face a connection at O’Hare.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Of course, after nearly 8 years of that madness I could do a route like that blind-folded and the only people I’d interact with without recognizing were the cabbies. Every expense report was already filled out weeks in advance. I knew what I’d spend and what I’d spend it on. By the second day the Marriott bartender knew how I liked my whiskey, and by the third he knew how I liked my potatoes (the answer, of course, is &lt;em&gt;with steak&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;The gig itself was so typical that it took no effort at all. The motions were familiar and scripted and the only time my brain really kicked in was when I wandered the streets outside, looking for decent cup of coffee. Not that I found any, but I did meet some nice folks who did their best.&lt;/p&gt;
+
+&lt;p&gt;But that’s ok. For the first time in years, I had a sense of levity about the drab environment, a soulful cheer that made the place fascinating in its lifelessness, as opposed to depressingly inane. You see, it was to be the final bow, the cap on the bottle, the last hurrah. I’m literally mailing them my company laptop when I get home, and I’ll arrive jobless and free.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Why Tulsa?&lt;/em&gt; I can’t confirm it, but the powers that be are not without a sense of irony. They said it was next on the list, but I’m skeptical. They know me, know why I left for Europe, that I came back kicking and screaming, and I’m sure my email patterns are pointing everywhere but here. No, make no mistake about it — it would be foolish to imagine that they don’t know I’m on my way out, and that this is somehow punishment for something I’ve done or been.&lt;/p&gt;
+
+&lt;p&gt;And why not? Good for them. I’m damn good at what I do, but I’m a difficult person to  work with, being that I work alone. I mean, I’ve usurped entire penthouse suites from C-level executives just because I arrived late and knew the hotel staff; I moved meeting locations across continents because there wasn’t a good shisha bar on the Asian side of Istanbul; hell, I architected a trip to London to get engaged there in order to avoid losing a round-trip ticket my fiancée needed to use. And besides, I’m pretty sure they’ve had me change phone plans and devices so many times that they don’t know I have the one I’m on, meaning I can expect to still get international cell phone calling for a good year or so before they get audited.&lt;/p&gt;
+
+&lt;p&gt;Parting gifts. Along with some nice tumblers from the Press Club at the Canary Wharf Hilton in London and a lot of duty-free whiskey, I think I’ve earned it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The bartender handed me a Tulamore Dew as if it were something special, but it was early and I was ahead, so I wasn’t being picky any more. I ordered my usual but requested a booth, “because I’ll need the space.” I wasn’t kidding.&lt;/p&gt;
+
+&lt;p&gt;Two guys in their mid-forties having dinner at a table across from me looked askance as I unrolled my nautical charts in all of their 4x6 glory, filling the booth with detailed depth measurements from New York harbor to Martha’s Vineyard, every can and nun placed with precision on the rolling mass of unmanageable paper. I pulled out my parallel rules and dividers and heard a yelp at the table across from mine.&lt;/p&gt;
+
+&lt;p&gt;“Don’t worry, son,” I heard a father say to his young lad, “he’s not going to hurt us. He just hasn’t found Jesus yet.” I leered at him and lowered my voice.&lt;/p&gt;
+
+&lt;p&gt;“Yeah, son, don’t worry — if he’s in this part of the Eastern seaboard, I will &lt;em&gt;find&lt;/em&gt; him”, I said, measuring the chart scale on my dividers without looking up.&lt;/p&gt;
+
+&lt;p&gt;Since I was about to start graduate school, it seemed a ripe time to get my captain’s license, so I’d been taking advantage of the empty evenings in Tulsa to study my charts and do some dead reckoning exercises in preparation for my exams. I’d been sailing around the Long Island Sound for a few years and had gotten to know some of its alcoves pretty well. But it’s different when you look at a map.&lt;/p&gt;
+
+&lt;p&gt;The Sound felt smaller when I wasn’t focused on the wind direction and the massive freighters. At the same time it was disorienting making sense of the juts of land with no homes as landmarks, no distinctive chimneys, no identifying trees. Taking a step back, I felt a bit lost in this smaller version of a playground I’d grown to know so well, and even though I could calculate how many hours it would take me to get to Connecticut, or even Rhode Island, I suddenly couldn’t tell you why I would go at all.&lt;/p&gt;
+
+&lt;p&gt;Which raised a big question for me, in my current situation, standing on the edge overlooking where I’d been, and seeing it all at once for the first time. &lt;em&gt;What made me think that I could stop?&lt;/em&gt; On thinking it over, only a jackass addict would think he could stop doing the very thing that defined him for almost a decade cold turkey. Only a fool would think that I could easily walk away from the miles, the meals, the drinks and the time to my own on the road, where it’s quiet and dark when you want it to be.&lt;/p&gt;
+
+&lt;p&gt;I thought about that for a bit. And then I smiled. &lt;em&gt;A man who does not need others to fuel his ego,&lt;/em&gt; the saying goes, &lt;em&gt;can find privacy anywhere.&lt;/em&gt; I’d heard it before, but I always thought it had to do with being alone and ok with it. But it’s not — it’s about being with yourself, and ok with it.&lt;/p&gt;
+
+&lt;p&gt;And that suits me just fine. So I went home.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2011/06/tulsa/&quot;&gt;Tulsa&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on June 28, 2011.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Mild Distraction]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2010/04/a-mild-distraction/" />
+  <id>http://localhost:4000/2010/04/a-mild-distraction</id>
+  <published>2010-04-08T05:32:12+00:00</published>
+  <updated>2010-04-08T05:32:12+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;I’ve delved into the old ways again. But this is not a confession.&lt;/p&gt;
+
+&lt;p&gt;Like mountains hanging above the horizon, I simply am what I am — without apologies, even though it causes a lot of confusion. For months I’ve been out on the road in crazy ways, in the air, seemingly everywhere — just like old times.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago I crossed the Atlantic Ocean four times in as many days. Or was it a few months ago? Whenever; it was for logistical reasons, and I learned the hard way that the human body cannot cross the Atlantic Ocean that often without violent consequences. The dry air of the airplane cabin cracks your lips and sucks all moisture from your pores until there is no water, just oil. Sometime after the first twelve hours your skin starts to smell like cannola and your hair becomes weighed down, thick and disgusting to the touch. In the fun house mirrors of those tiny airplane bathrooms, you realize your facial hair grows at an alarming rate at altitude and that there is no amount of water you can throw on your face to feel awake. So you go back to your seat and ask for another scotch…&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Yeah…&lt;/p&gt;
+
+&lt;p&gt;At duty free shops across Europe I bought many liters of various whiskeys, running amok and going crazy between New York, Reykjavic, Barcelona, Amsterdam, Dublin, London and then a quick hop to Copenhagen. For reasons no one can explain, they kept sending me back to the Dutch water capital, the one place I’m still trying to leave behind. It was all a matter of finishing the work I owed to a complex client, a hydra of an organization with serious self-identity issues. They never knew who was in charge, and I couldn’t talk to anyone there long enough to figure out just who it was that wanted me there so badly. But they never seem to be satisfied, the word always coming down from above, calling me back.&lt;/p&gt;
+
+&lt;p&gt;Idiots.&lt;/p&gt;
+
+&lt;p&gt;For months this went on. JFK to Schiphol, and back. Layover in Heathrow. Stop in Iceland. Back. JFK to Schiphol, through Zurich. Through Brussels. A reprieve in Barcelona. In Bruges. A quick drive to Göteborg, and back. Newark. And then back. Jesus. I know it’s because they just don’t know what it is they want, but now that it comes to it, I start to wonder if maybe it’s because I don’t either.&lt;/p&gt;
+
+&lt;p&gt;No longer a matter of just direction &amp;amp; purpose, the satisfaction I draw from all this seems once again, bound only to my ability to define why it is that I’m here (or there) well enough to take the right steps and make the right demands. At this juncture I need to convince certain powers to sign the right forms. And I could do it, I think.&lt;/p&gt;
+
+&lt;p&gt;But my schedule these days makes me tired just documenting it in my calendar, which is so full it can’t possibly still be accurate. It’s time to consider other, more serious prospects than this Bourne-esque meltdown of a fantasy I’ve been scrambling to maintain. &lt;em&gt;The Job&lt;/em&gt;, as it were, is paramount to the continued existence of this lifestyle, but it’s entirely unreliable and every time I accept another assignement it feels like taking another drag from a pipe whose embers have long since gone out.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, deep mysteries of curiosity and doubt stir in dark waters that rise and drop for no apparent reason. I do not trust the tides any more than I trust the sea, and when it seems that all things are floating down the river in a manner most becoming for the passenger, I start to wonder…&lt;/p&gt;
+
+&lt;p&gt;Questions of purpose, fate, ethics and other forces creep in; riddles in the dark. Notions of what may be next adorn my lists and notes; most words that I put down, in fact. The blocks are falling into place, I think. I’ve made no arrangement with the powers that be as of yet, but a trip down to Orlando a few months ago took me places I did not intend, and the results were, well, momentous, if nothing else.&lt;/p&gt;
+
+&lt;p&gt;For a trip I’d not intended to make, it was fortuitous down to the last leg, where I found a $5 bill in the backseat of the cab.&lt;/p&gt;
+
+&lt;p&gt;I have been to these conferences before. I’ve clapped at meaningless statements of teamwork and future success for all. I’ve cheered whatever lame cheer we decided we’d all yell to show our intent to rise and succeed in the coming year. I’ve whooped with sales reps and middle level managers over drinks that their fat expense accounts were paying for. I’ve heard these powerpoint presentations before.&lt;/p&gt;
+
+&lt;p&gt;Shit. I think I &lt;em&gt;wrote&lt;/em&gt; some of them.&lt;/p&gt;
+
+&lt;p&gt;So I wasn’t excited about this latest money-spending fest, even less so because they’d scheduled it around thanksgiving, the busiest travel holiday of the year.&lt;/p&gt;
+
+&lt;p&gt;But when I finally got over what my purported duty was at the event and left my executive suite to walk down the hall and play Beirut with some old acquaintances that just &lt;em&gt;happened&lt;/em&gt; to be at the same hotel, I was forced to do some serious thinking…&lt;/p&gt;
+
+&lt;p&gt;“I tire of this,” I thought. It’s fine to have a life that provides so much time, but that is not freedom. It’s my own signature I really seek, my own approval — I just don’t know which forms to fill out yet.&lt;/p&gt;
+
+&lt;p&gt;But you know what I hear is good for learning to fill out forms? Grad School.&lt;/p&gt;
+
+&lt;p&gt;…yeah.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/04/a-mild-distraction/&quot;&gt;A Mild Distraction&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on April 08, 2010.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Last Leaf Hanging]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2010/01/the-last-leaf-hanging/" />
+  <id>http://localhost:4000/2010/01/the-last-leaf-hanging</id>
+  <published>2010-01-24T13:05:23+00:00</published>
+  <updated>2010-01-24T13:05:23+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Yeah, those other two are off trying to write a book like two right hands with one pen between them. No word yet how long they’ll be.&lt;/p&gt;
+
+&lt;p&gt;And I wish them luck, of course. Writing a story is a daunting task if you want it to be even remotely readable, let alone good. For me, though, the great and all untouchable novel is an animal I’d rather not have to deal with no matter how much coffee I drink. I can’t imagine taking on that amount of work voluntarily.&lt;/p&gt;
+
+&lt;p&gt;So they’ll be gone a while. But that doesn’t stop the ugly and the weird from showing up in the world of government, politics and economics. And shit, that’s &lt;em&gt;my&lt;/em&gt; turf. So let’s get started.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;First of all, I’m not talking about Haiti. I’m certainly not talking about John Edward’s illigitimate child, and god-damn you if that’s what you wanted to read about. You know what’s happening in Haiti by now. You know what the problem is. Poverty. Destitution. Inequity. Unfair extortion from France, and a general disinterest from the rest of the world. A lack of roads from the airport is just a symptom, as are the riotous crowds that form whenever someone tries to distribute supplies or food to those dying from things much worse than crumbling buildings. You don’t need Anderson Cooper showing you these things over and over for ten days; what you need is to know what policies have been in place that supported these conditions, who enacted those policies, who might have benefitted from them and which of these people are still running for re-election? And if they’re appointed, who appointed them or might reappoint them or someone similar? You need to know how you can vote to avoid these kinds of conditions. That’s political free speech, and that’s what runs a Democracy.&lt;/p&gt;
+
+&lt;p&gt;In any case, I digress. Or do I? What I really meant to talk about here is how our leaders don’t really work for the left any more than they work for the right. If you don’t see this, you’re probably getting your news from exactly where they want you getting it from. You’re probably watching CNN, or reading without thinking, maybe even wondering where you could possibly find the time to learn about any of these big issues enough to take an intelligent stand on it, assuming you had time to do that.&lt;/p&gt;
+
+&lt;p&gt;But that’s exactly the problem.&lt;/p&gt;
+
+&lt;p&gt;Look: after what happened this last week in the Unite States Supreme Court I was all ready to vituperate the general voting public. I was nonplussed at first, struck dumb with disbelief at the blatant criminality of what I’d just heard. &lt;em&gt;It can’t be true&lt;/em&gt;, I thought, &lt;em&gt;this must be left-wing spin&lt;/em&gt;. My sense of irate disgust kicked in and I wanted to set the internet on fire. But I couldn’t get it all down before my reason got the best of me and the next thing I knew I was scouring left and right wing news sites looking for details, as well as noting which sites didn’t mention the damn thing at all.&lt;/p&gt;
+
+&lt;p&gt;To be fair, I suppose there are just too many indirect leads into the roots of the causes of this latest bit of very grim news for me to berate everyone but people like Howard Zinn for not seeing this outrage coming…especially given the standards to which I typically hold the general public. This is the Supreme Court we’re talking about, and all you do is vote for the guy who would appoint one or two of them. And they have to be confirmed by…oh, right — the other people you get to vote for. &lt;em&gt;But, man, that’s a lot to consider when all I’m trying to decide is whether this person agrees with me on major issues&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Yes, being a citizen is hard work, eh? But maybe if people who’d voted for a pimp like Bush could’ve considered more than just what he was like to have a beer with, such as what dangerous things might he do in office, we wouldn’t have decisions that endanger the very foundation of what makes a democracy made along a corner of the government that gets almost no attention.&lt;/p&gt;
+
+&lt;p&gt;But this is, after all, the year of the Rat. Maybe not on the chinese calendar, but certainly in the US Congress where the scurvy bastards on both sides have been doing nothing but stalling for the better part of a year now, on pretty much everything they touch. No leadership, no leader, and no action. And down the hill at the courthouse, Kennedy, Scalia and Roberts, along with the other two — who I’m daring you to look up yourself right now — are carrying on the pro-business agenda almost in the dark.&lt;/p&gt;
+
+&lt;p&gt;I say almost because yes, it &lt;em&gt;is&lt;/em&gt; in the papers that the 5-4 Supreme Court ruling overturned about a hundred years of legislation preventing corporations from deciding between them the results of the Amerikan “democracy”. It &lt;em&gt;is&lt;/em&gt; in the papers that the court ruled that money is a form of free speech and that corporations too, have a right to it, amazingly. It &lt;em&gt;is&lt;/em&gt; in the papers that purely legal entities, while still prohibited from giving directly to candidates to further their own agendas, can now spend unlimited amounts on television ads and radio time, or any other form of public influence. But aside from a couple of pundits here and there that are pointing out how much this limits any individual’s ability to make a voice heard over the billions that oil and insurance companies will certainly pour into campaigns now, there is very little noise made about what this ruling &lt;em&gt;means&lt;/em&gt;. The urge of a few people to scream their fiery hearts out into the black empty abyss made wider by corporate money now amounts to a fart in a hurricane.&lt;/p&gt;
+
+&lt;p&gt;But this is and always has been the logical progression of things. When the voting public participates in the political process only enough to claim as much, people with actual interests will surely win out the disinterest of the masses, even if they are the majority. And when those few people aren’t people at all but legal entities with all but unlimited cash, the interests of the disinterested won’t go forgotten, or ignored…they’ll simply cease to exist.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/01/the-last-leaf-hanging/&quot;&gt;The Last Leaf Hanging&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on January 24, 2010.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Too Long in Beta]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/12/too-long-in-beta/" />
+  <id>http://localhost:4000/2009/12/too-long-in-beta</id>
+  <published>2009-12-05T05:34:20+00:00</published>
+  <updated>2009-12-05T05:34:20+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;I put my drink back down on the little plastic foldaway airplane table. In the dark of the cabin, the thin golden liquid disappears into the blackness, which is enriched and deepened by the contrast of the bright screeen staring back at me. I’ve sifted through hundreds of channels beamed in via satellite, live voices telling me things, none of which carry even a whiff of importance, a mild fart of novelty.&lt;/p&gt;
+
+&lt;p&gt;The sky beneath us was distant. A falling ocean, a waterfall of plumes and sprays, with murderous roars muffled by the thick glass of the airplane windows.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Crazy vibrations in my head, but not from the airwaves. And no, not politics, I’m tired of politics. It’s the Israelis and the Palestinians, and Healthcare and the Republicans putting it down and the Democrats sitting on the sidelines jacking off as they always do…they just took 8 years to replace Clinton with Obama, and the results couldn’t be more similar…no, I don’t want to talk about politics.&lt;/p&gt;
+
+&lt;p&gt;The noise coming at me is of a different type, filling me with anxiety and a paralyzing fear. There is possibility on the horizon again; the scent of purpose within my grasp, like the smell of warm apples you can tell are coming from a pie in your oven.&lt;/p&gt;
+
+&lt;p&gt;There is the new apartment, of course, a new skyline to call my own, and the city will be my canvas. No strings like bookdeals come attached, but there is whatever potential I can draw from it, I suppose. Lurking around the bend there are also new whispers of employment, direction, maybe even academia again…&lt;/p&gt;
+
+&lt;p&gt;That’s enough, I thought. There IS no news, and there will never be any again. It’s time to get back to the project on which I’ve fallen so desperately behind. It’s time to write. And it may take a while.&lt;/p&gt;
+
+&lt;p&gt;So be it.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/12/too-long-in-beta/&quot;&gt;Too Long in Beta&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on December 05, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Shadow Lurking]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/11/a-shadow-lurking/" />
+  <id>http://localhost:4000/2009/11/a-shadow-lurking</id>
+  <published>2009-11-03T20:39:10+00:00</published>
+  <updated>2009-11-03T20:39:10+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;It doesn’t matter what you think of MSNBC or Rachel Maddow or Keith Olbermann or their sometimes annoying little band of political correspondants selected to agree with them on the air. It doesn’t matter that they use the same news show equations as Fox News or that they have their own moments of embarrasing journalism, no different from Bill O’Reilly’s or Sean Hannity’s except that the left is a bad comeback to the right and tends to be more infantile and less condescending.&lt;/p&gt;
+
+&lt;p&gt;But never mind all that. &lt;!-- more --&gt;What we have to deal with now is that ugly little rodent of journalism, gnawing on words like a skunk under your porch. That inconvenient liability that facts are — after all — facts, and that by the last period of any story, nothings stands on its own without them. To wit, the myriad facts presented by Olbermann and Maddow since August of this year have been well-checked, their investigations have been conclusive and relevant and their message has been clear and consistent. Not to mention cohesive and sane, with a touch of intelligence not seen on most other networks.&lt;/p&gt;
+
+&lt;p&gt;Mind you — in fact, BEWARE! I make no defense for network news. They are all of them feeble and vapid wastes of time, a sickly portal for information, constipated and obtuse. The 24-hour news cycle does for relevant information what a swollen prostate does to a stream of urine. And nobody likes to get up five times a night to barely squeeze a trickle.&lt;/p&gt;
+
+&lt;p&gt;Why the hell do we put up with &lt;em&gt;this&lt;/em&gt; shit?&lt;/p&gt;
+
+&lt;p&gt;But as we’ve seen with the two-party system in this country — which is really just a one party system that is, before it is anything else, pro-business — facts don’t always go hand in hand with reasonable reactions. And sometimes the strategies on the white board must simply be turned upside down.&lt;/p&gt;
+
+&lt;p&gt;It was odd to watch Olbermann, the newsman turned poet writhe and pulse with tones of anger and a menacing darkness about his gaze, filling the airwaves with his own pitch for health care, his own story. It was weird to be moved by a journalist’s pitch, to have his bias slap me in the face like a clown beating a piñata with the small end of a baseball bat. Using his father’s battle with age and infirmaments, he spoke of every one’s fear and resistance to death and pain. &lt;em&gt;Bias be damned&lt;/em&gt;, he implied, &lt;em&gt;if I can’t reach you buffoons with the logical progression of facts and guided journalism, by god, I’ll reach into the pits of my own desperation, my own human battles if I have to&lt;/em&gt;. And not in a pathetic and phony plea like that idiot, Glenn Beck, who would, if he were any kind of decent, at least take acting lessons before attempting to stir my pity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And&lt;/em&gt;, he continued, &lt;em&gt;if it doesn’t satisfy your need to be entertained, then fuck you, because this is about action, not rhetoric. If the facts won’t stir you, and the poetry won’t touch you, well, then I’ll spell it out for you. And whether mindless viewer or devoted activist, I WILL TELL YOU WHAT TO DO&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And then he did.&lt;/p&gt;
+
+&lt;p&gt;A call to action. An honest-to-god initiative by the left, something not seen since Vietnam, and even that might be a little naíve to consider. Hold free health clinics in the states of the 6 or 8 democrat senators who are seemingly siding with republicans on the public option issue of the health bill. Hold those dogs accountable for what you need from them. Show those miserable pro-business miscreants giving advantage to the health-care giants at the cost of human pain that what we want is possible, and that we know it is THEY that stand in our way. And then, goddammit, vote accordingly when the time comes, eh?&lt;/p&gt;
+
+&lt;p&gt;And with that, he returned to the regular programming, of filling up the airwaves with another 24 hours of informatioin, and we, the viewers, the citizenry, were left to do with that message what we will. I only mention it because it was weird to remember just how much inane chatter is out there in the ether to spill into our minds if we’re not selective of what we bother wasting our time with.&lt;/p&gt;
+
+&lt;p&gt;I was moved by Olberman’s near soliloquy on MSNBC. Well, not on TV, and not that night since I watch and read my news on the internet, when I damn well please, and in a way that I can spend the time to form my own opinions, on my own terms, without having Lexus, Jack Daniels and Boeing commercials splashed at me with ridiculous fervor, without having my thought processes constantly interrupted by by a jangle of clowns. I’m sure that the darkness and the settled air of 8pm prime time generates its own air of propriety for his words, but what the hell? One in the afternoon was good enough for me.&lt;/p&gt;
+
+&lt;p&gt;In any case, it stirred me. For a moment I even considered that there might still be cogs within the machine that are acting on behalf of the very principles they claim; our principles — the ones that serve that almost mythical creature, the citizen. It was a weird feeling, to be honest.&lt;/p&gt;
+
+&lt;p&gt;…though it fades just as quickly.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/11/a-shadow-lurking/&quot;&gt;A Shadow Lurking&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on November 03, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Imminent Retreat]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/10/imminent-retreat/" />
+  <id>http://localhost:4000/2009/10/imminent-retreat</id>
+  <published>2009-10-12T04:31:53+00:00</published>
+  <updated>2009-10-12T04:31:53+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The trouble is mounting on something already too twisted and cold to grasp without gloves. Much like yanking thick ivy off a wrought iron fence on a cold morning, finding any trace of actual public service under the hack and filth of the new health care bill will be a job no American will want to take. Truth is, even before the votes are all in it’ll be just as heavy. Chances are, of course, that it won’t fall on you, and you’ll be able to safely ignore the damn thing without looking odd and out of place like a sexless jack rabbit in spring. Soon enough the congress will round up to vote on the health care bill they’ve been talking incessantly about and we’ll answer once again that old question: if a politician votes no on a necessary piece of legislation and no one from his state has been paying attention, will the affair make any noise at all?&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Despite the activists, despite the motions, the small contributing calls to action here and there that might have been producing some sort of momentum, when the vote comes down we will hear very little about it, and not because of the mainstream media’s usual complicit tactics with the men on the hill. No, we won’t hear about it because it will no longer be news; there will no longer be any story worth telling as we’ve all known for some time now that this is and has always been the same story we’ve heard before, just with a different illustrator. And in the world of 24-hour news, grief is a very expensive line item.&lt;/p&gt;
+
+&lt;p&gt;Of course, it’s not really a vote for or against anything we wanted in the first place, which is the right to not worry about how we, as human beings, will pay for our health. What they’ll be voting on won’t even bother trying to offer single-payer health care. It will feign to be reform in the sense that it will offer a weak and unenforceable version of a mandate that everyone be insured, but all this will really do is provide many new unwitting clients to an industry rolling with the fat of peoples’ suffering.&lt;/p&gt;
+
+&lt;p&gt;It will not regulate the prices those fat cats can charge, allowing insurance companies to inflate them as much as they can get away with. And when you’re lying on an operating table with a lump the size of a golf ball in your breast, or a grown man’s finger up your rectum saying, “uh-oh, mister Johnson, it looks like things are about to get uncomfortable for you,” you’ll consider just about any price they start throwing in your direction.&lt;/p&gt;
+
+&lt;p&gt;Assuming they’re willing to pay for it at all. Shit, in the light of this mess it’s come out that insurance companies won’t even promise to cover their own emlployees…what chance do you think YOU have?&lt;/p&gt;
+
+&lt;p&gt;Instead, the new plan might offer the states the Right to offer a state-level option for health care as a token of show, a shiny hood ornament, or something just as functional. It will be ravaged by the insurance company executives and lobbyists in the much weaker state legislatures which — conveniently — is where the whole process will become easier to ignore, because who the hell is paying attention to state legislatures? Not to mention creating the potential for fifty different health care organizations, all doing more or less the same thing and doubling up on all of the same administrative tasks, wasting more money than necessary and dooming the projects to the critics years before it’s even time to bury the thing.&lt;/p&gt;
+
+&lt;p&gt;And when the impotent thing passes — which it will…no politician today can afford the political capital of not passing SOMETHING — we will hear all kinds of applause for a few days before the whole thing vanishes under cloaks of appeals and unsexy subcommittee talks. Nothing for the national press, I’m afraid. Unless I’m much mistaken — and I’ve never wished so badly that I was — we will hear President Obama laud it as his success at bipartisan health reform, just like Clinton did for his own inadequate failure. Democrats will pat each other’s backs and shuffle out the door to discuss “Don’t ask don’t tell”, while Republicans grumble behind the camera and shout on the radio about repealing what the democrats shove through.&lt;/p&gt;
+
+&lt;p&gt;And who cares? They’re not going to repeal anything any more than you’d notice if they did. Health care as a topic will fizzle, probably until the next time a “hope and change” candidate runs and we’ll go through the whole futile exercise again. Maybe we’ll still have journalists like Maddow and Olbermann, and we’ll still have lunatics, pimps and jackasses like Sean Hannity, Bill O’Reilly, and Glenn Beck. And we’ll fuck that up too, and move on to the next juicy topic, be it Afghanistan, or gays in the military, or Rush Limbaugh’s failed attempt at buying the St. Louis Rams. Whatever. It’s all been done before.&lt;/p&gt;
+
+&lt;p&gt;And in 2010, with Obama’s new Nobel Peace Prize for…something, and the Democrats’ most epic failure since George McGovern’s loss in ‘72, Republicans will slowly gain more and more seats again, until finally, when they’ve found a voice sober enough to silence idiots like Sara Palin and Bobby Jindal, someone with more temporal coherence than Michael Steele to stay on point and lead their party in some kind of direction, the vicious cycle will return us to a Republican President again.&lt;/p&gt;
+
+&lt;p&gt;Don’t mistake my anger for pessimism. It’s just that…well, I hope to be halfway to Mars by then.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/10/imminent-retreat/&quot;&gt;Imminent Retreat&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on October 12, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Maybe Nothing Should Be Serious]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/09/maybe-nothing-should-be-serious/" />
+  <id>http://localhost:4000/2009/09/maybe-nothing-should-be-serious</id>
+  <published>2009-09-11T22:37:56+00:00</published>
+  <updated>2009-09-11T22:37:56+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;“What $550?” I asked Shane, who had called me from some shit hole in Wyoming.&lt;/p&gt;
+
+&lt;p&gt;“$537, actually,” he corrected me. “Direct. Barcelona to JFK, round trip.” His voice was covered in static through the mobile.&lt;/p&gt;
+
+&lt;p&gt;“That’s incredible. Truly &lt;em&gt;increíble&lt;/em&gt;, man. Did you know a ticket from Amsterdam to Barcelona would cost me just as much?” I didn’t believe it when I was looking for a ticket to go meet up with him, and it still didn’t make any sense, even two days later.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;“I know, right? That’s a €50 ticket. It’s extortion!”&lt;/p&gt;
+
+&lt;p&gt;“Well, it’d be extortion if there was a rhyme or reason to it. The fact that Jeff flew to Madrid on $200 and you can fly to JFK for 500 while I’m paying $1600 to go to Brasilia is just plain chaos. Who &lt;em&gt;prices&lt;/em&gt; these things?”&lt;/p&gt;
+
+&lt;p&gt;“Well, use your head. You and your friends fly internationally every week — what’s a typical transatlantic ticket going for these days?” He asked. A reasonable question on the surface, pointed as it was. But even with all my flight time and miles logged, I sure as hell couldn’t come up with an answer.&lt;/p&gt;
+
+&lt;p&gt;“Granted, they placed me in business class last week,” I said, remembering the over-rated and definitely over-priced €1500 1A seat I had on that 747. Anyone who says it’s unnecessary but worth it is selling something. “But for me, it varies on any given week from €300 to €900. I’m starting to suspect they have a big wheel-of-fortune prop in a hangar somewhere and every day the airlines take turns placing an iguana on it and spinning it until the thing lands on a number that doesn’t hurt their bottom line.”&lt;/p&gt;
+
+&lt;p&gt;“I see,” he said, his voice carrying a sound of concern. One thing is sure — coming up with a reliable number is not as straightforward as it should be.&lt;/p&gt;
+
+&lt;p&gt;Air travel has become far, far too complicated. We all know this, of course, and we all love to bitch and wail about our own anecdotes of terrifying and sometimes weird horror. We make a lot of noise about the cramped seats, the shitty food, &lt;em&gt;what they did to us at airport security&lt;/em&gt; and so on… experiences that are valid, sure, but small. These are the obvious infringements against our comfort, our timeliness and our privacy and the tales carry with them great weight when told to a friend, or bored co-worker. But look around any discussion board on the internet. Listen over the long term. These are not unique. These stories are common place; boring almost. Change is not effected based on boring statistics, no matter how real or rational they are.&lt;/p&gt;
+
+&lt;p&gt;It’s the encroachment into the space lacking common sense that we should be watching. The steps in that direction carry the real danger of the industry, but more importantly, they carry the juicy sweetness that any story needs to properly captivate the public for long enough to make a difference.&lt;/p&gt;
+
+&lt;p&gt;And I warn you in advance: if healthcare, a deeply important issue that is central to the self-preservation of the economy, every corporation which employs people and just about every living person — and all of the dying ones — is struggling to keep that attention, I wouldn’t give much hope to anything less ridiculous than Scrubs…&lt;/p&gt;
+
+&lt;p&gt;But that’s negativity and we don’t need that. Not here, where we’re about to make a point. Which is important if you’re going to be a writer, or at least if you’re going to be a journalist. Which is, for the record, and definately for the moment, out of my hands.&lt;/p&gt;
+
+&lt;p&gt;“Amsterdam to Nice is €30 for the weekend,” he told me over the static. I could tell he was sitting in front of a computer, randomly looking up flights. What the fuck did I care about &lt;em&gt;Nice&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;“Which weekend?” I asked. I thought it was important.&lt;/p&gt;
+
+&lt;p&gt;“…doesn’t matter,” he said, “You’d have to leave in two hours. But if you go next weekend…” he trailed off, probably waiting for the search to finished running.&lt;/p&gt;
+
+&lt;p&gt;“…next weekend…it’s…€320.”&lt;/p&gt;
+
+&lt;p&gt;“That’s more than ten times the price!” I yelled at him, though I’m certain he could do the math. “Are you kidding me? In NO OTHER INDUSTRY are prices &lt;em&gt;this&lt;/em&gt; elastic. Why do we, as consumers, put up with this?”&lt;/p&gt;
+
+&lt;p&gt;There was silence on his end of the phone.&lt;/p&gt;
+
+&lt;p&gt;“Are you still there, man?” I proded.&lt;/p&gt;
+
+&lt;p&gt;“Yeah, yeah,” he came back, sort of stumbling. “But are you sure that’s the right economic term? I don’t think that means what you think it does.” I could tell he was smiling. “I thought an elastic commodity was something where the demand is reduced by an increase in price.” Some of it was still struggling to get off his face.&lt;/p&gt;
+
+&lt;p&gt;“Don’t get all Adam Smith on me, you nervous ape,” I started. “I said the prices are elastic, not the commodity. Damnit, I’m a writer, not an economist. I’m being descriptive, econometrics be damned. Don’t be a douchebag.”&lt;/p&gt;
+
+&lt;p&gt;“Really.” He’s an enigma, especially over the phone. “But, yeah, you’re right. I have no idea why we put up with that though, except that I don’t know how else to react.”&lt;/p&gt;
+
+&lt;p&gt;“That says something, doesn’t it?” I asked him. “If other &lt;em&gt;inelastic&lt;/em&gt; things such as beer, or advil — depending on who you are — fluctuated in price by a factor of ten every week, what would we do? Not &lt;em&gt;nothing&lt;/em&gt;, right?&lt;/p&gt;
+
+&lt;p&gt;He thought about it for a second. “Is that even the right example?” He asked. Seriously, this time, I could tell. “Really,” he emphasized.&lt;/p&gt;
+
+&lt;p&gt;I gave him the benefit of the doubt. “I’m not sure. Maybe not. But what’s the score here, you know?” I pushed it. “What’s this lead to?”&lt;/p&gt;
+
+&lt;p&gt;He thought about it, and I could tell I was getting some of my frustration through to him. I continued. “Take, for example, reservations,” I said, leaning into my thought. “The other day I booked a train ticket from Boston to New York. I booked it online, everything done without so much as a conscious human knowing about my purchase but me.”&lt;/p&gt;
+
+&lt;p&gt;“…and the CIA,” he said.&lt;/p&gt;
+
+&lt;p&gt;“You rotten bastard,” I scowled at him. “You know those pigs monitor international calls coming into the US. You keep mentioning the CIA every time I call you and I’ll be lucky to be allowed back in the country instead of shipped off to some unknown forest in Eastern Europe or Siberia.”&lt;/p&gt;
+
+&lt;p&gt;“Get a grip, man. You sound like those paranoid delusionals on FOX News when you talk like that. Besides, they’ll keep you out of the country for much less than that.”&lt;/p&gt;
+
+&lt;p&gt;“True enough, eh?” I said, knowing full well that I’ve got other things to worry about. “Anyway, so I had this ticket I’d booked online, and I realized a couple hours later that I’d have to catch a train sooner than that. Like, in the next two hours.”&lt;/p&gt;
+
+&lt;p&gt;“So?” He asked.&lt;/p&gt;
+
+&lt;p&gt;“So…can you imagine if it’d been a plane ticket? Can you imagine the possibility of changing a reservation like that? Airline reservations are treated like they were more fragile than babies with osteoperosis. You can barely talk about it, and even if you can, you’ll have problems that strike the kind of bureaucracy only found in the real estate industry and hospital adminstration.&lt;/p&gt;
+
+&lt;p&gt;“First the new reservation would have to fall under the same category of ticket class. You knew that there are varying kinds of price classes even within First Class and Business, right?”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, there’s like, two or three, I think.”&lt;/p&gt;
+
+&lt;p&gt;“Well, I’m not sure how many kinds there are for Economy, but they use most of the letters of the alphabet. So the chances are already grim.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” he said, following my logic.&lt;/p&gt;
+
+&lt;p&gt;“Then you’d better hope that the ticket you purchased was flexible, where changes are allowed for a $100 or $200 fee. If not, and most ‘affordable’ ones aren’t, then you can’t change it at all. Sometimes it’s cheaper and less of a headache to just buy another ticket.”&lt;/p&gt;
+
+&lt;p&gt;“Are you saying they do this on purpose?” He asked over the mobile line.&lt;/p&gt;
+
+&lt;p&gt;“Do I have to?” I exclaimed, throwing my hands into the air and forgetting that one of them held my phone. Or was holding my phone that is, until it flew out of my hands and across the pavement as I walked from my car.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fuck&lt;/em&gt;, I thought, and walked over to fetch it. I bent down to pick it up and my messenger bag slipped off my back onto my side. I hate it when that happens.&lt;/p&gt;
+
+&lt;p&gt;Thankfully I’ve always been into sturdy little phones that don’t have all the other bullshit like cameras, GPS, iTunes, and copies of Shakespeare’s entire works. I saw that the call was still live and heard Shane’s faint little voice, as if he were a tiny little man in my stupid phone saying, ‘Hello? Hello? Hey, are you there? Did the call drop?’&lt;/p&gt;
+
+&lt;p&gt;“Yes, I’m here,” I said, annoyed that I had to fix my shirt that was now all crumpled onto one side.&lt;/p&gt;
+
+&lt;p&gt;“What the hell happened?” He asked.&lt;/p&gt;
+
+&lt;p&gt;“Nevermind,” I told him. “It must’ve been the CIA trying to cut my line, you reckless prick. Watch what you say on international calls, damnit. You know better than that.”&lt;/p&gt;
+
+&lt;p&gt;“Whatever, get back to your point,” he said, “…you were going somewhere interesting with that.”&lt;/p&gt;
+
+&lt;p&gt;“The point, Shane, is that the system makes no sense at all in its current form and yet we foster the status quo without even thinking about it. It’s like health care.”&lt;/p&gt;
+
+&lt;p&gt;“Like &lt;em&gt;health care&lt;/em&gt;?” he snided. “No. Don’t start giving me another long-winded schpiel about your most recent political moment of insight. Airlines are &lt;em&gt;nothing&lt;/em&gt; like healthcare. They have planes.”&lt;/p&gt;
+
+&lt;p&gt;That made me smile.&lt;/p&gt;
+
+&lt;p&gt;“Hey,” he said, “you know where the problem with healthcare begins?&lt;/p&gt;
+
+&lt;p&gt;I humored him. “Where, Shane?”&lt;/p&gt;
+
+&lt;p&gt;“Sick people.”&lt;/p&gt;
+
+&lt;p&gt;“Jesus, man…” I started to say, but he exhaled loudly and continued his thought.&lt;/p&gt;
+
+&lt;p&gt;“…a_irlines are like health care — _what the hell does that mean?”&lt;/p&gt;
+
+&lt;p&gt;“Yeah. It’s not a system that exists to do what it should be doing. It exists because that’s how it’s grown. That’s what men — mostly rich, white, powerful men — have wanted it to be. Ripped and patched, sabotaged and staged, the legislation and regulation that defines it is constantly open to make room for more profits for — well, somebody. More and more seemingly ridiculous policies that make a few people very rich are put in place over the years in spite of its customers’ woes.”&lt;/p&gt;
+
+&lt;p&gt;“Seems to me like a damn fine business model for these fat white guys you seem to dislike so much…”&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” I said, “and it’s better than you think. Because it doesn’t matter that the business is going in the tank…CEO’s never lose money.”&lt;/p&gt;
+
+&lt;p&gt;“Huh,” he said, and thought for a second. “Then I’ll tell you what I’m NOT.”&lt;/p&gt;
+
+&lt;p&gt;“What?” I humoured him. “A CEO? In the right business? Is the liquor store clerkship not paying huge dividends and bonuses this year?”&lt;/p&gt;
+
+&lt;p&gt;“…going to get my knee surgery paid for.” There was no mirth in his voice; he sounded serious. “The insurance my parents had bought when I came back to the United States after losing my job in the Netherlands says it was an old sports injury and therefore a pre-existing condition. Fifteen thousand dollars.” I didn’t know what to say. “And if you’re right about airlines that are out to fuck us while barely serving us peanuts, I don’t think I have any hope of nursing my knee back to health without forgoing the next ten years of expenses.”&lt;/p&gt;
+
+&lt;p&gt;The line was quiet for a second. One of us swallowed.&lt;/p&gt;
+
+&lt;p&gt;“Wait, are you serious?” I asked him.&lt;/p&gt;
+
+&lt;p&gt;“Yeah.” He said.&lt;/p&gt;
+
+&lt;p&gt;“Really?” I asked him.&lt;/p&gt;
+
+&lt;p&gt;“Really.”&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/09/maybe-nothing-should-be-serious/&quot;&gt;Maybe Nothing Should Be Serious&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on September 11, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Little Bit of Noise in the Night]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/08/a-little-bit-of-noise-in-the-night/" />
+  <id>http://localhost:4000/2009/08/a-little-bit-of-noise-in-the-night</id>
+  <published>2009-08-29T13:47:07+00:00</published>
+  <updated>2009-08-29T13:47:07+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Nothing behaves as irrationally as a cornered beast. Believe me, I know. At the moment, I am one of &lt;em&gt;them&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are few things as dangerous as a mammal that has lost all other options and is faced with no choice other than the grim and vaguely disturbing idea of fanatically hopping a four-hour train along the coast of New England at two in the morning. To do so after twenty hours of no sleep and going the next 72 on less than three — well, there are people that would say that’s just plain stupid. And I would agree with them, if there had been any element of choice in the matter whatsoever.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;It was one of those calls that you hate to get, especially late in the day after ten or twelve of those very focused hours of work where you get up and are dizzy just from rejoining reality and feeling almost human again.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I need you need to be in the office in New York at two in the morning so we can get started here in Europe on time.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Fuck. I was still in Boston at the time.&lt;/p&gt;
+
+&lt;p&gt;And after the four-hour train ride, and after another full bore, ten-hour work day, I still had to catch a flight to Europe.&lt;/p&gt;
+
+&lt;p&gt;I am now completely out of my mind. To make matters worse, the drink cart on the flight across the Atlantic has just rolled down the aisle. The New York red-eye to Amsterdam is normally packed with Dutch men and grungy boys, which means they overload on Heineken and almost nothing else. Tonight, for some inexplicable reason it’s been filled to the brim with noisy Italians and free scotch. You can see where this might go, right?&lt;/p&gt;
+
+&lt;p&gt;Awry.&lt;/p&gt;
+
+&lt;p&gt;Italian men are noisy on their own, and love nothing more than to fucking &lt;em&gt;talk&lt;/em&gt;. Pair them up with the gambit of Slovenian women that were going to Amsterdam and the place goes all to pieces. The Italian man in the seat in front of me was singing on about what must have been futbol to the pretty blond next to him. A dude, I think, but Italians are all very pretty.&lt;/p&gt;
+
+&lt;p&gt;At the rate that Michelangelo or whatever was talking, the other guy might have litterally had an anyurisim had he not been Italian himself. His eyes might have swollen up with the build-up of blood from the ruptured vessel in his brain, just behind the sockets, and the veins in his neck would’ve started sinking in, pulling the skin tight around the adam’s apple and exposing the grainy texture of the malnourished cartilage. Other things happen too, and I’ve even heard of bursting capilaries at the fingertips and in and around the oral cavity. Had he been of any other nationality, things might have gotten that ugly, but thankfully Italians can ingest quite the wordcount per minute.&lt;/p&gt;
+
+&lt;p&gt;On the other side of the plane, about five rows back, seven or eight hollering whoops exploded when the drink cart rattled by. They went crazy on the whiskey, begging the flight attendant for more. When she tried to tell them they could only have one each they went berzerk, climbing over seats, taking the microwaved ziti marinara from the other passengers, screaming about their mothers and proposing marriage in sonnet form to random Slovenian women right in front of their husbands. It was awful. When one of the younger kids went for his football I watched as the flight attendant scurried down the aisle towards first class, covering her head and neck with her arms and screaming for mercy from the degenerates. The Slovenian girl at the window seat next to them, who couldn’t have been older than fifteen, had her feet up on the seet, her arms clutching her knees at her chest in a fetal position, rocking back and forth and mumbling something no one could hear.&lt;/p&gt;
+
+&lt;p&gt;Things didn’t quiet down until we passed the tropical storm we were flying over, and then they all seemed to run out of electricity and pass out. I can only stipulate that the electrical disturbances below the plane had something to do with it but that’s not based on anything other than highly skewed empirical evidence.&lt;/p&gt;
+
+&lt;p&gt;I missed more than half of what the Italians said, of course, but not even the blind deaf can miss the sheer volume of word output these guys produce. The levels of noise pollution alone are cause for local statutes to be put in place where severe noise disturbances can have drastic consequences. I bet no Italian man has ever heard the little safety schpiel early in the flight, which probably explains the alarmingly high statistic put out earlier this year by the FAA, wherein it was shown that 48% of deaths in airline accidents are Italian men, or men of Italian decendancy. It went on to say that the majority of Italian men who perish on flights are found in positions that suggest they were desperately trying to undue their seat-belt buckle or else leaning over to the seat next to them with their own oxygen mask in hand, either asking to put it on or else discussing the latest fashion show in Milan.&lt;/p&gt;
+
+&lt;p&gt;Thaese numbers are true. I absolutely did NOT make them up*. Would I lie to you?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;And, yeah, I had plenty of scotch too, but that’s not what I’m getting at or why I’m out of my mind. I wish my craziness was due to something fun like the electrical problems of the Italians, endorphins, philosophical astrophysics, rum, or mescaline. Even scotch. But alas, it’s just rage. Pure, disgusting, over-the-top, angry, furious, unreasonable rage.&lt;/p&gt;
+
+&lt;p&gt;Bear with me — I started this whole thing meaning to get political but like the Italians, things got a little out of hand. Trust me, it’s better than many of the alternatives. House bill 3200: allow me — ‘cause, you know, I’ve read it…&lt;/p&gt;
+
+&lt;p&gt;What? It was a long flight and I felt like reading some law…&lt;/p&gt;
+
+&lt;p&gt;First it was the town hall meetings, those already ridiculous stages wherein members or the ruling class, with the media’s help, get to look like they give two hoots of a damn about what YOU think. More on this later.&lt;/p&gt;
+
+&lt;p&gt;Then the town halls started getting nuts. And not, you know, normal nuts like Michelle Bachman or Orin Hatch nuts. Not Sarah Palin nuts or even Robert Bork nuts. I’m talking about people showing up at Presidential rallies armed with automatic assault weapons with shirts that indicated quite clearly what their intentions might have been and the secret service just standing there as if they had been cupcakes on parade. I’m talking about people showing up at meetings where the agenda is health care while brandishing their second amendment rights like that’s what was at stake. I’m talking about a new path being walked by the insane, the uneducated, the misinformed and the stupid of this country, and they’re being led by the same evil jerks that keep trying to bring you such debocles as the flat tax and the privatization of social security.&lt;/p&gt;
+
+&lt;p&gt;Now we’re seeing that there is little coincedence in all of this madness. Indeed, there is little chance of chance at all, seeing as unreasonableness has been the plan all along. Thanks to reporters and journalists who are doing real work instead of catering to the American portrait of the stupid and the lazy jackass in an easy chair listening to Fox News trash, we’ve now had painted for us a chart connecting the dots, laying the truth out in front of us as graphically as it gets. Never mind that Rachel Maddow and Keith Olberman ask questions that cater to their leftist agenda using the same formula that Bill O’Reilly uses to show his condescending and insane version of reality. Never mind that their network is indeed the left-leaning MSNBC, responsible for their own sets of idiotic stunts and ventures.&lt;/p&gt;
+
+&lt;p&gt;They’re still right.&lt;/p&gt;
+
+&lt;p&gt;See, we’re now finally dealing with FACTS, and it’ll come out in the public’s eye soon enough. It better, or the way things are going someone might get shot first. But for the first time since I can remember, it’s not just obvious — it’s &lt;em&gt;provable&lt;/em&gt; that our society is not having a discussion about differing opinions but rather one of differing realities. Facts themselves are being debated right in front of philosophers’ eyes as they stare on in disbelief.&lt;/p&gt;
+
+&lt;p&gt;This is not Newtonian physics. At least half of this debate is WRONG.&lt;/p&gt;
+
+&lt;p&gt;And that’s important to remember when the shit hits the fan, because someone’s going to be responsible. And I don’t want to have to fish out records saying it wasn’t me, or I told you so or anything else that crass.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Speaking of crass, what’s her name, Betsy McCaughey, that ideology pimp who started the whole Death Panels discussion with a flick of her inarticulate tongue and a nod of her ugly face, finally found a wide-reaching audience. Again, never mind that it took a host guaranteed to be making fun of her, that was the only venue she could find that wouldn’t already be packed full of crazies and unthinking, guilt-plagued jackasses. It was all she could get at this stage in the game. On the Daily Show, trying desperately to convince anyone in the studio audience who would look at her that she had a point, Jon Stewart litterally tore her evidence from her as he tore up the rest of her argument as sheer nonsense to the applause of millions. That must have been a good day to get those free tickets, eh?&lt;/p&gt;
+
+&lt;p&gt;But the people in the studio didn’t have to watch the ironic Yoplait commercial at the break, the one where strawberries are dropped into the thick splash of the creamy yogurt substance, and then bounce off of it when it’s frozen. The sexy voice comes on to say their new (&lt;em&gt;new? really?&lt;/em&gt;) yogurt can be had both ways: in the fridge as a mousse, or in the freezer as a…frozen treat. They didn’t know, I guess, what to call it. Frankly, I don’t either.&lt;/p&gt;
+
+&lt;p&gt;And then I realized why the whole debate is so aggrevating. Anyone who reasons at a five-year-old level can see the obvious; you just have to be paying attention in order to see it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;And now again, as always, the Democrats seem desperate once more because the brain tumor that took Ted Kennedy’s life might make the sixty seat majority irrelevant for another 5 months. Assuming they don’t do what the Republicans want and make it an 85 vote requirement just because, you know, they want it that way now that they’re not a barely-fifty-one majority. Not that any news outlet still making a profit even remembers the health care debate, spending a third of the day covering the location of Ted Kennedy’s body, much like Michael Jackson’s a few weeks ago. Maybe they’ll make a diamond out of his hair too, though I bet someone will find a way to make something more fitting out of Ted Kennedy. Maybe they can regrow Winston Churchill from his pubes.&lt;/p&gt;
+
+&lt;p&gt;What? None of that now, eh? It’s way too soon for something that ugly and I’d hate to see it derail the very thing that the old Lion stood most for, besides booze and sailing, which, as a matter of record and disclosure, I’m all for. I mean, talk about conflicting agendas, right? Here you have MSNBC, dying to promote universal health care in any way possible, going to such lenghts as actually investigating and actually reporting the evil conflicts of interest in the parties rallying against the most common-sense initiative since they repealled prohibition with the 21st amendment. And the man that fought most ardently for it, whose whole 47-year-career revolved around it, the guy whose last efforts as a senator a few days before his death included an attempt to immediately replace himself with an appointment by the Democratic Governor in order to ensure action on health care while it still has a dying breath left in it…&lt;/p&gt;
+
+&lt;p&gt;But, well, they’ve got to have their ratings, so forget the forged letters to government from Insurance and Coal companies purporting to be from average citizens. Never mind hidden and private funding into anti-health care initiatives coming from the very people who would lose power and wealth were such an initiative to pass…&lt;/p&gt;
+
+&lt;p&gt;It’s off to the hearse we go. Talk about pulling the plug on grandma, eh?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Christ. I still haven’t really gotten to the point of mentioning how Olberman and Maddow are right. I really did start this thing meaning to get there, to discuss the recent study done on viewership of major news stations. Fox News, whose viewers are over 90% republican and can’t find Iraq on a map or hear the insanity coming out of their own asses came in at more than MSNBC and CNN combined.&lt;/p&gt;
+
+&lt;p&gt;Shit. No wonder we’re in such a… ah, you finish it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;* I might have made that up.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/08/a-little-bit-of-noise-in-the-night/&quot;&gt;A Little Bit of Noise in the Night&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on August 29, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sunshine Speaking]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/08/sunshine-speaking/" />
+  <id>http://localhost:4000/2009/08/sunshine-speaking</id>
+  <published>2009-08-11T02:59:01+00:00</published>
+  <updated>2009-08-11T02:59:01+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The gentle burning of the cheap DeWars they serve on transatlantic KLM flights reminded me of the sun I’d felt on my skin not six hours ago in the Old South of Amsterdam. I’d been sitting on a comfortable cushion in the open courtyard, sipping a typical Dutch latté while I waited for an old friend at the College Hotel near the museumplein of the old Dutch Capital.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;But for whiskey to feel that way you have to drink it right. And it’s complicated. Draw half a breath, and then take a sip. And remember, it works best with the middle to low tiers of whiskies, or any scotch younger than ten years. Twelve is too old, too smooth for the right effect. You need the harsh stuff for the right kind of burning. When the liquor is in your mouth, swirl it a bit, but not too much. It’s not wine, dammit, and isn’t activated by oxygen, but rather by settling into itself. So swirl it in your mouth just enough to coat the interior of your oral cavity with the liquid gold and then open your lips and take another slight breath, stopping just before it burns to the point where your cough instinct takes over. Don’t let that happen — that’s bad form and you’ll look like a freshman jackass, so avoid it at all costs.&lt;/p&gt;
+
+&lt;p&gt;As soon as you feel yourself reach that burning point, stop inhaling and begin slowly letting the air out. If you can, simultaneously begin swallowing the whiskey, or rather, letting it fall down your throat. You’ll think of the sun on your skin right away, and you’ll know what I mean.&lt;/p&gt;
+
+&lt;p&gt;You’ll feel hairs tingling as your skin cells expand from the sudden warmth. Comfort will set in on your exposed arms first, and then your face. As the warmth penetrates your clothes, your core will begin to equalize, and if it’s summer in Amsterdam, you can go from chilly to too hot as quickly as a cloud can roll past the sun in high wind. It’s a frightening show of how fickle and dependant our bodies can be on the planet. But for those first five or ten seconds, it also feels damn good.&lt;/p&gt;
+
+&lt;p&gt;Which is how I felt in that morning warmth, just before it got too hot and my back started sweating against the courtyard cushions. I’d been sitting there for a while, drinking ice water while I waited for 10:30 to come. That’s when Vera, my agent and lead in Amsterdam, had agreed to meet me. She preferred that kind of setting, an open courtyard in a classy hotel in the chic part of town by her office, where you can have a fresh morning drink to interrupt your work and “feel as if you’re abroad,” as she put it. Or maybe she’d meant ‘a broad’, which is accurate too, I guess, for her.&lt;/p&gt;
+
+&lt;p&gt;Me, I prefer dark old pubs and bars with aged oak railings that carry the names of their proprietors’ grandfathers. Places where the floor sticks if you don’t step in the right places and where coffee is served only to water down the bourbon.&lt;/p&gt;
+
+&lt;p&gt;But I guess at 10:30 in the morning, this place was more appropriate — yeah, I can see that.&lt;/p&gt;
+
+&lt;p&gt;Unmistakable, whether from a distance or from across a few empty tables on a Friday morning, Vera loves to wear yellow. From brights to dulls, she has yellow blouses, skirts, shoes, gold bracelets, pendants, earings, purse, car and on colder days, leggings. She loves it. Even her credit card is yellow. She wears a grey scarf and red sunglasses, which disturbs me in terms of continuity, but suffice it to say, I didn’t miss seeing her in that empty gravel courtyard and waving her down towards my table.&lt;/p&gt;
+
+&lt;p&gt;I’m not a fan of that kind of attention, of course, and I prefer for my leads to be slightly more conspicuous. Those of you who know me know that my profile is kept low for reasons that involve contact identity protection issues, statute of limitations in certain countries and a general sense of paranoia which, despite its social inconveniences, has kept me in business all these years. So keep your comments to yourselves.&lt;/p&gt;
+
+&lt;p&gt;We started off with the usual chit chat about the Dutch and our mutual dislikes for some of their habits, such as waiting tables and actually bringing you what you ordered. See, Vera is no more Dutch than I am, and atheist Israelis of Polish heritage have a warmth about them that I just can’t ignore, and actually identify with. As if she were the Jewish Grandmother I never had, only younger. Our common distaste for the often obtuse mannerisms and cold tact of the Dutch had brought us closer together than either of our companies had meant for us to be. It was supposed to be all business. But there we were, a year after our last official dealing had gone down, two friends just meeting for old times sake and a fix for caffeine.&lt;/p&gt;
+
+&lt;p&gt;But instinctively, we gravitated towards our most common aim — Politics.&lt;/p&gt;
+
+&lt;p&gt;“What’s this deal I’m hearing about MSNBC and FOX news?” she asked me, after our chatter had subsided. “I’m hearing all kinds of gibberish from ThinkProgress about some kind of truce between those two networks. As if that can be good for anybody.”&lt;/p&gt;
+
+&lt;p&gt;“ThinkProgress?” I chuckled. “Why the hell do you still read that stinking hippie tripe?”&lt;/p&gt;
+
+&lt;p&gt;“Oscar, are you drunk? It’s 10:30 in the morning. Are you not sleeping enough?” She asked me, with a very straight face.&lt;/p&gt;
+
+&lt;p&gt;“I never sleep enough,” I told her. “You know that.”&lt;/p&gt;
+
+&lt;p&gt;“You also drink too much, and I’d put an end to that too, if I didn’t think it’d affect your writing negatively,” she said. “I swear you get off on it.”&lt;/p&gt;
+
+&lt;p&gt;I didn’t respond, except with a tight-lipped shrug of the shoulders.&lt;/p&gt;
+
+&lt;p&gt;“Hippie tripe…” she trailed off, and then snapped at me from across the glass of water I’d been drinking. “ThinkProgress is just about the most reliable way to get a lead into a story the main press will likely ignore these days. Where do you think I get half my ideas for followups?” I stared into the ice in my water.&lt;/p&gt;
+
+&lt;p&gt;“Christ, I’m glad I got out when I did, then,” I said.&lt;/p&gt;
+
+&lt;p&gt;“Got out?” She asked. “What, ‘got out’? You didn’t get out. You’re neck deep in this nightmare, probably worse than me.”&lt;/p&gt;
+
+&lt;p&gt;I sighed after she’d finished. “Tell me about it,” I said, leaning back on the cusion in my woven bamboo chair. “No — I mean, got out of this local scandal shit and into the global scene,” I said, pausing, “you know, business dealings in Africa, socialist policies in the EU, Labor conditions in the MercoSul, humanitarian issues in China, real ground conditions in Afghanistan and Iraq and who’s profitting from it…that kind of thing. The real news.”&lt;/p&gt;
+
+&lt;p&gt;She grinned at me with tightly pursed lips and then burst out into a hearty laughter, a heartfelt glee I hadn’t witnessed in quite some time. She belly laughed for a quarter minute or so before she became coherent enough to stammer a reply.&lt;/p&gt;
+
+&lt;p&gt;“You’re daft!” She chuckled, raising her hand and waving down the waiter. “‘the real news…’ — listen to yourself. You know who you sound like? You sound like those tikes from Rolling Stone, idealistic as if they still wrote for their school newspapers.” She put her hand on her chest and recovered, “Oh…my,” she sighed.&lt;/p&gt;
+
+&lt;p&gt;“What?” I protested. “You’d rather I be wasting my time covering what Rupert Murdoch wants me to spread about MSNBC and FOX news being civilized to each other?” I drew a breath.&lt;/p&gt;
+
+&lt;p&gt;“First of all, like you said, it’s gibberish. More importantly, it’s self-serving. Who benefits from that? People who like drama’s who. There’s no drama as good as quarreling lovers, and a peace accord is just a sign of a larger battle to come. Who knows…maybe Murdoch is planning on buying MSNBC as well. It doesn’t server the people at all.”&lt;/p&gt;
+
+&lt;p&gt;She was still laughing. I accepted it, and toned down my rhetoric.&lt;/p&gt;
+
+&lt;p&gt;“But who cares, right?” I said, sort of giving in. “Nothing does anyway… but that’s not news, it’s theatrics. That’s show business.” I thought about it for another moment. “And what’s wrong with being serious about journalism for a change?” I asked her, still feeling somewhat challenged.&lt;/p&gt;
+
+&lt;p&gt;“No,” she said, “It’s politics.” She took a deep breath. “Look, there’s nothing wrong with writing it, I guess,” she finished chuckling. “Just keep your expectations of your readers low. Nobody reads that stuff, Oscar. Nobody cares.”&lt;/p&gt;
+
+&lt;p&gt;“Fuck caring,” I snapped, “they just need to know. Then they’ll care.”&lt;/p&gt;
+
+&lt;p&gt;“Sure,” she said, “why not? But in the meantime they’re too comfortable in their routines to be outraged by ‘the real news’, as you so astutely put it. Enough of them haven’t been near enough to real oppression for some time now, I’d say since — oh, I don’t know…Carter?” She looked at me as she flagged down the waiter again. “I thought you’d have learned that by now.”&lt;/p&gt;
+
+&lt;p&gt;“Carter?” I coughed. “Why Carter?”&lt;/p&gt;
+
+&lt;p&gt;“Well, I’d say Clinton, because he didn’t do anything, but then I’d be tempted to go back to Bush Sr., since he got away with that ridiculous war in the Gulf on the same repeated premise of Vietnam, not to mention Panama and his involvement with Reagan in the Contra affair. But then I have to go back to Reagan since he got away with much more than the Contras, like Nicaragua and Guatemala and the effective elimination of taxes for the upper classes, pretty much dooming everyone into the world we have today by creating the conditions for the drug war the US has with Central America and the Religious war the US has with the Middle East.”&lt;/p&gt;
+
+&lt;p&gt;I was eying her hard now.&lt;/p&gt;
+
+&lt;p&gt;“From there I have to bounce back to Carter, who needed to flex his muscles for the business world as the new Democrat. Did you know that in spite of running on the Demoractic platform, he actually raised military spending from what Nixon and Ford had set during their regime, as has every administration since, regardless of the need or mandate?”&lt;/p&gt;
+
+&lt;p&gt;Now I was just impressed at her reservoir of deplorable historical knowledge and smiled coyly at her. “No Vera, I did not know that.” I loved how pointed she could be with her facts, which is, of course, why she was my main lead for stories on this kind of issue.&lt;/p&gt;
+
+&lt;p&gt;“So I’m tempted to go back to Ford and Nixon, but that seems not only obvious since they were republicans in the middle of the Vietnam War but they also got their share of protesting in that day and age, when people still had it in them. So I bounce back on Carter, who had the chance to change it all, to bring real democracy to that land of yours and instead kept the same old system that serves the rich by means of many avenues, most pointedly, the military industrial complex, while keeping the population from rebelling, revolting, protesting or even just paying attention simply by giving them enough crumbs to keep them more interested in solving their petty problems while ignoring the larger ones that cause everything else in the first place.”&lt;/p&gt;
+
+&lt;p&gt;“Fascinating,” I said to her, smiling.&lt;/p&gt;
+
+&lt;p&gt;“My point, Oscar, in all seriousness, is this: no reporter, newspaper, network or any other agency has been able to break through the public’s disillusionment with the establishment for well over thirty years. And even disillusionment is not enough to cause revolution…”&lt;/p&gt;
+
+&lt;p&gt;“Just a coup, probably,” I interrupted.&lt;/p&gt;
+
+&lt;p&gt;“Right. For a revolution you also need outrage, which comes from desperation, from passion, from the inhibition of the human condition. The desire to break free. If enough people have enough desires satisfied, or at least, enough of what they think are desires satisfied, then you’ve crumbled that people’s ability to rise together, where their numbers matter, where their opinion counts for something. The civilized world of the US has lost its ability to outrage,” she eyed me, glaringly now.&lt;/p&gt;
+
+&lt;p&gt;It made me a little uneasy.&lt;/p&gt;
+
+&lt;p&gt;“So tell me, world traveler; what the hell do you mean by ‘real news’?” She asked me. “Get a grip, man.”&lt;/p&gt;
+
+&lt;p&gt;The waiter finally came over and took our orders. Vera ordered a triple espresso, to which I raised an eyebrow before deciding to make it two. Fuck it, I thought. It’s business as usual, I guess.&lt;/p&gt;
+
+&lt;p&gt;“So what else did ThinkProgress say?”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Several hours later, in business class seat 1A of the 747 bound for JFK, I smiled as I thought of what we’d said. With Amsterdam safely behind me and all caught up with the latest headlines from my several sources, I sipped my scotch and coffee, without mixing the two. That’s another trick I’ve learned about staying focused when you need it. Irish coffee, which is fun and comes at you easily and curvacious the way the continental shelf around Ireland does from 40,000 ft, is not a drink for focus. You have to keep the coffee and whiskey separate, much like your style and objective.&lt;/p&gt;
+
+&lt;p&gt;And if we can have both style AND objective, there would seem to be no limit to what we can reach when we drink enough whiskey and then put pen to paper.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/08/sunshine-speaking/&quot;&gt;Sunshine Speaking&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on August 11, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Cognitive Dissonance]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/08/cognitive-dissonance/" />
+  <id>http://localhost:4000/2009/08/cognitive-dissonance</id>
+  <published>2009-08-05T23:20:25+00:00</published>
+  <updated>2009-08-05T23:20:25+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The left mouse button on my notebook was missing, and the other one was stuck. The rest of the right side of the keyboard was overheating right where the processor sits, whiring and coughing pathetically like a sick child at three in the morning. Typing anything that involved letters on the right half of the keyboard meant first degree burns. The drive holding two weeks of already useless work was now missing, corrupt from god-knows-what-error, making the last two weeks even more useless. To boot, the food here sucks, the economy is costing a lot of people that sit around me their very secure jobs, I’m frustrated about travel schedules I can’t make because of other people’s blunders, I’ll probably miss meeting some very important people in New York next week and all because I’m here, doing nothing for nobody.&lt;/p&gt;
+
+&lt;p&gt;No wonder I’m pissed.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In a split-second I couldn’t control, my feet exploded against the floor, throwing my torso into the air. My throat grunted a war whoop, my hands grabbed my PC and heaved it clear across the room, smashing it against the wall with a violent garble of plastic and metal being shoved against each other and uncomfortable angles. The hard plastic around the case cracked in one sharp snap that sounded like a femur splitting in two. I stood at my desk, breathing heavily, my sleeves rolled up and my top two buttons on my shirt already undone. I bared my teeth, totally out of control. A coworker was looking at me for obvious reasons and in a rage of animalistic rage I pointed at him aggressively.&lt;/p&gt;
+
+&lt;p&gt;“What the fuck are YOU looking at?” He and I work for the same company and I know his shitty equipment has had days of poor performance like this. “Don’t pretend like you’ve never wanted to do that with this stinking equipment they fucking give us. It’s a travesty,” I filled in the silence. The bewildered Dutch man kept looking at me silently. Dutch people don’t like scenes and it makes them uncomfortable to be thrust in the middle of one. And I’d never acted like so like the mos American person in the room.&lt;/p&gt;
+
+&lt;p&gt;“Besides, it’s YOUR fault,” I shouted, and pointed to the one across the table from him. “And YOUR fault, and YOUR fault,” I shouted indiscriminately, pointing to everyone in the room and making angry faces at the frightened bunch. “YOU – miserable twats put up with discomfort and wretched computer equipment and bad processes and retarded policies all because YOU don’t want to stick your neck out! YOU don’t want to be the one to make a wake, to change the color in this grey world. YOU frightened lizards that duck and stare empty-faced at every obvious conflict thrown at us from anyone higher than us. You SUCK!”&lt;/p&gt;
+
+&lt;p&gt;I waited a second for it to sink in, looking around the room and eyeing the door.&lt;/p&gt;
+
+&lt;p&gt;“YOU fucking useless inanimate objects,” I finished, throwing my hands up in a wild craze. “React, Goddamnit! Say something away from the fucking coffee machines!”&lt;/p&gt;
+
+&lt;p&gt;Nothing. I looked at the fattest one of the bunch and threw my mouse at the fat rolling over his waist but he recoiled like a mole. “Fuck you!” I yelled, and ran into the woods outside the building. The mouse bounced onto the floor.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I was furious that night when I went out for a run. Which I do when I can’t handle some of the things I hear. I’d heard of a little political story that was being kept quiet by Murdoch’s empire of media and then some, and I couldn’t find Dylan to get it off my chest. So it festered.&lt;/p&gt;
+
+&lt;p&gt;I’d already been losing it on the tube, in my car, even at the pub. Things were getting weird in a way you only expect during election season. The always important but continuous loser of politics, health care, was being ousted from the media waves by a combination of republican affairs scandals,  the typical scurry of the appointment of a new Justice to the Supreme Court of Klowns and some inane tripe of fabricated batshit about Obama’s birth certificate that for some reason even Rachel Maddow was talking incessantly about. The intellectual property trial against a mother and student had, individually awarded record companies upwards of half a million dollars for downloading thirty-something songs. This was &lt;em&gt;with&lt;/em&gt; a judge and jury. And everytime I re-read the article about Alberto Gonzalez and the continuing decadence of the Justice Department it struck that cord of dissonance that wishes death to those in the establishment as the only solution to getting out of this maddness that’s settling in over us.&lt;/p&gt;
+
+&lt;p&gt;In retrospect, I guess I should’ve known that just blowing the largest spores clean off the fungus that is our DOJ wouldn’t have done shit to stop the decay of the thing. But I just couldn’t get over it. The thick mucus of resentment that builds up in my mind when I hear enough bullshit sometimes constricts my breathing, or at least my ability to think straight. When I can’t wrap my mind around the absurdity I see and hear I tend to collapse into myself and that’s when other things, more extroverted in me, come out and the shit hits the fan.&lt;/p&gt;
+
+&lt;p&gt;That’s probably not what led to the the aforementioned work-related disaster but it wasn’t helping things either. Running violently into whatever jungles I happen to be inhabiting is just about the only thing I can do in times like that and I think that if it wasn’t for all the whisky, I’d be in amazing shape.&lt;/p&gt;
+
+&lt;p&gt;Earlier in the day I’d gotten beligerent, and yes, done horrible things to company property in front of my clients and coworkers. But so what? Let them sit in stale offices drink horse tranquilizers in the middle of the woods and slobbering figureless numbers onto their keyboards if they like, but they know I was right.&lt;/p&gt;
+
+&lt;p&gt;Besides, that shit felt good.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Later, back in my tiny hotel room I calmed down by closing the curtains, running the shower at full blast as hot as it goes and closing the bathroom door. I stripped naked and lay on the cold tile, feeling the steam of fifty degrees celcius build up in the enclosed space and fall on my face. My iPod sang Bob Dylan’s “Masters of War” and wailed a bunch of Muddy Waters and my blood pressure dropped to its normal levels of 140/90.&lt;/p&gt;
+
+&lt;p&gt;But that was all work stuff, the very same bullshit I usually avoid mentioning here because, well, shit, you don’t care. What made it relevant enough today was not so much the fact that I’d flipped my Compaq clear across the room and just high enough to miss giving two very tall Germans very clear USB marks across their temples, though I knew at the time that scene would make for some good theatrics. What made it significant was the &lt;em&gt;why&lt;/em&gt; of the matter — the &lt;em&gt;raison d’être&amp;lt;span style=“font-style: normal;“&amp;gt;; I’d finally seen the invisible hand of Adam Smith at work and it was jerking off my corporate employer while the other one slapped around some very good friends of mine.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And we’ll leave it at that. There’s no way to go further into it without getting into some very thick and ugly mud and right now I just can’t find the hours in the day to get into.&lt;/p&gt;
+
+&lt;p&gt;Because I’d calmed down from the work thing. I wasn’t belligerent anymore, yelling things at the radio or debating healthcare policy with my TV, though I was getting there. See, politics had come on the iDesk, one of the only good shows put out by CNN, and as if it wasn’t enough that the tentacles of Alberto Gonzalez hadn’t dried up after leaving the DOJ in shame and shambles, the goddamn things were still manipulating, twisting and otherwise creeping things out.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the story was that after months of not finding work ahead of the trail of destruction he left behind in his former job, homeschool finally landed at Texas Tech in northern Lubbock.&lt;/p&gt;
+
+&lt;p&gt;Yeah, I know. Imagine that — Lubbock, TX. One more for the file of “Duh”, eh?&lt;/p&gt;
+
+&lt;p&gt;And I tried to get over the fact that he’s going to be getting a salary of 100K (when regular full-time proffessors with real PhDs and actual experience who teach more than 15 students a semester often get half that). I tried to get over the fact that students formed groups and petitions and even facebook efforts of getting rid of this taint on their education, all of which went ignored (help ‘em out, by the way — how’d you like it if you walked into class and Richard Milhous Nixon was your teacher? Same thing.&lt;/p&gt;
+
+&lt;p&gt;I tried to get over the silence of the faculty, and later their own ineffective actions when 45 of them signed petitions that will certainly fall on deaf ears of administrators who “don’t make decisions based on petitions”.&lt;/p&gt;
+
+&lt;p&gt;Of course not. Not when it’s not fun for the people who pay you to play nice with them.&lt;/p&gt;
+
+&lt;p&gt;I even tried to get over the fact that the school’s Chancellor, Kent Hance — who considers Gonzales a “good friend” — said that he received a “substantial number” of supportive e-mails about the hire, and just nine critical ones, and then added that “he wasn’t dwelling on the negative ones because they didn’t come from loyal university donors.”&lt;/p&gt;
+
+&lt;p&gt;I mean, shit. I &lt;em&gt;tried&lt;/em&gt;. But the shithead that runs that ill-fated school didn’t even bother trying to mask the ugliness of his cronyism. And it’s fucking with &lt;em&gt;education&lt;/em&gt;. That’s where I draw the line.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;There.&lt;/p&gt;
+
+&lt;p&gt;But it’s been a bad time for idealism. It’s been a bad time for hope and optimism, at least when it comes to government and life within this system based loosely on something that was once referred to as democracy. You know, back when we didn’t know any better. Or maybe we did. &lt;em&gt;They&lt;/em&gt; did, anyway.&lt;/p&gt;
+
+&lt;p&gt;So yeah, I tried. But I was already on the verge of completely freaking out, so I did the only thing that has a documented track record of success in these situations — which is not, by the way, throwing laptops. That kind of lunatic behavior is revolutionary radicalism and you should be very aware of your surroundings if you even want to think of trying that on as ‘therapy’. Besides, I’ve only tried it once so I’m not sure of the scientific soundness of the theory.&lt;/p&gt;
+
+&lt;p&gt;But I was furious, my reason twisted like theirs and I needed to go for a violent run. It was raining hard too, and the lightning had gone wild, which is perfect.&lt;/p&gt;
+
+&lt;p&gt;Yes, I’m aware of the dangers of running in lightning. I went anyway.&lt;/p&gt;
+
+&lt;p&gt;Trees flew past my face like spiderwebs and I couldn’t distinguish one from the other. The green faded to black, the explosion of the summer woods veiled by the night. With my hands outstretched I felt like I was floating through the leaves, and who knows where I imagined I was?&lt;/p&gt;
+
+&lt;p&gt;The wet rubber of my soles against the smooth pavement squeaked and gripped until it warmed up, until the steps themselves molded with their environment. My feet were marching drums in synch with themselves. I could almost hear the trumpets of war over the heavy shield of the thick trees, over the hills that approached but never arrived until they were right underfoot. A steady rumble in the dark clouds above was in consonance with the heavy drops that already splashed over my cheeks, blurring my vision as I ran. I shook my head and the water drained from my face only to build up again in a few seconds.&lt;/p&gt;
+
+&lt;p&gt;But I ran.&lt;/p&gt;
+
+&lt;p&gt;My pace quickened, the steps growing louder. The path ahead of me was hard to see in the dark but it seemed to stretch to a point at infinity. It excited the hell out of me and I ran wildly into that green blackness. I thought I was alone but between what I thought were drums in the distance there seemed to be cars. The dim semblance of approaching headlights would appear between the bushes ahead and I turned away, onto another path. I tried to run deeper into the thick dark, avoiding as much knowledge as I could of the world outside myself, outside those woods, that rain.&lt;/p&gt;
+
+&lt;p&gt;But the deeper I ran, the more often came the headlights in the distance, the more of them there were; the closer they seemed. I turned to run in the opposite direction, but no thinning of that evil-tempered traffic could I find. They were coming from all sides, at all speeds, violently stripping the forrest of its solitude, of its haven. I stopped running.&lt;/p&gt;
+
+&lt;p&gt;I just stood there, and marveled at the traffic I could not escape.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I feel you don’t really know a city until you’ve run it in the rain, and this I’ve done in many places. Brooklyn, Geneva, Brasilia, Amsterdam, Oslo, London, Vienna — in the rain, through empty streets, void of the bullshit and other distractions there is more intimacy with a place. In the wet dark of a violent storm, there are thoughts you dare to think that normally would stay shut away in twisted crevaces of the mind, untampered with. You notice things you’d otherwise miss, like the echo under a stone bridge while your trainers seem muffled underfoot. You run into things that would otherwise not be there, like the lit up eyes of stray dogs, giving you looks full of evil and insanity, quite aware.&lt;/p&gt;
+
+&lt;p&gt;Fields of fireflys aglow in the downpour, flexing god-knows-which-muscles. It seems a lie.&lt;/p&gt;
+
+&lt;p&gt;No, I haven’t hit the rum yet. But maybe I should. Rum’s good.&lt;/p&gt;
+
+&lt;p&gt;Speaking of which, I’m glad I enjoyed that last bottle of Jack Daniels, because it’ll be my last. No, no, I haven’t quit drinking or found Jesus or anything crazy like that…it’s just that I recently heard they donated over twenty million dollars to the Bush campaign. Sure, I heard that from an English comedian in New York, and yes, the entire liquor industry probably leans toward “Republican Leanings”. And though the Dems aren’t any better when it comes to being friendly to business before being responsible and accountable to the people, it’s silly to base a political opinion on this little — oh, what the hell, let’s call it a fact — everyone else does it.&lt;/p&gt;
+
+&lt;p&gt;But this whole rant has been about cognitive dissonance, hasn’t it? And just to illustrate the point of how well esconsced in the matter we are, I’ll be giving up that particular Tennesee Whiskey. And I’ll be getting my inspirations elsewhere, thanks.&lt;/p&gt;
+
+&lt;p&gt;Isn’t that just the bitch about the truth? It comes out in the end, doesn’t it? It may be late, it may be stretched thin and pale from being hidden in deep places inside the human-sized safes in old men’s closets and offices. But it comes out.&lt;/p&gt;
+
+&lt;p&gt;And you’d think cognitive dissonance would be unpleasant enough to be a deterrent, or obvious enough to be a detergent, but no. The evolutionary abilities of men with power based in the establishment to rise above that most basic and inconvenient of human traits is quite incredible.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/08/cognitive-dissonance/&quot;&gt;Cognitive Dissonance&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on August 05, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Green Light Café]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/07/the-green-light-cafe/" />
+  <id>http://localhost:4000/2009/07/the-green-light-cafe</id>
+  <published>2009-07-04T07:17:35+00:00</published>
+  <updated>2009-07-04T07:17:35+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Oscar and I sat in the back of a shisha lounge called Green Light Cafe. The bar was tripped out and smoked in, a hopeless scene of smokers from all walks of life, not a one of them local, which meant no Dutch people.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, you know — Dutch people and I have a lot of things in common and I esteem their practicality and straightforwardness. It’s just that, hell — I needed a fucking break from the freaks of blunt.&lt;/p&gt;
+
+&lt;p&gt;And for that I was thankful. In that pillow-covered hole of wall to wall carpeting and blue and green and yellow and red neon floating on the ceiling there were no Dutch people. Not even the barkeep, who alternates on different nights from being a beautiful and petite Thai girl and a chunky English douchebbag.&lt;/p&gt;
+
+&lt;p&gt;Worlds, man.&lt;/p&gt;
+
+&lt;p&gt;The music there is usually a mellow kind of Jazz remix that seems to have engaged in acts of coitus with punk rock and steel drums. The chilled out clientele — overeager Erasmus young’ns, dreadlocked white guys, hippie chicks and Israeli stoners — always in character. They’re all straight off the train, backpacks and all. Haven’t even found their hostels yet.&lt;/p&gt;
+
+&lt;p&gt;I watched Oscar blow elegant smoke rings from the shisha pipe we shared. The man’s been everywhere and when he says he learned to blow smoke rings in the Middle East, motherfucker means Mecca, man. Or, at least as close to it as non-Muslims can get.&lt;/p&gt;
+
+&lt;p&gt;“Jeddah is the coastal port on the Red Sea, just outside of Mecca,” he informed me after seeing the blank stare on my face. He seemed surprised by my ignorance and I snapped out of it.&lt;/p&gt;
+
+&lt;p&gt;“I know where it fucking IS, Oscar. I’m just contemplating what a fucking cool job you have that by the sheer will of the mind, you can, on certain weekends, decide to just hop on a plane into the port of Jeddah and smoke enough shishas alone on the edge of the Red Sea until you learn to blow smooth smoke rings that smash calmly into the ceiling.”&lt;/p&gt;
+
+&lt;p&gt;He dragged the pipe a bit, and still took a second deep breath, exhaling slowly, as if his soul was leaving his body through his mouth. “You know, man, this job…it’s great. But it’s not as great as you think.”&lt;/p&gt;
+
+&lt;p&gt;“How do you know what I think, Oscar,” I said, with a spritzy tone in my voice that I hadn’t intended. He wasn’t annoyed.&lt;/p&gt;
+
+&lt;p&gt;“I’m telling you that this job has its curses and isn’t for everybody. Especially if you have specific needs.” I nodded, my head in my hands, showing him how bored I was with that topic I’d heard so often, so many times before.&lt;/p&gt;
+
+&lt;p&gt;Still, the man &lt;em&gt;has&lt;/em&gt; been everywhere, it seems. But I knew that there are two roads to Mecca: one that actually goes to the city and one that goes around it, for foreigners or non-Muslims that think they can see Mecca just because they’ve traveled for god-knows-how-long? Nope, they’ll put you back in your blistering car and send you off. Everyone has their own problems.&lt;/p&gt;
+
+&lt;p&gt;He tightened his lips and thought for a moment, eventually saying, “Yeah. That was an interesting weekend. What a fucking shit country, that is, though.”&lt;/p&gt;
+
+&lt;p&gt;“What do you mean,” I asked, reaching for my pint of Heineken. “You told me you went from an air-conditioned Marriott — with a pool, which you swam in quite enjoyably, to hear you tell it — to a beach-side restaurant to smoke and watch the sunset and then the next day you took a drive to the sandy penninsula to search for a boat and ended up meeting a bunch of Dutch guys on the docks…”&lt;/p&gt;
+
+&lt;p&gt;“First of all, exactly. I went to Saudi-fucking-Arabia and who do I meet there, as if I didn’t have enough of that around this town of lunatics? The Dutch. I don’t see what you see in these people, honestly.”&lt;/p&gt;
+
+&lt;p&gt;“In my defense, I’m not all that happy with them either,” I said, looking around and smiling. I’m pretty sure I let that little gem slip every now and again. You should pay more attention.” He hesitated.&lt;/p&gt;
+
+&lt;p&gt;“Anyway,” he said, “it &lt;em&gt;was&lt;/em&gt; shit. The town lists &lt;em&gt;TGIFriday’s, Chilli’s&lt;/em&gt; and &lt;em&gt;Pizza Hut&lt;/em&gt; among their top ten restaurants. People who go there return with pictures of their standard rooms at the Hilton, of unimpressive statues, some sunsets and occasionally, sidewalks.”&lt;/p&gt;
+
+&lt;p&gt;“I can picture,” I said, “the kind of people that take pictures of their hotel rooms at the Hilton. Clear as day, right?”&lt;/p&gt;
+
+&lt;p&gt;He furrowed his brow at me and took a deep drag of the pipe. “You mean people from the midwest?” he asked, holding it in. Then he blew another elegant masterpiece that grazed my left ear.&lt;/p&gt;
+
+&lt;p&gt;“Never mind,” I mumbled, grinning.&lt;/p&gt;
+
+&lt;p&gt;He went on. “And did I tell you that when I was about to sit at the restaurant where I smoked that shisha — by the way, it wasn’t beach-side, it was water-side; they don’t have beaches in Jeddah. There are some stretches by the highway that hug the water that are lined with large rocks to muffle the waves, but definitely no beaches.”&lt;/p&gt;
+
+&lt;p&gt;“ANYways…” I said, suggestively.&lt;/p&gt;
+
+&lt;p&gt;“Right. Did I tell you that at that restaurant I had to sit on the second floor, away from the water because the section — the empty section, I should say — of seats by the water is reserved for family seating? No single men allowed.” He seemed happy to have gotten that off his chest.&lt;/p&gt;
+
+&lt;p&gt;“Really?” I asked. I knew that Saudis segregated their men and women, but I figured there was space to move or something.&lt;/p&gt;
+
+&lt;p&gt;“Single men,” he repeated, “are the lowest fucking rungs on their social ladder.” He folded his arms and leaned back into his chair, his long, curly black hair bouncing on his head. I was surprised no one in Saudi had ever suspected he was Jewish. In any case, he was very satisfied with himself for that story.&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” I sighed. “I remember when you told me of those boys on that lawn in Riyadh one time and how the police chased them down…”&lt;/p&gt;
+
+&lt;p&gt;“But they let me go,” he reminded me, “when the bell boy came out to explain I was a foreigner in the hotel.”&lt;/p&gt;
+
+&lt;p&gt;“An expensive hotel?” I asked him.&lt;/p&gt;
+
+&lt;p&gt;“The most ridiculous thing I’ve ever stayed in,” he said, which is saying a lot. “In the Egyptian Marble shower I could lie flat on my back and roll away from the showerhead, rolling five times before I hit the other wall. I know this for a fact. I had enough space to do cartwheels in that suite.”&lt;/p&gt;
+
+&lt;p&gt;“That explains why the guard didn’t give you a hard time then, right?” I offered.&lt;/p&gt;
+
+&lt;p&gt;“Right,” he said. “But that’s not the point. The point is that single men, especially young ones, are scum, the lowest class.”&lt;/p&gt;
+
+&lt;p&gt;“Why do you think that is,” I asked, suddenly kind of seriously pondering the reason.&lt;/p&gt;
+
+&lt;p&gt;“Honestly? I think it’s society’s way of projecting their own self-hatred onto something. I mean, I just can’t reason with the notion that separating men and woment results in anything other than repressed sexual urges. Just look at the Catholic Church.”&lt;/p&gt;
+
+&lt;p&gt;“Mmmm,” I nodded, and it felt like he was on a roll, so I didn’t say anything.&lt;/p&gt;
+
+&lt;p&gt;“I think that somewhere deep within them where human needs can’t be touched by silly rules, religious or otherwise, there is at least the faintest whisp of a wish that those men didn’t need for marriage to be their highest priority in order to escape the social hell it puts them all in. A kind of a obtuse logic: single men cannot be in the presence of or seen with a woman to whom they are not related. Deep within people must find this repressing and wish it weren’t so. And if all single men were married, they would not have this problem. Therefore, single men are frowned on.”&lt;/p&gt;
+
+&lt;p&gt;I looked at him in awe. “Oscar, that was, by far, the craziest thing you’ve said tonight. And that’s following your story of rolling on the floor in the shower in your hotel room in in Riyadh.”&lt;/p&gt;
+
+&lt;p&gt;“I know,” he said, half-ignoring me, sort of beside himself for nailing a thought like that down. And then his face lit up. “And what about the Catch-22 of how a boys meets a girl?” he asked excitedly. “Have I told you about that?”&lt;/p&gt;
+
+&lt;p&gt;I shook my head no and reached for my beer.&lt;/p&gt;
+
+&lt;p&gt;“I had been wondering –” he explained, “after being in that country for 2 months with no alcohol, cheap gas and nothing but sand and flat land around me, how it was that people could, in the 21st century, still go along with the notion of arranged marriages.”&lt;/p&gt;
+
+&lt;p&gt;I nodded again, and sipped my beer. He dragged the pipe again and let the smoke pour out of his mouth slowly, like a waterfall. That fucking guy.&lt;/p&gt;
+
+&lt;p&gt;“So I did what I normally do when I want a straight answer,” he said.&lt;/p&gt;
+
+&lt;p&gt;“What’s that?” I asked.&lt;/p&gt;
+
+&lt;p&gt;He smiled, and blew the dense smoke off the table in front of him. “I ask a cab driver,” he said, pursing his lips and raising his eyebrows. Fucking Oscar.&lt;/p&gt;
+
+&lt;p&gt;“And?” I demanded.&lt;/p&gt;
+
+&lt;p&gt;“And…” he dragged it out, “he told me that when parents won’t look away or pretend that they don’t know what’s going on, what the kids do is go down to the shopping mall with their mobile phones…”&lt;/p&gt;
+
+&lt;p&gt;“Mobile phones?” I interrupted.&lt;/p&gt;
+
+&lt;p&gt;“Yeah. He said what they do is set the Bluetooth receiver on the phone to be discoverable and when they find a phone they like they start texting and chatting with them. If the kids hit it off, they agree on a meeting place and a way to feign either marriage or relations for long enough to be seen in public before they become engaged.”&lt;/p&gt;
+
+&lt;p&gt;I was stunned. “Was he lying?” I asked, only half-kidding.&lt;/p&gt;
+
+&lt;p&gt;“No,” Oscar said. “I did this in a mall in Riyadh once and used my Bluetooth thingy to search for other discoverable devices. What came up was sort of sad.” I tried to sip my beer, realizing that I was sipping an almost totally empty glass. “A list of at least 30 or more phones came up. Their names were mostly illegible, but there were some with names like ‘Sexy, Sixteen and Single’ and ‘Ready for love, boy’.”&lt;/p&gt;
+
+&lt;p&gt;“Yikes.”&lt;/p&gt;
+
+&lt;p&gt;“That’s what I thought,” he said. “Look, the pool was nice and all, but talk about a vast emptiness… I mean — who &lt;em&gt;pays&lt;/em&gt; for all that gold trim?” he asked. I shrugged in agreement. He continued.&lt;/p&gt;
+
+&lt;p&gt;“In Jeddah, after wandering around the immediate neighborhood and finding nothing to do I finally found someone who understood enough English to be cajoled into telling me something, even if it was to give up hope. Those are the stakes.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah?” I asked. I was partly distracted by the young Israeli kid rolling a joint of hash next to us.&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” Oscar said. “This young Jordanian manager at the Marriott, when I badgered him enough about WHAT TO DO there he sort of lowered his voice and lowered his shoulders, leaning in to talk to me. He said, ‘listen, I’m a foreigner trapped here too. None of them will tell you but I’ve been here for two years and all there is to do is go to the mall.”&lt;/p&gt;
+
+&lt;p&gt;“I wonder why,” I said out loud, with a grin.&lt;/p&gt;
+
+&lt;p&gt;“‘Nonesense,’ I said to him, sort of startled by his honesty. ‘There must be a café where you can go read a book by the sea, right? These people are pious to a fault but they can’t be averse to a good life.’ I decided. He cast a look that told me he was not getting through to me.&lt;/p&gt;
+
+&lt;p&gt;‘It’s worse than you think,’ he said.&lt;/p&gt;
+
+&lt;p&gt;‘It can’t be,’ I countered. He smiled.&lt;/p&gt;
+
+&lt;p&gt;‘You’ve been to Riyadh?’ he asked me.&lt;/p&gt;
+
+&lt;p&gt;‘I’ve just come from there,’ I told him. ‘I’m here for the weekend’.&lt;/p&gt;
+
+&lt;p&gt;‘What do you think of Riyadh?’ he asked.&lt;/p&gt;
+
+&lt;p&gt;‘It sucks,’ I told him. ‘That’s why I came here. At least there is ocean here, right?’ I have him a smile. He smiled back but it was more wishful than it was agreement.&lt;/p&gt;
+
+&lt;p&gt;‘Look, the only thing the ocean adds to in Saudi Arabia is humidity.’&lt;/p&gt;
+
+&lt;p&gt;My heart sank for a moment. ‘That’s ridiculous. You’re telling me that there is nothing to do in Jeddah except either pay $250 for an hour for a wave runner or else drink tea in the hotel lobby all afternoon by yourself? Why are there even hotels in this place? Why are you people &lt;em&gt;here&lt;/em&gt;?’&lt;/p&gt;
+
+&lt;p&gt;He adjusted in his seat and a grave feeling dripped all over his face. ‘I wouldn’t get my hopes up if I were you. I think I understand what you want. You won’t find it here.’”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“And that,” Oscar said, “was the greatest reaction I’d gotten there, by far. By FAR.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;His circles of smoke glided over the pages I was reading in the dim light, casting strange shadows and faint shapes over HST’s words. I struggled with my crude attempts at such cool manufacturings and eventually just gave up, sucking it all down and expelling it forcefully towards the dark blue ceiling.&lt;/p&gt;
+
+&lt;p&gt;It tasted like apples.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A long-haired blonde down the bar continued to throw suggestive glances at Oscar while shaking her shoulders in time with the mad noise the DJ was making. He glanced up from his writing  every now and again to return them. I got the unshakable feeling he was playing some kind of game but I wasn’t a part of it.&lt;/p&gt;
+
+&lt;p&gt;He was deep in thought and I had just taken a deep inhale of the pipe when I saw her, out of the corner of my eye, get off her barstool looking over in our direction. I panicked and looked across the street at the signed bolted to the next building. It read, fortuitously, “&lt;em&gt;Obstakel&lt;/em&gt;“. I knew exactly what it meant.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;div&gt;
+    Then I exhaled a plume of smoke that exploded on the pages before me. I forgot what happened to the blonde --- Oscar never told me and I feel funny asking. But I think it'd be weird, too, if he just remembered and started telling me some day. _THAT_, would be a trip.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/07/the-green-light-cafe/&quot;&gt;The Green Light Café&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on July 04, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Nothing But Evil and Fear]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/06/nothing-but-evil-and-fear/" />
+  <id>http://localhost:4000/2009/06/nothing-but-evil-and-fear</id>
+  <published>2009-06-27T03:11:48+00:00</published>
+  <updated>2009-06-27T03:11:48+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The nighttime is still full of dark things, as always. Stirrings in the unseen blackness between walls and windows, silence among the trees — these are natives to the soil of the night. Through the leaves and a light mist I can see dim lights that don’t fully penetrate the canopy. I hear strange, elusive songs that howl in a distant direction. Time has passed, too much time. Yet these things never change. I like it. Still.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;The reports of my death are greatly exagerated, I should tell you. Not to mention that I’ve always wanted to say that.&lt;/p&gt;
+
+&lt;p&gt;But seriously. If that’s what you’ve heard, you’ve been misinformed. I myself heard it from an IT specialist on the outskirts of Amsterdam. Which was weird.&lt;/p&gt;
+
+&lt;p&gt;It was unnerving to hear — to say nothing of having an argument with — a perfect stranger about your current status as a living being. He insisted I was dead, the story being that I’d perished needlessly along with the other passengers on that Air France flight from Rio.&lt;/p&gt;
+
+&lt;p&gt;“Why would I be in Rio?” I asked him. “I have absolutely NOthing I want to do in Rio.”&lt;/p&gt;
+
+&lt;p&gt;He dodged and I lunged and eventually we came to an understanding. But I had to insist, and that’s usually when things get ugly. Thankfully, he just fixed my hard drive problem and I got out of there and went back to New York.&lt;/p&gt;
+
+&lt;p&gt;There’s been a lot of that lately, this business of crossing the Atlantic once a week for months on end. It’s becoming routine, almost. Sure, the miles pile up and the whiskey is free, but who cares? I have plenty of whiskey at home. And anyone who’s ever flown across the Atlantic, especially anyone who has flow over the damn thing four times in a week knows that it does terrible things to the human body. There is no way around that.&lt;/p&gt;
+
+&lt;p&gt;Laura and I had had a good week in Iceland just before all of this got underway so it started off on the right foot with some camping, hiking, subzero temperatures and landscapes that defy any existing means of description that I’m aware of. Once I had switched into professional mode I made the best of it, taking weekends as they came, when I had them, to meet up with the right people in the right places. Paul was working in Paris at the time and did the right thing by taking a train to Rotterdam where I picked him up and we drove to Berlin. The next weekend Laura did a similarly right thing by flying to Zurich, where I met up with her and we had ourselves a proper Swiss weekend, followed the next weekend by a proper Belgian weekend. That’s how I make the best of this situation. And that’s alright.&lt;/p&gt;
+
+&lt;p&gt;But as you can imagine, it was somewhere between Bruges, Zurich and Berlin that I started to lose my bearings once again. Fleeing to the US had done me little good. After over four months of attempted residence in the heart of hearts I had started to feel safe, far from their grip and the beckoning of my whining clients.&lt;/p&gt;
+
+&lt;p&gt;Foolish.&lt;/p&gt;
+
+&lt;p&gt;When you’re this good at something, there will always be someone willing to pay you to not give it up. I learned that with a few carrots and the yank of thier chain, after which they got me right back to where I’d been when I fled.&lt;/p&gt;
+
+&lt;p&gt;Which is how I found myself again in the center of the old city in Amsterdam at the Haven van Texel, an old favorite thinking spot of mine. It was a typical summer night in the Dutch capital, tourists floundering about and locals ignoring them the way they do so well. Neither tourist nor local, at the edge of a large umbrella I sipped a thin beer under a heavy air. The split pea soup is pretty good too, but that’s not part of the scene.&lt;/p&gt;
+
+&lt;p&gt;In the late evening the whole sky had come down over Amsterdam and afterwards, the rain having passed, the atmosphere had become dense and thick. The waiters walked around with a dripping wet rag, wiping whole puddles off of tables. People need to drink, after all.&lt;/p&gt;
+
+&lt;p&gt;In this scene I sat, as I said, sipping my thin beer, watching the boats round the curve at the Oudezijds Achterburgwal gracht while I got back to some basics with Howard Zinn’s &lt;em&gt;A People’s History of the United States&lt;/em&gt;. I’d always suspected that American history was rooted in some shady stories but I didn’t know the half of it, it seems. Will Hunting was right; that book will knock you on your fucking ass.&lt;/p&gt;
+
+&lt;p&gt;But the boats — they kept passing, the curves never seeming to run out of them. A small one meandered ‘round the bend and stopped at an inconspicuous doorway at the water level with no lights on. I wondered what they were doing there, in that dark corner out of sight that only only ducks and villains even notice. A place where people vanish into the night. Strange things happen in these places, right before our eyes. Sights and symbols are everywhere and it’s up to us to turn away and let them happen.&lt;/p&gt;
+
+&lt;p&gt;Which is exactly what I did. I don’t need the extra stress, man.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The uncertainties and pressures of the path I’ve been walking for the better part of this last year are out of sight. Politics doesn’t begin to describe it. I’m still waiting on a gaggle of statute of limitations so you’ll pardon the lack of specifics, but it’s a doozy. Suffice to say that it involves a lot of very roundabout language, 24-7 monitoring of all communications on every channel and of course, a LOT of air travel. The amazing thing is that it’s working well when I’m amazed it’s working at all.&lt;/p&gt;
+
+&lt;p&gt;The gist of it is this: I’ve been working in what equates to a pressurized bee-hive. Deadlines loom and crumbling deliverables are demanded as if Jesus had just walked out of the desert. Meanwhile, touchy topics like layoffs and salary reductions fly unchecked through people’s inboxes and nobody know’s what’s going to happen. Like some half-mad badger in a paper cage they keep me under the guise of effectiveness, skill and track record, but I know better. Some cheap executive type upstairs in a building far from any I occupy is covering his ass like red on a baboon. Sooner or later, when the walls of irreconsilable confusion come down and the barbarians come rushing in shouting for actual credentials I exepect to see the nail end of a finger protruding out of a very expensive suit.&lt;/p&gt;
+
+&lt;p&gt;That’s kind of a typical day for me, I guess. I hear I’m not alone but I sure as hell don’t see it. You people do a hell of a job hiding shit like that.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Later that night, darkness continued to fill the space as the early signs of midnight called for the sun to set sometime after 10. Amsterdam is farther north than most people realize and in late June the place sometimes feels a bit like Oslo with the canals of Venice and the heavy air of Florida. Without, you know, the Cubans.&lt;/p&gt;
+
+&lt;p&gt;Just kidding. There are plenty of Cubans here.&lt;/p&gt;
+
+&lt;p&gt;Glowing windows in the dark raise questions and stir desires. What’s in there? And who? What are they doing? And could I do it better? I’m no longer able to distinguish fear from anxiety, politics from causality. Things start to fall apart.&lt;/p&gt;
+
+&lt;p&gt;The banjo blues still play in my head and my eyes wander the scenes looking for a grip, a handle — something to help it all along the way. There used to be a fine line that dictated equilibrium for me, between alcohol and sleep. That balance was maintained, day in and day out. Who knows where it’s gone to now?&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/06/nothing-but-evil-and-fear/&quot;&gt;Nothing But Evil and Fear&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on June 27, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Dutch Philosophy]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/05/a-dutch-philosophy/" />
+  <id>http://localhost:4000/2009/05/a-dutch-philosophy</id>
+  <published>2009-05-14T03:19:56+00:00</published>
+  <updated>2009-05-14T03:19:56+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Jo skipped down her steep Dutch stairs in her flat in the Old South, a far-off land nearly 20 minutes away from Amsterdam’s Center. The cafés  in that neighborhood of Amsterdam crawl with the affluent and those horny for the appearance of the same. Bordering Vondel Park, a Central Park-esque sort of green area, many vagrants wander outside of the perimeter after dark looking for a port-o-potty or somewhere else to defecate. Also, many artists live in the area due to its proximity to the Museumplein and the Concertgebouw. Though most of them are hard-to-swallow hipsters with ‘artist’ simply written on their H&amp;amp;M vests, there are some who are worth knowing, and even visiting on a warm summer afternoon.&lt;/p&gt;
+
+&lt;p&gt;I heard the keys jostle in the lock as the bolt was withdrawn.&lt;/p&gt;
+
+&lt;p&gt;“Hellooo!” She said, perky and excited as she usually is when the weather is this nice. And it was. She was in jeans and a floral-patterend blouses that isn’t really trying but always looks great when there’s sun to shine on the skin.&lt;/p&gt;
+
+&lt;p&gt;The sky was clear and the greens were greener than I could ever get used to. Spring in Amsterdam is usually no different from the rest of the year, overcast and grey. The cold never seems to stop blowing in from the North Sea, except when it does. Then you get days like this, with flowers and people and football out in the open and lots of beer and laughter on the narrow streets; pretty girls everywhere and no matter where you look it’s as if you were seeing it through a polarized lens.&lt;/p&gt;
+
+&lt;p&gt;No shit.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It was good to see her and I gave her a big hug full of relief. I’m not sure why the relief, but that’s how it felt. She kissed my cheek and we went to a place in the park where you can lie in a pile of pillows and order beer and some fried Dutch food. We waxed philosophic, launching deep thoughts into the grassy fields beneath the canopy, shaded and serene with laughter and sunlight.&lt;/p&gt;
+
+&lt;p&gt;“You know,” she said in a Polish accent mixed with German and what I think is some kind of old Croatian, “we have very similar, uh, professional situations, I think.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” I said, smiling, sipping my beer, “we’re both, in a way, consultants.” She didn’t smile at my wit, but I often suspect she doesn’t get half of my jokes. I’m learning to be alright with that.&lt;/p&gt;
+
+&lt;p&gt;“No, but I mean…we both work from home, and it can be very difficult to do that when you don’t have people close by that are in a similar situation.”&lt;/p&gt;
+
+&lt;p&gt;“Oh, yeah. I know, right?” I said right back to her. “I remember when you used to live there in the center — in that flat that belonged to a friend of yours who was out of town or something? Yeah, and we would grab a coffee in the morning before we each dove into our work, and then later we’d catch up for lunch, maybe, or perhaps another afternoon coffee…”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, that was fantastic, eh?” She said, with her eager smile. We both dwelled on the memory for a second.&lt;/p&gt;
+
+&lt;p&gt;“Sure. Until you moved to the Old South with all these yuppies,” I chuckled. She did too, knowing full well what I was talking about in the old south of Amsterdam, even if she didn’t know how to translate the word ‘yuppy’ in either Polish or German.&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” I continued, “working from home is great but if you have to enjoy the freedoms it brings alone, it gets pathetic pretty fast.”&lt;/p&gt;
+
+&lt;p&gt;“Hmmmfff,” she agreed, “I remember when I used to go to the café in the corner, or else take the time to cook something for lunch…now I just make myself a ham sandwich or something and eat it in the kitchen, with Lord of the Rings playing in the background or something.”&lt;/p&gt;
+
+&lt;p&gt;“Such a nerd,” I prodded, and she stuck her tongue out at me most indifferently. “And is there anything, ” I continued, “more depressing than a ham sandwich eaten hunched over the sink? With your elbows out? And Gandalf murmuring riddles to ancient kings?” She kept smiling. “No. No, there isn’t.” Which is true. “I think the difference between you and me, though, is a factor of motivation: you’re after an objective, and it’s the means that’s bothering you. I have no objective. I just love the means that the lifestyle provides me because of where I’m going. Wherever THAT is. But I yearn for an objective.”&lt;/p&gt;
+
+&lt;p&gt;“Exactly!” Jo seemed to get it, but I’m never too sure. In general the phrase I most often hear after describing the superficialities of my job is, “wow, you wanna trade jobs?” But I don’t put all that much effort into describing it better and more concisely, and most people just aren’t equipped to handle the mediocrity that comes with doing purposeless tasks that cover your face with a veil of bullshit that you can only hide if you’re really in love with what you do. So I don’t bother.&lt;/p&gt;
+
+&lt;p&gt;Only once did I feel that I got through to someone when discussing the meat of my beef with my lifestyle. Usually, when I describe to people how despite the apparent glamour of constant travel there IS a downside that can only really be understood by those who’ve lived it, the reply comes in the form of a “well, ups and downs, right?” or “take the good with the bad,” and other, equally meaningless statements. But once when I told my brother, his response was very refreshing.&lt;/p&gt;
+
+&lt;p&gt;“Yeah, mate. You’re fucked,” he said.&lt;/p&gt;
+
+&lt;p&gt;Brilliant. Someone gets it.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/05/a-dutch-philosophy/&quot;&gt;A Dutch Philosophy&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on May 14, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Oldest Cast-Iron Building]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/04/the-oldest-cast-iron-building/" />
+  <id>http://localhost:4000/2009/04/the-oldest-cast-iron-building</id>
+  <published>2009-04-27T00:33:33+00:00</published>
+  <updated>2009-04-27T00:33:33+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;I guess I’d had a bad feeling about the whole thing from the moment I’d seen the teletext on the airport flatscreen back in that September air: “Pelosi — we have a deal.” Jesus. That’s horrible to even think about in today’s climate.&lt;/p&gt;
+
+&lt;p&gt;Looking back on that scene is like looking at a crowd of idle jesters with a Metor careening over the skyline overhead. If you’d listened to the report CNN put out that day you would’ve thought that the vote itself was a mere glorious formality, and that our capitalism was all but fixed and saved. Then I read the thing.&lt;/p&gt;
+
+&lt;p&gt;Yeah, I read it. It had a dank stink to it that I couldn’t describe. There were no specifics, and there was no substance; a thing totally open to interpretation; an animal of no instinct or nature. Just cold politics with a hot breath on the public, a fine mist that hung over their eyes just long enough to let the creeps get away. An old joke on the people it was about to rape.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fuck&lt;/em&gt;, I thought. &lt;em&gt;The end is near&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now, who-knows-how-many-billion dollars into the affair and so many other mad accusations thrown into this mess that I’ve had to buy two full-length books to wrap my mind around it and I’m still sorting through all the names. By the way, please note that in order to cover my expenses for these extra efforts, I will have to charge a small fee of $5, that can be payable by PayPal, even if you don’t have an account. The fee can be payed right after you finish reading the article…&lt;/p&gt;
+
+&lt;p&gt;What? No, sorry. That was a scam I ran into on craigslist the other day, but we won’t have any of that here. Those evil bastards could probably give the DOJ a run for their money, eh?&lt;/p&gt;
+
+&lt;p&gt;Anyway, the same senseless monsters that managed to get the economy from trillions in surplus to a full one-eighty in the red in just two administrations are now driving some of the efforts at opposing Obama’s massive relief efforts, spending projects, federal budget…whatever label you want to put on it. And all the crazy talk has dropped us off here, where the rubber meets the asphault, and the crazy meets the news. In a half-mad fury of head-turning craziness, Chris Matthews, of all the spinning, talking faces, refused to let that god-damned waterhead, Tom DeLay, get away with smooth talking nonsense about “fighting like a Texan”.&lt;/p&gt;
+
+&lt;p&gt;“You can’t se_CEED_ from the _UN_ion,” Matthews said, talking right over DeLay’s crap. “That’s the kind of talk we heard in 1861. Why are you talking like this, Tom?” He dropped his tone a bit, seemed disappointed. “Mr. DeLay, you know this isn’t a real conversation. This is not serious business.”&lt;/p&gt;
+
+&lt;p&gt;Which begs the question: what the hell happened to Chris Matthews that he suddenly decided to quit the machete game to become a journalist, eh? Did he just like Obama that much? Did he stop yelling long enough to discard the talking points from the White House and stand now where he belongs — between the executive and the legislative branches, shielding the people?&lt;/p&gt;
+
+&lt;p&gt;Well, once again, we’re back to that basic question, aren’t we? What side are you on?&lt;/p&gt;
+
+&lt;p&gt;Ain’t nothing rhetorical about it, kids. Get yourselves an answer.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/04/the-oldest-cast-iron-building/&quot;&gt;The Oldest Cast-Iron Building&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on April 27, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[One for Red, Two for White]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/04/one-for-red-two-for-white/" />
+  <id>http://localhost:4000/2009/04/one-for-red-two-for-white</id>
+  <published>2009-04-21T02:16:35+00:00</published>
+  <updated>2009-04-21T02:16:35+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;In New York people bend to the fitful will of public transit. That evening, I knew I was already late when I got to the bus stop but I wasn’t worried; my friends could stand to have another beer while they waited. And besides, they understand that in this city people need to be lenient when it comes to punctuality. Traffic is too thick and public transportation too fickle for anything else.&lt;/p&gt;
+
+&lt;p&gt;But even as I tried to board the bus I knew there’d be trouble.&lt;/p&gt;
+
+&lt;p&gt;“Do you stop on 110th and 3rd?” The old black man in front of me asked the bus driver. His dark suit and matching hat told of humble begginings and the worn edges of his briefcase exhaled with age. The guy looked like he’d stepped off the stage of &lt;em&gt;The Music Man&lt;/em&gt; in 1930 and had been walking ever since. At Houston, just before 1st street, the driver told him that no, he didn’t stop at 110th and 3rd. “But you take 3rd avenue all the way up, right?” The bus driver, with a heavy lower lip and and a tendancy to roll his eyes was showing all signs of being weary of the general public.&lt;/p&gt;
+
+&lt;p&gt;“Yeah, and I stop at 108th street and again at 111th street so you can get out at one of those.”&lt;/p&gt;
+
+&lt;p&gt;“Well, you can stop at 110th for me when you get there, right?” The driver sulked a bit deeper in his seat and looked at the old man with disbelief.&lt;/p&gt;
+
+&lt;p&gt;He shook his head and motioned with his right hand, not taking his eyes off the old man, still incredulous at the request. “Have a seat.” The old man hobbled off and grabbed a seat in the front. I waited patiently for him to move out of my way and that’s when I noticed — to my great surprise and interest — that so did the line of New Yorkers behind me.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Unexpected&lt;/em&gt;. I’d always thought these people to be animals, on a clock and unstable, mouths frothing with frustration at the slightest obstacle. &lt;em&gt;Hmm&lt;/em&gt;…&lt;em&gt; or maybe that’s just LA.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;What is usually a 10 minute ride so easily turns into 25 though, when at every stop it seems the bus has stopped for quadriplegics and septegenarians. At one point we were stopped for a good 10 minutes for the usual herding of the senior citizens, and on top of that the bus driver had to stand to break up a fight I hadn’t seen start at the front of the bus between two meth addicts about to fall over on school kids. That’s bad mojo on your bus and New York bus drivers don’t let that kind of shit fly. But again, I seemed to be the only one visually bothered by the disturbance. Maybe I just haven’t been here long enough.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;I got off at 35th street and walked into &lt;em&gt;Third and Long&lt;/em&gt;, the pub where my friends were waiting. There was already a thick fog in the night and the tip of the Empire State building a few blocks away was completely shrouded in mist and cloud. Peter and Jeff were right at the entrance of the pub, each cradling an almost finished ale.&lt;/p&gt;
+
+&lt;p&gt;“I’m excited,” Peter told me after the usual pleasantries, “this seems like such a New Yorky thing to do.”&lt;/p&gt;
+
+&lt;p&gt;“Well, that makes for two of us,” I told him, “I’ve never been to an art show either. I have no idea what to expect. But Em told me there’d be free booze and probably food, so…”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, so, who’s this Em chick?” Jeff asked. I looked at Peter, figuring maybe he would’ve mentioned it already. But no.&lt;/p&gt;
+
+&lt;p&gt;“She was in our highschool class,” I told him. “We weren’t friends or anything but, you know how facebook can be.”&lt;/p&gt;
+
+&lt;p&gt;“Ahh,” he said, “one of those.” Jeff finished his beer. I pondered getting one myself, but it didn’t look like this was the place to stay if we wanted another round before hitting up this supposed art show. ”Where is this place we’re supposed to go, anyway?” Jeff asked.&lt;/p&gt;
+
+&lt;p&gt;“It’s, uh, what’d I say earlier…529 Third?” I mumbled, pointing up the block. “Yeah, yeah…it should be this block up here. Have you guys checked it out?”&lt;/p&gt;
+
+&lt;p&gt;“We walked around the block but didn’t see anything obvious,” Peter said.&lt;/p&gt;
+
+&lt;p&gt;“Well, shit,” I said, “then, let’s finish those beers and go find this place, eh? They have free booze over there…”&lt;/p&gt;
+
+&lt;p&gt;“And food, I hope,” Jeff said. “They’d better, anyway. All I ate today was a gyro in the morning…”&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;After some ten thin slices of mozzarella, and three or four of the fancy cheeses that came around less often, the four glasses of wine we’d each had started kicking in. I’d wanted to flee as soon as I saw the place. It was a small frame shop where everything had bee pushed to the back to create mingling space in the middle. It was chock full of unattractive people that seemed overdressed in order to impress themselves.&lt;/p&gt;
+
+&lt;p&gt;The walls were covered in colorful childish abstractions of birds and feathers by a guy named Britto. It wasn’t bad and I didn’t dislike it, but it wasn’t anything I was really impressed with either. There were also three or four pictures taken in different places around the world — cheap, low-res pictures that didn’t belong on someone’s screensaver, let alone at an art gallery. And then there was one painting by The Subway Artist.&lt;/p&gt;
+
+&lt;p&gt;It was his show, mind you.&lt;/p&gt;
+
+&lt;p&gt;One.&lt;/p&gt;
+
+&lt;p&gt;Painting.&lt;/p&gt;
+
+&lt;p&gt;When we’d first arrived Em approached our band of out-of-place misfits and introduced herself to Peter and Jeff. I was surprised she hadn’t remembered either one of them from highschool, but I guess that made the conversation a little fresher to start off with. After plenty of wine and the aforementioned bits of cheese, I think they all started remembering things a bit more clearly, like who’d had which teacher for what subject, who people had dated and other contrived and trivial matters. I started getting bored.&lt;/p&gt;
+
+&lt;p&gt;“So after I graduated I thought, ‘why not do something different’, you know? So that’s what I did! I decided to come out here and become, you know, a New Yorker,” she said with all the rotten glee in the world. “And it was hard at first, you know, like meeting people in the city, and learning, like, what to wear and, like, where to go but things are really going well for me now and my group of girlfriends, we totally go out together all the time now and blah blah blah…”&lt;/p&gt;
+
+&lt;p&gt;I took a deep breath and exhaled long and loud, and Peter gave me a stern look of disapproval, but Em left to mingle somewhere else, seemingly unaware of my hostility.&lt;/p&gt;
+
+&lt;p&gt;“Take it easy, man.” Peter told me once she’d left. “These are people we know, and our circles are small. These things come back to bite you in the ass.” I rolled my eyes. “And I don’t want you fucking writing about this either, you dramatic bastard.” Fine, I lied.&lt;/p&gt;
+
+&lt;p&gt;Suddenly, and for no reason I could understand, she returned, half-drunk in an instant, dragging in her arms a thin black man. The Artist, I assumed.&lt;/p&gt;
+
+&lt;p&gt;“You guys, this is Enrico — he’s the artist,” she shouted, though the room was not so loud. Her voice was starting to slip from her control and I guessed that she would soon start yelling from all the cheap wine she’d had while mingling with us. I could hardly blame her. “Enrico, these guys went to highschool with me, but it’s not like we were ever friends,” she slurred, and then turned to us, “right?” and we weren’t sure what to say. It was true, and I felt the same way, but who wants to call attention to that ten years later? It was a rattling affair to have to put up with and Enrico’s graveyard breath wasn’t making things any easier. We were glad when he slid off to mingle with some other clique and Em disapeared with him.&lt;/p&gt;
+
+&lt;p&gt;“I like his style,” I told Peter. “It’s got a really industrial Van Gogh thing going on and I like that he uses Subway maps for his canvas.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” he said, “I kinda like it too.” He sipped at his red wine and Jeff offered him a piece of cheese, which he took.&lt;/p&gt;
+
+&lt;p&gt;“I think it’d be cool if he did a Warhol thing and actually painted a Subway map ON a Subway map,” I said, thinking out loud.&lt;/p&gt;
+
+&lt;p&gt;Peter’s eyes beamed and he finished his wine. “That’s a great idea,” he said, putting his plastic cup down. “You should totally tell him that!” I dismissed him with a spurnful roll of the eyes.&lt;/p&gt;
+
+&lt;p&gt;“Right,” I said. “I’m sure artists love having wayward drunks come in from the streets of Murray Hill and tell them how to paint.”&lt;/p&gt;
+
+&lt;p&gt;“Well, he looks like he needs some ideas, wouldn’t you say?” Jeff suggested. Which was true. The man did, after all, have only one painting at his own gallery showing.&lt;/p&gt;
+
+&lt;p&gt;“Guys, I need to eat something soon,” Jeff continued, starting to slur his words. “I think I’ve had five glasses of wine and I haven’t eaten anything. I might fall over soon.” But Peter wasn’t having it.&lt;/p&gt;
+
+&lt;p&gt;“Get yourself together, man. We’ll get out of here soon enough.” Jeff consented silently, looking sullen and worn with heavy eyelids from the red wine. Peter looked at me and lowered his voice a bit. “I’m rethinking this highschool reunion thing,” he said. I knew he’d been excited for a five-year reunion that never happened but he was nervous about the ten-year one coming up. “Even if I’m in the San Francisco in October, I think there’s very little chance of me showing up. Not after what I’ve seen here tonight.”&lt;/p&gt;
+
+&lt;p&gt;“You bet,” I said, thinking of how tired I was of having to condense the last ten years of my fast life into thirty seconds of chit-chat every time I met someone from highschool. And then to have to listen to them go on about their uninteresting existences, what jobs they’ve had, why they’re in New York, what their cat’s name is and shit — Jesus. It was all I could do to keep the paintings up on the wall instead of taking them down and slamming them over their boring faces, maybe adding some color to their outlook.&lt;/p&gt;
+
+&lt;p&gt;When Em’s short blond friend — Heidi from Iowa, I think — started talking to me about her boyfriend and how she loved having someone she needed in her life, I pulled out the stops. Normally I reserve the harsher, more pointed rhetoric for those friends of mine who have proven — through continued tolerance of my presence — that they can handle it without throwing me into a ditch out of embarassment. But she was asking for it with talk like that in a crowded place, when my head was full of wine and I was bored of the crowd. Her bright blue eyes, young and shallow, had a strange, almost opiate constriction to them, and if she wasn’t so calm and bland I would’ve known instantly that I was dealing with some kind of cocaine or morphine freak.&lt;/p&gt;
+
+&lt;p&gt;“Nonsense,” I told her, sometime around my sixth glass of wine. “Necessity is the clearest sign of weakness.” I felt detached from the scene. This was not a person I was speaking to, it was an ideal, one I felt at odds with. I could feel a look callous indifference crawling on my face, and didn’t bother to register her reaction to it.&lt;/p&gt;
+
+&lt;p&gt;Then I felt Peter, who’d been standing just behind me, give me a nudge to take it easy again. I nudged him back.&lt;/p&gt;
+
+&lt;p&gt;“It’s better to wake up every day and choose to once again have that person in your life than to be resigned to it,” I told her, and sipped my wine. She looked slightly scared, like she’d never considered the prospect before. ”Otherwise it’s all just a cage and you’re just another sap waiting for your time to run out. I think you’ve got a serious problem on your hands, there Iowa,” I told her. “A goddamned ticking bomb.” Her face went blank with disbelief, confusion and the early signs of trauma. She put her empty glass on top of the water cooler by the entrance and muttered something about me not telling her boyfriend that, giving him ideas because she didn’t know what she’d do without him.&lt;/p&gt;
+
+&lt;p&gt;“Case in point,” I told her, “But you’ll be fine. I probably wouldn’t have this conversation with him anyway.” She exhaled and her shoulders sank, and then she fled to get more wine. Peter turned to me when she’d left and shot me a glare of what-the-hell-was-THAT.&lt;/p&gt;
+
+&lt;p&gt;“What the hell was THAT?” he asked me. “Did you have to shatter that poor girl’s sense of direction?” I caught Heidi looking at our group from the other side of the room where she was talking with Em, who was looking in our direction with nothing but contempt. Who KNOWS what kind of stories that sad girl was telling about us.&lt;/p&gt;
+
+&lt;p&gt;“Don’t worry,” I told him. “She won’t bother us anymore with idle chatter. Besides, she’ll wake up tomorrow and forget all about it. She won’t change.”&lt;/p&gt;
+
+&lt;p&gt;As the evening wore on and more bland types filled the room we started feeling uneasy and out of place. Most of them seemed to be Em’s friends but I didn’t know Em all that well, nor did I know what kinds of friends she had. Jeff was becoming harder to hold up vertically and he was very hungry. Ers had finally arrived and we were in the mood to get out of there.&lt;/p&gt;
+
+&lt;p&gt;“You guys, I know a good bar around here where we can really chill for a while,” Ers announced.&lt;/p&gt;
+
+&lt;p&gt;“Please tell me they have food,” Jeff whined.&lt;/p&gt;
+
+&lt;p&gt;“They’ll have food,” Ers assured him. “Chips, and meat and stuff. Is that alright?”&lt;/p&gt;
+
+&lt;p&gt;“&lt;em&gt;ohmygodthanksiloveyouers&lt;/em&gt;,” Jeff mumbled.&lt;/p&gt;
+
+&lt;p&gt;We walked down third avenue and got Jeff some pizza, to make sure he didn’t keel over before the next round. Murray Hill is too full of young girls fresh out of college and still on daddy’s credit cards for us to comfortably drag a drunk body through that place. These people have limits and you have to take it easy with that kind of ugliness when the streets are crawling with primped twenty-two-year-old children who are there to ‘experience New York’.&lt;/p&gt;
+
+&lt;p&gt;We kept walking and the air got colder. After six or seven blocks we ended up at &lt;em&gt;Rodeo Bar&lt;/em&gt;, a place I’d heard Ers talk about before, and stepped in just as it started to rain outside. No one had cash so I bought Ers and Peter a good Irish beer, and asked the Texan waitress to get Jeff some water. I couldn’t hear anything through the blare they were playing before the band started but I saw her scoff. The boys all headed upstairs to get us a couch but I saw the band setting up and told them I’d catch up to them.&lt;/p&gt;
+
+&lt;p&gt;The country band started playing their jumpy tunes. It would’ve kept my interest if they’d been a little more genuine, but their lead singer was too big of a douchbag to ignore. Their guitarist and bassist were jamming in the back by the drums, and they were tight. The pretty belle flirting with the violin was hot, standing on stage with a wide stance and short skirt, running the bow softly across the twangy strings. But it would’ve been better if she’d actually played the thing instead of just providing backup vocals.&lt;/p&gt;
+
+&lt;p&gt;Oh well. When I got upstairs the three gents were having a sinister-sounding chat that involved bets, dares and potential pay-offs. Jeff looked like he was passed out on the couch but was clearly a very vocal part of the conversation.&lt;/p&gt;
+
+&lt;p&gt;“I’m just saying, Ers, I’m offering you $10 to ask her,” Peter said, putting his beer down on the table in front of us.&lt;/p&gt;
+
+&lt;p&gt;“Ask her what?” I asked them.&lt;/p&gt;
+
+&lt;p&gt;“I’ll give you $20, Peter, if you feel her up and let me know,” said Jeff’s body on the couch. I looked over at the group next to us. One of the girls was dressed in a tight red tank top, leather pants and black boots. Strange, since all of her friends were in jeans and sweatshirts with names like Vanderbuilt and Purdue. But the attention grabber was her chest — tits so terrifyingly perfect they could only exist in Victoria’s Secret catalogues or on the streets of LA.&lt;/p&gt;
+
+&lt;p&gt;“Those?” I asked them, and they all nodded proudly, unsure of what they had to be proud of, but proud nonetheless. “Listen. There is no way in this crippled, half-mad world that those things are real. Nature doesn’t work like that. You’d have to breed Gisele Bündchen with Rebecca Romijn for a thousand generations and you still wouldn’t get that kind of perfection. No way.”&lt;/p&gt;
+
+&lt;p&gt;“Yes!” Ers shouted, and slapped me a high-five. “Thank you! That’s what I’m saying. There’s no way.”&lt;/p&gt;
+
+&lt;p&gt;We all considered it for a minute.&lt;/p&gt;
+
+&lt;p&gt;“I think they could be real,” Jeff’s corpse said, still unmoved on the couch.&lt;/p&gt;
+
+&lt;p&gt;And then we took him outside and put him on a train that we hoped would get him home.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Drunk and exhausted, I rode my own train home later that night with Ers.&lt;/p&gt;
+
+&lt;p&gt;“You know, Ers, some of us are teachers, doctors, musicians and what not, and we roll along fulfulling these noble pursuits. But it’s weird — drunk as we all are now, next week Peter’s going to be teaching Algebra and Calculus to a minion of children, idiots and some eager young minds. You know what I’m saying?”&lt;/p&gt;
+
+&lt;p&gt;“I haven’t the foggiest,” he said. “I could use another pizza though, or more peanuts or something.”&lt;/p&gt;
+
+&lt;p&gt;“That’s what I’m saying. You’re a drunken mess right now, and so am I. But tomorrow you’ll be analyzing the stock value large multi-nationals and I’ll be saving my clients millions of dollars through a well-practiced speech that I may as well not even understand. We do these things despite the fact, or alongside the fact that tonight we were in some bar in midtown getting sloshed and guessing whether this poor girl has real breasts. We travel and do weird things on the weekends, despite are outlandish professions. But all those people at the gallery tonight, and probably most people we’ve known since highschool, those bland and uninteresting hacks…what are they &lt;em&gt;doing&lt;/em&gt;? What’s their &lt;em&gt;point&lt;/em&gt;?”&lt;/p&gt;
+
+&lt;p&gt;“You’re talking too seriously, man. Have you been watching &lt;em&gt;Frontline&lt;/em&gt; again?”&lt;/p&gt;
+
+&lt;p&gt;“…yeah. So?” He ran his fingers through his crumpled hair smiling and leaned over on his knees, looking at me sitting across the car from him.&lt;/p&gt;
+
+&lt;p&gt;“We move through the world day by day, and change things around us slowly. Including ourselves. But so does every one else, man. Some people change more than others and some people are luckier than others, but every one changes over time. You’ve gotta give ‘em more of a chance.”&lt;/p&gt;
+
+&lt;p&gt;I thought about it for a sec. “Wow, Ers. That’s pretty deep, calm…mature, even. Does that mean you give everyone you meet the benefit of the doubt?”&lt;/p&gt;
+
+&lt;p&gt;“I think most people deserve at least that much, yeah.” I smiled at him.&lt;/p&gt;
+
+&lt;p&gt;“What about that guy that was such a tool in high school that you agreed to be friends with on facebook just so you could be the first to know when his life tanks? What was his name? Anthony…something?”&lt;/p&gt;
+
+&lt;p&gt;“Roberts?”&lt;/p&gt;
+
+&lt;p&gt;“That’s the chap.” He didn’t even think about it.&lt;/p&gt;
+
+&lt;p&gt;“No. He’s just a douchbag.”&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/04/one-for-red-two-for-white/&quot;&gt;One for Red, Two for White&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on April 21, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Mad View From Up High]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/04/mad-view-from-up-high/" />
+  <id>http://localhost:4000/2009/04/mad-view-from-up-high</id>
+  <published>2009-04-14T23:07:04+00:00</published>
+  <updated>2009-04-14T23:07:04+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Stop me if you’ve heard this one.&lt;/p&gt;
+
+&lt;p&gt;The kitten hadn’t seemed to like me from the moment I entered my new flat. It was already there and I’d assumed it belonged to the girl who was to be my new flatmate. She was in the kitchen cutting squash when I arrived but she had two guests who were in the living room rolling joints and sucking strips of acid.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Great&lt;/em&gt;, I thought. &lt;em&gt;This should be fun&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The apartment was one of the highest I’d been on, but it had a shitty view of Queens and the the Throgs Neck Bridge out to Long Island. Nothing worth describing because it doesn’t matter in this dream. It was just a flat expanse of grey and brown, with that weird hint of blue that happens when it’s slightly overcast and the cloud cover is meek enough that it hints at the colors of the sky above. Whatever.&lt;/p&gt;
+
+&lt;p&gt;Anyway, that fucking cat was freaking me out, leaving the room whenever I entered, then coming close for a stroke and fleeing before I even moved to do it. I’m not a cat person anyway and mistrust everything they do from motives to actions, but this was, after all, a kitten. I couldn’t imagine that its instincts for deceit and it’s capacity for treachery were developed enough to screw with me like that.&lt;/p&gt;
+
+&lt;p&gt;I introduced myself to the two men in the living room. One of them, a white haired man in his forties or fifties looked up from what he was painting and smiled eagerly as he looked up at me. He had terrible teeth, yellowed and crooked and was miserably unshaven. He said hello with a liverpudlian accent and seemed basically normal, but then said almost nothing else the entire time. He seemed terribly withdrawn, almost fearful of what might happen next, but he continued painting. The other one had fallen backward off his chair and was writhing on his back, making yelping noises like a strange porpoise. His face was red and I knew I was dealing with a dope fiend. But for now he seemed harmless and I stepped over him to go into the kitchen.&lt;/p&gt;
+
+&lt;p&gt;“Eeeee, eeee!” he said as I did so.&lt;/p&gt;
+
+&lt;p&gt;She had long strawberry blond hair that was familiar and warm. Her pale face was empty and small, but she had a sweet voice when she welcomed me.&lt;/p&gt;
+
+&lt;p&gt;“Those things are impossible to cut,” I told her, which was true. But she paid no attention and kept hacking away at the squash with a knife that was thin and long. I put my things down and walked back out to the living room. The two guests were gone and the kitten was in the middle of the room, now bare of any furniture or decoration. I took a step towards the little cat.&lt;/p&gt;
+
+&lt;p&gt;It screeched and lept straight up in the air, right at eye level and hissed on it’s way down.&lt;/p&gt;
+
+&lt;p&gt;“Aaah!” I shouted, “what the hell is wrong with you, you evil bastard?” It ran to the wall and I followed, bent low to the ground, trying the calm the thing down. But it was freaking the fuck out, dashing from wall to corner, from wall to wall, hissing and leeping, seemingly trying to evade me.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t understand it.&lt;/p&gt;
+
+&lt;p&gt;As suddenly as it had started, the kitten stopped in a corner and looked at me with careful eyes. The apartment was still. A moment passed and it licked its paw. I stood looking at it.&lt;/p&gt;
+
+&lt;p&gt;Then for no reason on this Earth it attacked my face and removed something from my head. I watched it land on the other side of the bare and brightly lit room with something on its face.&lt;/p&gt;
+
+&lt;p&gt;“My glasses!” I started, surprised because I don’t wear glasses — except, you know, when it’s both a dream or an interesting literary device. The cat darted around me and into the kitchen, where I could hear the muffled sounds of an excited conversation through the walls of the living room. I followed the cat into the kitchen, grabbing the machete I saw sitting over the refridgerator.&lt;/p&gt;
+
+&lt;p&gt;Shut up — it’s &lt;em&gt;my&lt;/em&gt; dream.&lt;/p&gt;
+
+&lt;p&gt;When they noticed me walking in with a cold two-foot blade the width of a butcher knife and pointing it at the kitten with rage in my eyes, they fell silent. I explained that it took my glasses and I saw the kitten under the table, wearing them, the little fucker. It would’ve been hilarious if I hadn’t been disturbed by it at the time.&lt;/p&gt;
+
+&lt;p&gt;“Why not?” said the dope fiend. “And you must get it back from the beast. You cannot trust these animals.”&lt;/p&gt;
+
+&lt;p&gt;“Right,” I said, and heard a noise rustling behind me. “Aagh!” I shouted, kicking the chair folded against the wall behind me in that barest of kitchens. “Did you hear that?” I asked them. “What the hell was that?”&lt;/p&gt;
+
+&lt;p&gt;“Never mind that now,” the fiend said, calmer now and in control. “You have to calm down…just get your thing. And, uhh, don’t listen to what these people say.” He pointed to the girl and the silent Brit, his deep voice making me nervous and confused.&lt;/p&gt;
+
+&lt;p&gt;I walked slowly toward the cat, trying to keep the blade pointed at it and steady with a neutral expression on my face. Cats can sense fear and anxiety and they want no part of it, I’ve found.&lt;/p&gt;
+
+&lt;p&gt;With light feet and a precise thrust I managed to slide the blade underneath the feline’s paws and it froze in place. I flicked the machete and the kitten flew across the room. I looked over at the two maniacs on the table, one casting paint blotches of paint on the kitchen wall and the other smoking frantically as he covered the table with menacing words. They stopped for a second and looked at me, some more surprised than others.&lt;/p&gt;
+
+&lt;p&gt;“Too much?” I asked them, the machete still in my hand, but I woke up before they responded.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;You know those times when mothers tell you to get enough sleep?&lt;/p&gt;
+
+&lt;p&gt;You should listen to them.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/04/mad-view-from-up-high/&quot;&gt;Mad View From Up High&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on April 14, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Caught in the Rain of the Night]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/04/caught-in-the-rain-of-the-night/" />
+  <id>http://localhost:4000/2009/04/caught-in-the-rain-of-the-night</id>
+  <published>2009-04-11T18:17:20+00:00</published>
+  <updated>2009-04-11T18:17:20+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;My mind has been slamming into itself all day, unable to retain a coherent thought pattern for more than ten minutes at a time. Very unproductive. Which is probably why I had all kinds of miserable ideas that I should be writing about AIG and the incredible mess we’re all struggling to sand-bag our way out of, not unlike the water-logged folk from around the Red River in North Dakota.&lt;/p&gt;
+
+&lt;p&gt;But it’s been too much on that, I fear — my loathings and suspicions can’t stay on that track too long or I’ll just end up killing something. Politics is one thing — even though I’ve lost one too many friendships over the mindless gibberish that comes out of Washington, I can at least enjoy watching the beatings the greedheads give each other at the end of the day on the Daily Show. But &lt;em&gt;financial politics&lt;/em&gt;? Savage rantings and twisted numbers? Jackasses who fuck watermelons and then preach Jesus left running the show, paying themselves to keep driving more and more decent people straight off the cliff?&lt;/p&gt;
+
+&lt;p&gt;No way man. We have people for that — let Dylan deal with it. That shit has never worked for me and I have other toxins I prefer.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Jeff and Toni walked in while I was wrapping strips of bacon around chicken breasts. That’s an evil little secret my grandfather taught me when we barbequed in Brazil so that chicken breast feels soft and juicy instead of rigid and flaky. Jeff and Toni had brought a totally unnecessary bottle of champagne, which we promptly put on ice before opening the Charles Shaw, and I doused the chicken and the bacon in a thin Sam Adams lager. Then I opened another one and threw that one too because, well, every chicken deserves another beer.&lt;/p&gt;
+
+&lt;p&gt;That’s just how I feel.&lt;/p&gt;
+
+&lt;p&gt;It was 7pm on Saturday night of March 28th…90 minutes before Earth Hour, a phenomenon that I think was created almost entirely in order to produce a cool video of all kinds of major structures on the planet shutting down into almost total blackness. See, right around the time that we would be done with dinner, people from all over the country and the world were going to be turning off as many devices as possible for an hour. They would do this in the solidarity that comes with being a part of the effort to escape from the hell we’re sending outselves to. Symbolic, of course, but I’m not opposed to the idea of taking a walk in the middle of the dark night — &lt;em&gt;real&lt;/em&gt; dark — a blackness shrouded in mist as Brooklyn was that Sunday. I knew that in ‘08 things like the Bay Bridge in San Francisco went totally dark, and many buildings in Manhattan went black as well along with stadiums in Munich and Beijing and opera houses in Sydney. I openly admit that I was anxiously looking forward to the moment when all of the old-style lamps in the park would get put out and outside my bedroom window there would be only trees and an unseeable empty vastness.&lt;/p&gt;
+
+&lt;p&gt;“We should play scrabble by candle-light,” Toni suggested, snapping me out of my bacon-wrapping reverie.&lt;/p&gt;
+
+&lt;p&gt;“I tried that at Fat Cat in the West Village a few weeks ago,” I told her, staying focused on my bacon. “It’s a terrible idea. I had to squint for 2 hours and after I got out of that dark hole and into the Manhattan night I tripped over a hooker and fell on top of three wall street analysts before my eyes adjusted.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, maybe we’ll just go for a walk in the park,” Jeff said.&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” I said, and started chopping carrots.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;“When’s this Save the Earth Hour thing happening?” Bryce asked while I was peeling garlic.&lt;/p&gt;
+
+&lt;p&gt;“8:30,” I said, still looking down at the sink to avoid clogging it with that annoying garlic skin.&lt;/p&gt;
+
+&lt;p&gt;“Umm,” I heard Laura say at the other end of the crowded kitchen.&lt;/p&gt;
+
+&lt;p&gt;“After we eat we’ll just head down to the park and enjoy the darkness for a bit,” I continued.&lt;/p&gt;
+
+&lt;p&gt;“Umm,” Laura said again. “Do you mean 8:30 as in two minutes from now? It’s 8:28.”&lt;/p&gt;
+
+&lt;p&gt;“Is that clock right?” Jeff asked, looking up at the Charlie Chaplin clock we have in the kitchen.&lt;/p&gt;
+
+&lt;p&gt;“Umm,” I said.&lt;/p&gt;
+
+&lt;p&gt;“Shit, I forgot to tell you that we forgot to set that clock forward a few weeks ago,” Bryce said. We all looked at each other.&lt;/p&gt;
+
+&lt;p&gt;“Shit, man,” I said to Jeff. “Looks like we’re cooking in the dark.”&lt;/p&gt;
+
+&lt;p&gt;“I’ll get the candles,” Laura said, jumping up from the nook table and Bryce went with her.&lt;/p&gt;
+
+&lt;p&gt;“Is that a good idea?” Toni said to us. I shrugged and sipped my wine.&lt;/p&gt;
+
+&lt;p&gt;“Worse things could happen,” said Jeff.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;After dinner we sat around the table with three other friends who’d arrived in the dark hour when we’d all decided to save the Earth. Jess, the world’s smallest doctor and Mark, the world’s gayest nurse entertained each other by discussing women’s rugby. Joe, the attending at the hospital and the boss of the two novelty health care specialists across the table from me was dancing emphatically to some song by pink while singing Beyoncé lyrics. Jeff nudged me under the table.&lt;/p&gt;
+
+&lt;p&gt;“Are you sure these people are doctors, man?” He asked me.&lt;/p&gt;
+
+&lt;p&gt;“Trust me,” I explained, “I know Joe seems a little off right now, but that’s just the five Tanquerays he’s had. He usually dances to the same song he’s singing.”&lt;/p&gt;
+
+&lt;p&gt;“But the singing and dancing is normal?”&lt;/p&gt;
+
+&lt;p&gt;“Well,” I said, looking for the right words. “…normal…”&lt;/p&gt;
+
+&lt;p&gt;“Normal,” Toni interjected, slapping the table to the beat of his dancing and never really looking over at us, “is just what everyone else is, and you’re not.” I looked at Jeff, surprised to hear her say it.&lt;/p&gt;
+
+&lt;p&gt;“She’s drunk too,” he admitted.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;I was hit with the strange realization that I was in a room with three doctors and we may as well have been college students. I remembered when I first met Trevor’s teacher friends when they were still a crew in the Haight. Young girls and pretty as hell, they’d all just moved out to the city, making a place for themselves as adults in that fog-ridden place. Talk about feeling like you’re not a kid anymore. You can’t be a kid if you go drinking with elementary school teachers.&lt;/p&gt;
+
+&lt;p&gt;…on school nights.&lt;/p&gt;
+
+&lt;p&gt;You can be a kid and run in to your 2nd grade teacher at the grocery store. That’s weird as hell but it happens. You can have a beer with your college professors and still not quite grasp that adult feeling. But you can’t be throwing back &lt;em&gt;Tecates&lt;/em&gt; – in a &lt;em&gt;can&lt;/em&gt; – with elementary school teachers and not feel like a part of you has died.&lt;/p&gt;
+
+&lt;p&gt;It was a weird night. It had started as a happy hour with Laura’s work friends and though a happy hour in manhattan is as expensive as anywhere on new years in San Francisco, we’d had our fun’s worth. People talked about patients and asked me what I do for a living.&lt;/p&gt;
+
+&lt;p&gt;“I’m a…”&lt;/p&gt;
+
+&lt;p&gt;But I never know the best way to answer that questions. You finish it. I’ve gotten used to telling people I’m a drug dealer but that’s getting tiring too. It’s so weird meeting people with real jobs that I get a little anxious when I think about the odd arrangement I seem to have with the world concerning how I make my dollars. Which begs the discussion about what it means to have a real job in the first place but I’m not in much of a mood for that kind of talk now. Maybe one day I’ll write a book about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sure, goose.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Later that night I was cleaning the kitchen with Bryce and Laura. We’d left the lights off, the candles still burning in the dark. Cleaning things always makes me pensive and puts me in a philosophical mood. My mind drifts, and in that soft darkness, it was really going places.&lt;/p&gt;
+
+&lt;p&gt;“When do we get to feel like we’re grownups?” I asked them without looking up.&lt;/p&gt;
+
+&lt;p&gt;“Grownups?” Bryce smiled at me. “I don’t think grownups use the term ‘grownups’.” Laura stopped wiping the counter and seemed deep in thought at that.&lt;/p&gt;
+
+&lt;p&gt;“Yeah,” I said, “I guess they don’t.”&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/04/caught-in-the-rain-of-the-night/&quot;&gt;Caught in the Rain of the Night&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on April 11, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Purpose Beyond Reason]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2009/04/purpose-beyond-reason/" />
+  <id>http://localhost:4000/2009/04/purpose-beyond-reason</id>
+  <published>2009-04-07T04:22:19+00:00</published>
+  <updated>2009-04-07T04:22:19+00:00</updated>
+  <author>
+    <name>Pedro Ávila</name>
+    <uri>http://localhost:4000</uri>
+    <email>writingtraveler@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The sound of bubbling, boiling water rose suddenly and the the white teapot anchored to the wall of the hotel clicked off with a muddled &lt;em&gt;thwack&lt;/em&gt; of plastic on plastic. The mirror in the hotel room was placed just above the electric kettle and was all fogged up in the steaming. The clarity in my mind turned to a cloudy vapor eerily similar to my tea water.&lt;/p&gt;
+
+&lt;p&gt;I’ve been sitting at my laptop for four to five hours a night for the last five weeks now trying to start a new story. Nothing comes out. Two, three, four in the morning; I stare at the LCD screen, pound away, drink more coffee, more tea, more whiskey or — you know — whatever’s on ice.&lt;/p&gt;
+
+&lt;p&gt;Oh, sure, all the stimulus in the world comes in when you’re a professional consultant for a major software company, but you never have &lt;em&gt;time&lt;/em&gt; to jot it down. And when you’re a pathetic void of short-term memory like I am, there are few thoughts that you hold on to for very long. Besides, there’s always something else in this life of constant movement: the phone that rings, buzzes with text messages from faraway lands; a chat request comes in. Shit.&lt;/p&gt;
+
+&lt;p&gt;I close my browser, press buttons, turn off connections, rip out the wireless card. Then the tea clicks, or you get hungry. Or you remember that you’re in a new city this week and start to wonder why the hell you’re still pent up in your hotel room of all places?&lt;/p&gt;
+
+&lt;p&gt;And the next thing you know you’ve lost that momentum you had. The words you knew would be great when you finally put them on paper.&lt;/p&gt;
+
+&lt;p&gt;But it’s happened before. Oh well.&lt;/p&gt;
+
+&lt;p&gt;I ended up putting my laptop aside and got up to get my tea. I needed something to warm up my fingers, which seem to be the only part of my body that’s reptilian in nature and can’t warm itself. I guess it comes from living for large parts of the day with my hand over a friction machine like a notebook’s keyboard, especially one as poorly designed as this one. I don’t know if it’s the battery or the hard drive or the processor they they decided to place directly beneath your palms. But whatever the hardware, it’s no wonder that my body heat regulators on my hands are completely shot to shit.&lt;/p&gt;
+
+&lt;p&gt;Dammit, who &lt;em&gt;designed&lt;/em&gt; these things? And why am I writing about it?&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Dammit, we got off track there. That’s ok. We’re back now and things are going to move.&lt;/p&gt;
+
+&lt;p&gt;Now that we’re done with that digression, where should we go?&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Jesus, I’ve been doing this for a long time.&lt;/p&gt;
+
+&lt;p&gt;Remember that hotel room? Was it in LA? My flight had landed at one in the morning on a red-eye straight from Orlando. After an hour of traffic I arrived at the Sheraton Hotel in downtown Los Angeles at two in the morning. The behemoth was a concrete monstrosity of columns with no end. And when eventually I found my room there was a moaning and knocking against the wall that wouldn’t stop — and it was a bad time for that kind of noise on the brain. Too much violent sex going on in the room next door. She was clearly faking it and he could clearly care less. He went on, grunting and howling to her forced moans and screams saying filthy things and asking for more. &lt;em&gt;A bad porn movie, maybe?&lt;/em&gt; I thought. &lt;em&gt;No way this is my reality.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Another week at around the same time frame — where was I? I think it was in a Marriott but in a room further south across The Grid in Brea by the Cal State Fullerton. It was three in the morning but there was a conversation nearby — what was it,exactly? The male voice was in its late 50′s or maybe his early 60′s and had a weak quiver behind its masculine age. She couldn’t have been older than 38. If that. And dumb as a rock.&lt;/p&gt;
+
+&lt;p&gt;The conversation might’ve gone for hours if left to its own devices. The two talked openly of her breast implants in the hotel hallway outside of my room. I could only guess how many hair tosses she gave him, how many open shots to feel her up right there in that beige corridor of gloom. Like a withering tree he stood, firmly interested but unable to move beyond his reluctance. Maybe he had a wife at home; maybe kids he loved. Who knows? He wanted so badly to give it to her, that much was clear. He was ready and willing to just do her hard and dirty, pressed against yellowing wallpaper and ugly carpeting, but something held him back viciously. What was it…?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Who cares? IT’S THREE AM&lt;/em&gt;, I remember thinking. I’d poked my head out into the hallway and pointed my eyes in their direction, hissing and staring until they disapeared from view.&lt;/p&gt;
+
+&lt;p&gt;In Kansas city I’d had to order up a small bottle of Nordic vodka to sip as I leaned out the window of that 5th story building. Out in that flat expanse that reminded me of the stark emptiness of the bottom of the ocean I’d had my first glimpses of what life on the move was going to be like, witnessing the reality of people who accepted their own existence because they simply didn’t know any better. Then snow began to fall and didn’t stop for 3 days, mixing with the ash and sorrow that midwest hole exuded. And since then I’ve seen it again and again, in places all over the world.&lt;/p&gt;
+
+&lt;p&gt;How much weirdness can a man take in his short life and at what point does it become too much, this notion of chasing freedom, of chasing happiness? At what point is the courage to do it, not matter the odds, no matter the perils, no matter the heartbreak to you or others pass the point of practical and into the realm of wrecklessness, or worse, childish?&lt;/p&gt;
+
+&lt;p&gt;I wonder at all the faces I see in airports, restaurants, hotels and side streets. Terrifying genius in some, creepy emptiness in others. And most of them unimpressive. I wonder if I will tire of looking.&lt;/p&gt;
+
+&lt;p&gt;Meh.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/04/purpose-beyond-reason/&quot;&gt;Purpose Beyond Reason&lt;/a&gt; was originally published by Pedro Ávila at &lt;a href=&quot;http://localhost:4000&quot;&gt;Written Rhetoric&lt;/a&gt; on April 07, 2009.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
